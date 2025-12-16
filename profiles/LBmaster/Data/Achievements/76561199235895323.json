@@ -1,0 +1,17 @@
+{
+    "version": 0,
+    "steamid": "76561199235895323",
+    "name": "Gailamir",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "kill:zombie": 6,
+        "distance:walk": 1,
+        "bullet:shot": 2,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

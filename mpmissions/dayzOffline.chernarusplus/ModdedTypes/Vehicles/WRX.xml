@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="SubaruImprezaWRXF4">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Cargo1">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Cargo2">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Chrome">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_CoDriver">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Driver">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Gray">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Green">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Hood">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Purple">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Trunk">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="SubaruImprezaWRXF4_Wheel">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="SubaruImprezaWRXF4_Wheel_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="SubaruImprezaWRXF4_Wheel_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="SubaruImprezaWRXF4_Wheel_Purple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="SubaruImprezaWRXF4_Wheel_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="SubaruImprezaWRXF4_White">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

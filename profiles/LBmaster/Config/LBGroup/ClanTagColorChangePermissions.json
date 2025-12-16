@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "deleteEmptyUses": 0,
+    "authorizedPlayers": [
+        {
+            "steamid": "Steamid1",
+            "comment": "Test Infinite Uses",
+            "remainingCount": -1
+        },
+        {
+            "steamid": "Steamid2",
+            "comment": "Test single Use",
+            "remainingCount": 1
+        },
+        {
+            "steamid": "Steamid3",
+            "comment": "Test 3 uses",
+            "remainingCount": 3
+        },
+        {
+            "steamid": "Steamid4",
+            "comment": "Another Test",
+            "remainingCount": 2
+        }
+    ]
+}

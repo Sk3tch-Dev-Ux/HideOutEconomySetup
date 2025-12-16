@@ -1,0 +1,76 @@
+{
+    "name": "STORMCLOUD",
+    "shortname": "STC",
+    "level": 0,
+    "lastActivity": 1764875571,
+    "creationDate": 1764377392,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 2146828266,
+            "name": "sammy",
+            "icon": "",
+            "position": [
+                5429.765625,
+                481.31561279296877,
+                14944.759765625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199387910911",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0,
+            "tempMember": 0,
+            "lastSubgroup": 0,
+            "moveToLastSubgroup": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1117029767,
+            "name": "Base",
+            "icon": "LBmaster_Groups\\gui\\icons\\flag.paa",
+            "position": [
+                2775.52685546875,
+                209.80528259277345,
+                5261.5390625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

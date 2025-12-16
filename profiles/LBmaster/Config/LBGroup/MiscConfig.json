@@ -1,0 +1,56 @@
+{
+    "version": 28,
+    "enableMapLegend": 0,
+    "mapLegendTitle": "#lb_ag_map_legend",
+    "mapLegend": [
+        {
+            "iconPath": "LBmaster_Groups\\gui\\icons\\safezone.paa",
+            "iconColorA": 255,
+            "iconColorR": 255,
+            "iconColorG": 255,
+            "iconColorB": 255,
+            "name": "Safezone",
+            "nameColorA": 255,
+            "nameColorR": 255,
+            "nameColorG": 255,
+            "nameColorB": 255
+        },
+        {
+            "iconPath": "LBmaster_Groups\\gui\\icons\\blackmarket.paa",
+            "iconColorA": 255,
+            "iconColorR": 255,
+            "iconColorG": 255,
+            "iconColorB": 255,
+            "name": "Blackmarket",
+            "nameColorA": 255,
+            "nameColorR": 255,
+            "nameColorG": 255,
+            "nameColorB": 255
+        }
+    ],
+    "enableCompassHud": 1,
+    "compassRequireItem": 0,
+    "compassItems": [
+        "Compass"
+    ],
+    "enableGPS": 1,
+    "gpsDisplayAngle": 1,
+    "gpsDisplaySpeed": 1,
+    "gpsDisplayCoords": 1,
+    "gpsRequireItem": 0,
+    "gpsOnlyInVehicles": 0,
+    "vehiclesWithGPS": [
+        "CivilianSedan"
+    ],
+    "gpsItems": [
+        "Compass",
+        "PersonalRadio"
+    ],
+    "mapRequireItem": 0,
+    "mapItems": [
+        "ChernarusMap"
+    ],
+    "mapNotFoundText": "#lb_ag_map_not_found",
+    "mapNotFoundImage": "LBmaster_Groups/gui/images/missing.edds",
+    "disableMapMenu": 0
+}

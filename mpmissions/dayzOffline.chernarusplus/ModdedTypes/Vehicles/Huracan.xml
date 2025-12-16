@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="CrSk_Lamborghini_Huracan_Perf">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_Lamborghini_Huracan_Perf_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_Lamborghini_Huracan_Perf_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_Lamborghini_Huracan_Perf_Orange">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_Lamborghini_Huracan_Perf_Yellow">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_bagazhnik">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_bagazhnik_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_bagazhnik_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_bagazhnik_Orange">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_bagazhnik_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_1_1">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_1_1_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_1_1_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_1_1_Orange">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_1_1_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_2_1">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_2_1_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_2_1_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_2_1_Orange">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_dver_2_1_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_kapot">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_kapot_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_kapot_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_kapot_Orange">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_kapot_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_koleso">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_koleso_Ruined">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_koleso_zad">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="HuracanPerf_koleso_zad_Ruined">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+</types>

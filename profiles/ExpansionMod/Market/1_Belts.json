@@ -1,0 +1,104 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Clothing - Belts",
+  "Icon": "Backpack",
+  "Color": "00FFFFFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "militarybelt",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_belt_rtgfb_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_belt_rtgfb_alp",
+        "fog_belt_rtgfb_aor1",
+        "fog_belt_rtgfb_aor2",
+        "fog_belt_rtgfb_cb",
+        "fog_belt_rtgfb_mc",
+        "fog_belt_rtgfb_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_belt_tacticalfanny_blk",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_belt_tacticalfanny_cb",
+        "fog_belt_tacticalfanny_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_bison_belt_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bison_belt_cb",
+        "fog_bison_belt_mc",
+        "fog_bison_belt_mcb",
+        "fog_bison_belt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_mrb_belt_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mrb_belt_6cd",
+        "fog_mrb_belt_aor1",
+        "fog_mrb_belt_aor2",
+        "fog_mrb_belt_atacsau",
+        "fog_mrb_belt_cb",
+        "fog_mrb_belt_mc",
+        "fog_mrb_belt_mcb",
+        "fog_mrb_belt_mct",
+        "fog_mrb_belt_rg"
+      ]
+    },
+    {
+      "ClassName": "hideout_warbeltheavy_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hideout_warbeltheavy_camo",
+        "hideout_warbeltheavy_tan"
+      ]
+    }
+  ]
+}

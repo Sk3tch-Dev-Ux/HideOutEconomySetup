@@ -1,0 +1,45 @@
+{
+  "ConfigVersion": 28,
+  "ID": 1,
+  "ObjectiveType": 4,
+  "ObjectiveText": "Collect all required medicine",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "TetracyclineAntibiotics",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "VitaminBottle",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "PurificationTablets",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "PainkillerTablets",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "CharcoalTablets",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    }
+  ],
+  "MaxDistance": 0,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Active": 1
+}

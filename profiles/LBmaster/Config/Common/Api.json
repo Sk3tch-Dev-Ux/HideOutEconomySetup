@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "grantDeveloperAccess": 0,
+    "entries": [
+        {
+            "enabled": 0,
+            "name": "Example",
+            "pollUrl": "http://localhost:4545/poll?",
+            "responseUrl": "http://localhost:4545/response?",
+            "apiKey": "",
+            "restrictedAccess": 0
+        }
+    ]
+}

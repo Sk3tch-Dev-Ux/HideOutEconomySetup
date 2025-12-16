@@ -1,0 +1,27 @@
+{
+  "m_Version": 13,
+  "DisplayName": "BlackMarket",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "hideout_money"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "USD",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "0_Sniper_Rifles",
+    "6_LMGs",
+    "6_Weed:2",
+    "6_Dogtags:2",
+    "2_Helmets",
+    "2_Vests",
+    "6_RaidSupplies:2",
+    "6_Supplies",
+    "6_Collectibles:2"
+  ],
+  "Items": {}
+}

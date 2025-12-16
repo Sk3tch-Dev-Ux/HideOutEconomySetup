@@ -1,0 +1,590 @@
+{
+    "version": 3,
+    "defaultItemConfigs": [
+        {
+            "presetName": "",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_IND",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_IND",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_90%",
+            "individualChance": 1,
+            "chance": 0.8999999761581421,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_90%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_80%",
+            "individualChance": 1,
+            "chance": 0.800000011920929,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_80%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_70%",
+            "individualChance": 1,
+            "chance": 0.699999988079071,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_70%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_60%",
+            "individualChance": 1,
+            "chance": 0.6000000238418579,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_60%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_50%",
+            "individualChance": 1,
+            "chance": 0.5,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_50%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_40%",
+            "individualChance": 1,
+            "chance": 0.4000000059604645,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_40%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_30%",
+            "individualChance": 1,
+            "chance": 0.30000001192092898,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_30%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_20%",
+            "individualChance": 1,
+            "chance": 0.20000000298023225,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_20%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_10%",
+            "individualChance": 1,
+            "chance": 0.10000000149011612,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_10%",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_MAG",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_MAG",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "mag"
+        },
+        {
+            "presetName": "_ROOT",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_ROOT",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "root"
+        },
+        {
+            "presetName": "_BAT",
+            "individualChance": 0,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_BAT",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        },
+        {
+            "presetName": "_BAT_IND",
+            "individualChance": 1,
+            "chance": 1.0,
+            "items": [
+                "Battery9V"
+            ],
+            "minSpawnTries": 1,
+            "maxSpawnTries": 1,
+            "allowDuplicates": 1,
+            "itemname": "_BAT_IND",
+            "addToHotbar": 0,
+            "quantmin": -1.0,
+            "quantmax": -1.0,
+            "spawnIn": "any"
+        }
+    ],
+    "presetLists": [
+        {
+            "name": "Default",
+            "base": [
+                {
+                    "presetName": "Preset_Spawn_Loadout",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "Preset_Spawn_Clothing",
+                        "Preset_Spawn_Inventory"
+                    ],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_Spawn_Clothing",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "Drip_SockSandals_black_offwhite",
+                        "FOG_FieldShorts_Black"
+                    ],
+                    "minSpawnTries": 2,
+                    "maxSpawnTries": 2,
+                    "allowDuplicates": 0,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_Spawn_Inventory",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "FOG_Strongarm_Knife",
+                        "Hideout_BandageDressing",
+                        "MFP_Jerky_Original",
+                        "MFP_AimSodaApple"
+                    ],
+                    "minSpawnTries": 4,
+                    "maxSpawnTries": 4,
+                    "allowDuplicates": 0,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_LootCrate_PC",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "ZY_Collectable_GPU",
+                        "ZY_Collectable_CPU",
+                        "ZY_Collectable_RAM"
+                    ],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 3,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_LootCrate_MoneyBag",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "Hideout_Money"
+                    ],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_LootCrate_DuffleBag",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "Preset_WeedSeeds",
+                        "Preset_Collectables"
+                    ],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 4,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_LootCrate_Breifcase",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_LootCrate_ToolBox",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [
+                        "NailBox",
+                        "Hammer",
+                        "Hatchet",
+                        "HandSaw",
+                        "Hacksaw",
+                        "Whetstone",
+                        "MetalPlate",
+                        "CodeLock"
+                    ],
+                    "minSpawnTries": 2,
+                    "maxSpawnTries": 5,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_Collectables",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [
+                        "ZY_Collectable_BarGold",
+                        "ZY_Collectable_BarSilver",
+                        "ZY_Collectable_GameboyAdv",
+                        "ZY_Collectable_GameboyColor",
+                        "ZY_Collectable_IPhone_Black",
+                        "ZY_Collectable_IPhone_White",
+                        "ZY_Collectable_ImpossibleCube",
+                        "ZY_Collectable_Keyboard",
+                        "ZY_Collectable_Nintendo2DS",
+                        "ZY_Collectable_NintendoDSLite",
+                        "ZY_Collectable_NintendoSwitch",
+                        "ZY_Collectable_NintendoWii",
+                        "ZY_Collectable_NintendoWiiController",
+                        "ZY_Collectable_PS1",
+                        "ZY_Collectable_PS2",
+                        "ZY_Collectable_PS4",
+                        "ZY_Collectable_PS4Controller",
+                        "ZY_Collectable_PS5",
+                        "ZY_Collectable_PS5Controller_Gold",
+                        "ZY_Collectable_PS5Controller",
+                        "ZY_Collectable_PS5_Gold",
+                        "ZY_Collectable_RubixCube",
+                        "ZY_Collectable_Skull_Gold",
+                        "ZY_Collectable_Skull_Silver",
+                        "ZY_Collectable_Tetristoy"
+                    ],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 3,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_WeedSeeds",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [
+                        "CP_CannabisSeedsPackBlackFrost",
+                        "CP_CannabisSeedsPackBlue",
+                        "CP_CannabisSeedsPackFuture",
+                        "CP_CannabisSeedsPackKush",
+                        "CP_CannabisSeedsPackNomad",
+                        "CP_CannabisSeedsPackS1",
+                        "CP_CannabisSeedsPackSkunk",
+                        "CP_CannabisSeedsPackStardawg"
+                    ],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 2,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_Airdrop_Military",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_Airdrop_BaseBuilding",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_Airdrop_Raiding",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_Airdrop_Special",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "root": 1
+                },
+                {
+                    "presetName": "Preset_AssaultRifles",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_SniperRifles",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_DMRs",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_T4_Vests",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_T4_Helmets",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_T3_Vests",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_T3_Helmets",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_RaidSupplies",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_Storage",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_Keys",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_Keycards",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_Medical",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                },
+                {
+                    "presetName": "Preset_Backpacks",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 1,
+                    "root": 0
+                }
+            ],
+            "items": [
+                {
+                    "presetName": "Hideout_Money",
+                    "individualChance": 1,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "itemname": "Hideout_Money",
+                    "addToHotbar": 0,
+                    "quantmin": 0.10000000149011612,
+                    "quantmax": 0.5,
+                    "spawnIn": "any"
+                },
+                {
+                    "presetName": "MetalPlate",
+                    "individualChance": 0,
+                    "chance": 1.0,
+                    "items": [],
+                    "minSpawnTries": 1,
+                    "maxSpawnTries": 1,
+                    "allowDuplicates": 0,
+                    "itemname": "MetalPlate",
+                    "addToHotbar": 0,
+                    "quantmin": 0.25,
+                    "quantmax": 1.0,
+                    "spawnIn": "any"
+                }
+            ]
+        }
+    ]
+}

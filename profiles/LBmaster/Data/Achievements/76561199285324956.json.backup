@@ -1,0 +1,34 @@
+{
+    "version": 0,
+    "steamid": "76561199285324956",
+    "name": "ScuffdZ",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2",
+        "run_car1",
+        "run_foot1",
+        "zombie1",
+        "zombie2"
+    ],
+    "trigger": {
+        "bullet:shot": 129,
+        "action:ActionEatCan:item:TunaCan_Opened:once": 1,
+        "action:ActionEatCan:item:SardinesCan_Opened:once": 1,
+        "bank:balance:personal": 80000,
+        "kill:zombie": 129,
+        "kill:animal": 6,
+        "distance:drive": 20,
+        "action:ActionEatCan:item:TacticalBaconCan_Opened:once": 1,
+        "inventory:open": 1,
+        "distance:walk": 35,
+        "action:ActionEatCan:item:BakedBeansCan_Opened:once": 1,
+        "ag:group:created:once": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

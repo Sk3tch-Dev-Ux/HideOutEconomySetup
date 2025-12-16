@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="GolfGTI_CoDriver">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_CoDriver_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_CoDriver_Gold">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_CoDriver_Purple">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_CoDriver_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Driver">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Driver_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Driver_Gold">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Driver_Purple">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Driver_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Hood">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Hood_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Hood_Gold">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Hood_Purple">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Hood_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Trunk">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Trunk_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Trunk_Gold">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Trunk_Purple">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Trunk_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="GolfGTI_Wheel">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="VWGolfGTI">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="VWGolfGTI_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="VWGolfGTI_Gold">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="VWGolfGTI_Purple">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="VWGolfGTI_Red">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

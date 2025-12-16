@@ -1,0 +1,10 @@
+{
+    "FileUpdateEnable": "1",
+    "StarterSecureContainerType": "A6_SecureContainer_Alpha",
+    "SecureContainerLifetime": 604800,
+    "ItemListMode": 1,
+    "ItemList": [
+        "Clothing",
+        "Weapon_Base"
+    ]
+}

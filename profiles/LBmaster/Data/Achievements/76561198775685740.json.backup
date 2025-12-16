@@ -1,0 +1,17 @@
+{
+    "version": 0,
+    "steamid": "76561198775685740",
+    "name": "I Pop Beans",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "distance:walk": 3,
+        "kill:zombie": 3,
+        "bullet:shot": 1,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

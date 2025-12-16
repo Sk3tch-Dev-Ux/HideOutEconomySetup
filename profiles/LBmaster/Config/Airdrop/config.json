@@ -1,0 +1,2186 @@
+{
+    "version": 7,
+    "checkForBasebuilding": 1,
+    "basebuildingMinDistance": 50.0,
+    "pvpZoneRadius": 200.0,
+    "createPvPZones": 1,
+    "globalConfigs": [
+        {
+            "enabled": 1,
+            "name": "Normal Airdrops",
+            "spawnIntervalMin": 1200,
+            "spawnIntervalMax": 3600,
+            "lifetime": 1800,
+            "minPlayers": 10,
+            "dropHeight": 400,
+            "dropSpeed": 4.0,
+            "intel": [
+                {
+                    "timeBeforeDrop": 600,
+                    "sendMessage": 1,
+                    "message": "A %containerSpawnName% is about to arrive near %nearCity% in 10 Minutes",
+                    "markOnMap": 1,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 1,
+                    "markerName": "%containerName%",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 255,
+                        "g": 125,
+                        "b": 50
+                    },
+                    "sendWebhook": 0
+                },
+                {
+                    "timeBeforeDrop": 300,
+                    "sendMessage": 1,
+                    "message": "A %containerSpawnName% is about to arrive near %nearCity% in 5 Minutes",
+                    "markOnMap": 1,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 1,
+                    "markerName": "%containerName%",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 255,
+                        "g": 125,
+                        "b": 50
+                    },
+                    "sendWebhook": 0
+                },
+                {
+                    "timeBeforeDrop": 0,
+                    "sendMessage": 1,
+                    "message": "A %containerSpawnName% just arrived near %nearCity%",
+                    "markOnMap": 1,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 1,
+                    "markerName": "%containerName% (dropped)",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 255,
+                        "g": 125,
+                        "b": 50
+                    },
+                    "sendWebhook": 0
+                },
+                {
+                    "timeBeforeDrop": -1,
+                    "sendMessage": 1,
+                    "message": "A %containerSpawnName% just landed near %nearCity%",
+                    "markOnMap": 1,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 1,
+                    "markerName": "%containerName% (landed)",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 0,
+                        "g": 255,
+                        "b": 0
+                    },
+                    "sendWebhook": 0
+                },
+                {
+                    "timeBeforeDrop": -2,
+                    "sendMessage": 0,
+                    "message": "",
+                    "markOnMap": 1,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 1,
+                    "markerName": "%containerName% (looted)",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 255,
+                        "g": 0,
+                        "b": 0
+                    },
+                    "sendWebhook": 0
+                },
+                {
+                    "timeBeforeDrop": -3,
+                    "sendMessage": 1,
+                    "message": "A %containerSpawnName% despawned",
+                    "markOnMap": 1,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 1,
+                    "markerName": "",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 255,
+                        "g": 0,
+                        "b": 0
+                    },
+                    "sendWebhook": 0
+                }
+            ],
+            "containerSpawns": [
+                {
+                    "name": "Tier 1 Airdrop",
+                    "chance": 1.0,
+                    "comment": "This is for the Tier 1 Loot Zone",
+                    "positions": [
+                        {
+                            "pos": [
+                                13256.150390625,
+                                0.0,
+                                13371.7919921875
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12085.130859375,
+                                0.0,
+                                12663.7958984375
+                            ],
+                            "radius": 186.0,
+                            "chance": 2.0
+                        },
+                        {
+                            "pos": [
+                                12709.5546875,
+                                0.0,
+                                10964.591796875
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12594.103515625,
+                                0.0,
+                                10205.67578125
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                11791.75,
+                                0.0,
+                                9638.06640625
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12587.46875,
+                                0.0,
+                                9036.267578125
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12445.7685546875,
+                                0.0,
+                                8477.921875
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12495.3623046875,
+                                0.0,
+                                7363.36328125
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                13171.107421875,
+                                0.0,
+                                6676.19091796875
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                13064.984375,
+                                0.0,
+                                5353.80419921875
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12540.318359375,
+                                0.0,
+                                4513.20556640625
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12040.8388671875,
+                                0.0,
+                                4077.329345703125
+                            ],
+                            "radius": 108.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10194.38671875,
+                                0.0,
+                                3332.0810546875
+                            ],
+                            "radius": 71.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10317.626953125,
+                                0.0,
+                                2655.572265625
+                            ],
+                            "radius": 65.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                9304.0703125,
+                                0.0,
+                                2217.995849609375
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8400.685546875,
+                                0.0,
+                                3177.829345703125
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7341.07373046875,
+                                0.0,
+                                3581.429443359375
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6025.509765625,
+                                0.0,
+                                3586.189208984375
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5943.27294921875,
+                                0.0,
+                                2084.84619140625
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5121.4052734375,
+                                0.0,
+                                2332.275634765625
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4897.275390625,
+                                0.0,
+                                2633.88330078125
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                9132.11328125,
+                                0.0,
+                                3511.95556640625
+                            ],
+                            "radius": 86.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8644.4990234375,
+                                0.0,
+                                3945.134521484375
+                            ],
+                            "radius": 79.0,
+                            "chance": 1.0
+                        }
+                    ],
+                    "container": [
+                        {
+                            "name": "Tier 1 Medical",
+                            "itemname": "LB_Airdrop_Container_Medical",
+                            "preset": "Preset_Air_T1_Med",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.0
+                        },
+                        {
+                            "name": "Tier 1 Basebuilding",
+                            "itemname": "LB_Airdrop_Container_Basebuilding",
+                            "preset": "Preset_Air_T1_BB",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.5
+                        },
+                        {
+                            "name": "Tier 1 Military",
+                            "itemname": "LB_Airdrop_Container_Military",
+                            "preset": "Preset_Air_T1_Mil",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 3.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tier 2 Airdrop",
+                    "chance": 1.0,
+                    "comment": "This is for the Tier 2 Loot Zone",
+                    "positions": [
+                        {
+                            "pos": [
+                                9598.814453125,
+                                0.0,
+                                14553.35546875
+                            ],
+                            "radius": 87.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                9907.033203125,
+                                0.0,
+                                13515.923828125
+                            ],
+                            "radius": 87.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8324.6640625,
+                                0.0,
+                                13422.9560546875
+                            ],
+                            "radius": 87.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                9689.8447265625,
+                                0.0,
+                                11554.1689453125
+                            ],
+                            "radius": 194.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10628.810546875,
+                                0.0,
+                                10706.7978515625
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10058.0126953125,
+                                0.0,
+                                9577.8271484375
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8751.708984375,
+                                0.0,
+                                10083.546875
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8891.0068359375,
+                                0.0,
+                                8529.669921875
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10204.5859375,
+                                0.0,
+                                7671.9873046875
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10357.7578125,
+                                0.0,
+                                8662.8828125
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8516.1796875,
+                                0.0,
+                                9234.7431640625
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8415.3251953125,
+                                0.0,
+                                7036.8623046875
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10164.7177734375,
+                                0.0,
+                                5944.62255859375
+                            ],
+                            "radius": 119.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                11000.77734375,
+                                0.0,
+                                6779.021484375
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10091.3720703125,
+                                0.0,
+                                7203.01123046875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10007.248046875,
+                                0.0,
+                                5266.60498046875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8206.048828125,
+                                0.0,
+                                5011.72216796875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8397.8125,
+                                0.0,
+                                6265.84521484375
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6335.36181640625,
+                                0.0,
+                                6803.00732421875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6991.27294921875,
+                                0.0,
+                                5373.04248046875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5416.39501953125,
+                                0.0,
+                                5661.955078125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4544.7861328125,
+                                0.0,
+                                6146.8916015625
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4924.359375,
+                                0.0,
+                                7011.2001953125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4017.865966796875,
+                                0.0,
+                                5116.376953125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3386.69775390625,
+                                0.0,
+                                4169.42138671875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5015.1201171875,
+                                0.0,
+                                3691.5830078125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3896.16064453125,
+                                0.0,
+                                2984.75732421875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2844.8427734375,
+                                0.0,
+                                3437.624755859375
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2161.521484375,
+                                0.0,
+                                2768.31396484375
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2835.142822265625,
+                                0.0,
+                                2406.80322265625
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7696.63525390625,
+                                0.0,
+                                4485.4580078125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                11048.978515625,
+                                0.0,
+                                4896.97802734375
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                11625.1376953125,
+                                0.0,
+                                5646.57275390625
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                8697.5146484375,
+                                0.0,
+                                7741.1982421875
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                9036.900390625,
+                                0.0,
+                                10853.908203125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                10457.1025390625,
+                                0.0,
+                                12587.5595703125
+                            ],
+                            "radius": 98.0,
+                            "chance": 1.0
+                        }
+                    ],
+                    "container": [
+                        {
+                            "name": "Tier 2 Medical",
+                            "itemname": "LB_Airdrop_Container_Medical",
+                            "preset": "Preset_Air_T2_Med",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.0
+                        },
+                        {
+                            "name": "Tier 2 Basebuilding",
+                            "itemname": "LB_Airdrop_Container_Basebuilding",
+                            "preset": "Preset_Air_T2_BB",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.5
+                        },
+                        {
+                            "name": "Tier 2 Military",
+                            "itemname": "LB_Airdrop_Container_Military",
+                            "preset": "Preset_Air_T2_Mil",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 3.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tier 3 Airdrop",
+                    "chance": 1.0,
+                    "comment": "This is for the Tier 3 Loot Zone",
+                    "positions": [
+                        {
+                            "pos": [
+                                7765.3310546875,
+                                0.0,
+                                12924.220703125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7834.1787109375,
+                                0.0,
+                                12112.798828125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6642.02783203125,
+                                0.0,
+                                13173.84375
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5975.677734375,
+                                0.0,
+                                12868.9453125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5009.4462890625,
+                                0.0,
+                                13300.42578125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4842.6748046875,
+                                0.0,
+                                12298.26953125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2260.49365234375,
+                                0.0,
+                                13086.703125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1594.001708984375,
+                                0.0,
+                                11595.673828125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2938.9404296875,
+                                0.0,
+                                11377.494140625
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2137.954833984375,
+                                0.0,
+                                10295.92578125
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3393.23095703125,
+                                0.0,
+                                10762.169921875
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4215.06396484375,
+                                0.0,
+                                10664.740234375
+                            ],
+                            "radius": 145.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4402.78125,
+                                0.0,
+                                10351.87890625
+                            ],
+                            "radius": 145.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4645.0419921875,
+                                0.0,
+                                9941.546875
+                            ],
+                            "radius": 82.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3320.04638671875,
+                                0.0,
+                                9322.6259765625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3340.894775390625,
+                                0.0,
+                                8782.9130859375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2362.55029296875,
+                                0.0,
+                                8735.16796875
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3969.5078125,
+                                0.0,
+                                7884.6220703125
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5157.1494140625,
+                                0.0,
+                                8939.1396484375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6446.234375,
+                                0.0,
+                                10141.40234375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5744.96826171875,
+                                0.0,
+                                10984.5478515625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7412.80078125,
+                                0.0,
+                                11563.3916015625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7330.07470703125,
+                                0.0,
+                                10640.017578125
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7197.8134765625,
+                                0.0,
+                                9681.1181640625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7600.4990234375,
+                                0.0,
+                                8815.2705078125
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                7496.01708984375,
+                                0.0,
+                                7914.88232421875
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6646.39453125,
+                                0.0,
+                                7327.20263671875
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                6396.49853515625,
+                                0.0,
+                                8291.5078125
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5332.1357421875,
+                                0.0,
+                                7637.47119140625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3732.73876953125,
+                                0.0,
+                                7069.0302734375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2922.51904296875,
+                                0.0,
+                                5895.8603515625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1604.2054443359376,
+                                0.0,
+                                5298.5302734375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2887.3642578125,
+                                0.0,
+                                4867.7333984375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2108.852783203125,
+                                0.0,
+                                4129.84033203125
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                902.6218872070313,
+                                0.0,
+                                4271.38818359375
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2075.130126953125,
+                                0.0,
+                                7566.47998046875
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3445.884765625,
+                                0.0,
+                                9970.0048828125
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4724.087890625,
+                                0.0,
+                                11430.40625
+                            ],
+                            "radius": 118.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5751.75927734375,
+                                0.0,
+                                14596.9990234375
+                            ],
+                            "radius": 87.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4686.1552734375,
+                                0.0,
+                                15173.3662109375
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3472.152099609375,
+                                0.0,
+                                15079.19921875
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1701.8997802734376,
+                                0.0,
+                                15200.236328125
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        }
+                    ],
+                    "container": [
+                        {
+                            "name": "Tier 3 Medical",
+                            "itemname": "LB_Airdrop_Container_Medical",
+                            "preset": "Preset_Air_T3_Med",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.0
+                        },
+                        {
+                            "name": "Tier 3 Basebuilding",
+                            "itemname": "LB_Airdrop_Container_Basebuilding",
+                            "preset": "Preset_Air_T3_BB",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.5
+                        },
+                        {
+                            "name": "Tier 3 Military",
+                            "itemname": "LB_Airdrop_Container_Military",
+                            "preset": "Preset_Air_T3_Mil",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 3.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Tier 4 Airdrop",
+                    "chance": 1.0,
+                    "comment": "This is for the Tier 4 Loot Zone",
+                    "positions": [
+                        {
+                            "pos": [
+                                1220.7227783203126,
+                                0.0,
+                                14547.3642578125
+                            ],
+                            "radius": 56.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1661.88818359375,
+                                0.0,
+                                14269.18359375
+                            ],
+                            "radius": 30.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1435.2529296875,
+                                0.0,
+                                14087.03125
+                            ],
+                            "radius": 30.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1827.8330078125,
+                                0.0,
+                                13655.2470703125
+                            ],
+                            "radius": 30.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2592.27001953125,
+                                0.0,
+                                12223.1806640625
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1962.359130859375,
+                                0.0,
+                                11903.701171875
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                1503.35595703125,
+                                0.0,
+                                12260.359375
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2144.099365234375,
+                                0.0,
+                                12469.01953125
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3116.255615234375,
+                                0.0,
+                                12828.5302734375
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3676.053466796875,
+                                0.0,
+                                12805.2705078125
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3886.947265625,
+                                0.0,
+                                13265.080078125
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3235.65869140625,
+                                0.0,
+                                13334.861328125
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                3452.5068359375,
+                                0.0,
+                                13712.5458984375
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2350.784423828125,
+                                0.0,
+                                11108.3232421875
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2072.9619140625,
+                                0.0,
+                                10882.1884765625
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2967.89892578125,
+                                0.0,
+                                10155.76953125
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2435.633544921875,
+                                0.0,
+                                10030.775390625
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                2762.1767578125,
+                                0.0,
+                                9680.044921875
+                            ],
+                            "radius": 80.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4659.4306640625,
+                                0.0,
+                                10630.22265625
+                            ],
+                            "radius": 41.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4112.91455078125,
+                                0.0,
+                                11010.064453125
+                            ],
+                            "radius": 41.0,
+                            "chance": 1.0
+                        }
+                    ],
+                    "container": [
+                        {
+                            "name": "Tier 4 Medical",
+                            "itemname": "LB_Airdrop_Container_Medical",
+                            "preset": "Preset_Air_T4_Med",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_DoctorFat_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.0
+                        },
+                        {
+                            "name": "Tier 4 Basebuilding",
+                            "itemname": "LB_Airdrop_Container_Basebuilding",
+                            "preset": "Preset_Air_T4_BB",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_ConstrWorkerNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 1.5
+                        },
+                        {
+                            "name": "Tier 4 Military",
+                            "itemname": "LB_Airdrop_Container_Military",
+                            "preset": "Preset_Air_T4_Mil",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 2,
+                                    "maxCount": 3,
+                                    "spawnAt": "landed",
+                                    "spawnDelay": 10,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_CanisLupus"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_SoldierNormal_Base"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [],
+                            "chance": 3.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "enabled": 1,
+            "name": "Special Airdrops",
+            "spawnIntervalMin": 7200,
+            "spawnIntervalMax": 14400,
+            "lifetime": 1800,
+            "minPlayers": 40,
+            "dropHeight": 400,
+            "dropSpeed": 4.0,
+            "intel": [
+                {
+                    "timeBeforeDrop": 600,
+                    "sendMessage": 0,
+                    "message": "A Special Airdrop is going to land near %nearCity% in 10 Minutes",
+                    "markOnMap": 0,
+                    "markIn3D": 0,
+                    "mapMarkInaccuracy": 100.0,
+                    "drawInaccuracyRadius": 0,
+                    "markerName": "%containerName%",
+                    "markerColor": {
+                        "a": 255,
+                        "r": 255,
+                        "g": 125,
+                        "b": 50
+                    },
+                    "sendWebhook": 1
+                }
+            ],
+            "containerSpawns": [
+                {
+                    "name": "Special Airdrop",
+                    "chance": 1.0,
+                    "comment": "This is for the Airfields with some rare loot",
+                    "positions": [
+                        {
+                            "pos": [
+                                5201.32958984375,
+                                0.0,
+                                2230.044189453125
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5108.6826171875,
+                                0.0,
+                                2393.4072265625
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                5015.66357421875,
+                                0.0,
+                                2549.468994140625
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4788.2978515625,
+                                0.0,
+                                2531.68212890625
+                            ],
+                            "radius": 67.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4761.70166015625,
+                                0.0,
+                                9721.04296875
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4644.6611328125,
+                                0.0,
+                                9992.921875
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4473.658203125,
+                                0.0,
+                                10273.267578125
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                4248.814453125,
+                                0.0,
+                                10614.462890625
+                            ],
+                            "radius": 123.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12308.978515625,
+                                0.0,
+                                12429.9228515625
+                            ],
+                            "radius": 106.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12144.9462890625,
+                                0.0,
+                                12582.70703125
+                            ],
+                            "radius": 106.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                11847.13671875,
+                                0.0,
+                                12721.6953125
+                            ],
+                            "radius": 106.0,
+                            "chance": 1.0
+                        },
+                        {
+                            "pos": [
+                                12097.2548828125,
+                                0.0,
+                                12846.361328125
+                            ],
+                            "radius": 106.0,
+                            "chance": 1.0
+                        }
+                    ],
+                    "container": [
+                        {
+                            "name": "Special",
+                            "itemname": "LB_Airdrop_Container_Special",
+                            "preset": "Preset_Air_Special",
+                            "smokeColorDropping": "red",
+                            "smokeColorLanded": "white",
+                            "smokeLandedDuration": 300,
+                            "requireDeadAIPercent": 0.5,
+                            "ais": [
+                                {
+                                    "minCount": 10,
+                                    "maxCount": 15,
+                                    "spawnAt": "dropped",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "ZmbM_NBC_White",
+                                        "ZmbM_NBC_Grey",
+                                        "ZmbM_NBC_Yellow"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                },
+                                {
+                                    "minCount": 1,
+                                    "maxCount": 1,
+                                    "spawnAt": "open_start",
+                                    "spawnDelay": 2,
+                                    "nextSpawnDelay": 100,
+                                    "repeat": 0,
+                                    "cancelWhenNextPhase": 1,
+                                    "aiClassnames": [
+                                        "Animal_UrsusArctos"
+                                    ],
+                                    "useBaseclassnames": 1,
+                                    "spawnKeyToOpenInOneAI": 0
+                                }
+                            ],
+                            "globalAILimit": 30,
+                            "aiSpawnRadius": 20.0,
+                            "allowAIDamageFromCars": 0,
+                            "aiHeadshotOnly": 0,
+                            "openTimeDelay": 0,
+                            "displayRequiredKeys": 1,
+                            "keys": [
+                                {
+                                    "itemname": "Lockpick",
+                                    "time": 10.0,
+                                    "damage": 100.0,
+                                    "successRate": 1.0
+                                }
+                            ],
+                            "chance": 1.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

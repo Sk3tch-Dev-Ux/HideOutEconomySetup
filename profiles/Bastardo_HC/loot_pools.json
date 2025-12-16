@@ -1,0 +1,43 @@
+{
+    "AllDefinedCategories": {
+        "DefaultArmaments": [
+            {
+                "pool_name": "M4A1_Example_Pool",
+                "items": [
+                    {
+                        "item_name": "M4A1",
+                        "attachments": [
+                            "Mag_STANAG_30Rnd",
+                            "M4_OEBttstck",
+                            "M4_CarryHandleOptic"
+                        ],
+                        "probability": 1.0
+                    }
+                ],
+                "min_items": 1,
+                "max_items": 1,
+                "probability": 1.0
+            }
+        ],
+        "DefaultMedical": [
+            {
+                "pool_name": "Basic_Medical_Supplies",
+                "items": [
+                    {
+                        "item_name": "BandageDressing",
+                        "attachments": [],
+                        "probability": 1.5
+                    },
+                    {
+                        "item_name": "PainkillerTablets",
+                        "attachments": [],
+                        "probability": 0.5
+                    }
+                ],
+                "min_items": 2,
+                "max_items": 4,
+                "probability": 0.800000011920929
+            }
+        ]
+    }
+}

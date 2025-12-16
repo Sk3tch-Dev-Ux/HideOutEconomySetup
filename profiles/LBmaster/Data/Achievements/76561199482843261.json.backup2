@@ -1,0 +1,23 @@
+{
+    "version": 0,
+    "steamid": "76561199482843261",
+    "name": "crusher43",
+    "selectedTitle": "",
+    "achievements": [
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2"
+    ],
+    "trigger": {
+        "kill:zombie": 10,
+        "quests:finished": 1,
+        "inventory:open": 1,
+        "distance:walk": 5,
+        "action:ActionEatCan:item:BakedBeansCan_Opened:once": 1,
+        "ag:group:created:once": 1,
+        "bank:balance:personal": 50000
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

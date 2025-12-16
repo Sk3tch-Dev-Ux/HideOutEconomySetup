@@ -1,0 +1,416 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-12_22-58-13
+====================================================================================
+22:58:13 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+22:58:13 | [PermissionManager] Perm (FreeCamera) has been registered!
+22:58:13 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuItemManager) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuServerManager) has been registered!
+22:58:13 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+22:58:13 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+22:58:13 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+22:58:13 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+22:58:13 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+22:58:13 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+22:58:13 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+22:58:13 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+22:58:13 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+22:58:13 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuBansManager) has been registered!
+22:58:13 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+22:58:13 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+22:58:13 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+22:58:13 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+22:58:13 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+22:58:13 | [PermissionManager] Adding Super Admin (76561199240649723)
+22:58:13 | [PermissionManager] Adding Super Admin (76561199011835169)
+22:58:13 | [PermissionManager] Loaded UserGroups.json
+22:58:13 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+22:58:13 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+22:58:13 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+22:58:13 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+22:58:13 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+22:58:13 | Building Sets Loaded: 0
+22:58:13 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+22:58:13 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:0:0 | Player "Syntactix" (steamId=76561199240649723) connected to server!
+23:1:31 | Player "Hellcatz" (steamId=76561199011835169) connected to server!
+23:1:46 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+23:2:51 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:51 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:51 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:53 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:2:53 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Dogtag_Bandit)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6819.295410, 6.690938, 3096.008545>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.474609, 6.594933, 3092.757568>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.477051, 6.595024, 3092.760742>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.479004, 6.595084, 3092.763672>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.480957, 6.595174, 3092.766602>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.483398, 6.595274, 3092.769287>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.485352, 6.595322, 3092.772217>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.488281, 6.595440, 3092.775146>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.491699, 6.595558, 3092.779541>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.493652, 6.595614, 3092.781738>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.495605, 6.595708, 3092.784912>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.498047, 6.595778, 3092.787109>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.500488, 6.595842, 3092.789795>)
+23:3:3 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6814.502441, 6.595915, 3092.791992>)
+23:3:4 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6810.479004, 6.780368, 3090.127686>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6805.196289, 6.421952, 3086.359375>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.370605, 6.358986, 3082.972168>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.361328, 6.359007, 3082.965332>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.355957, 6.359067, 3082.960938>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.346191, 6.359076, 3082.953613>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.346191, 6.359116, 3082.953125>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.346680, 6.359088, 3082.952637>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.346680, 6.359060, 3082.952148>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.347656, 6.359037, 3082.951904>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.348145, 6.359009, 3082.951660>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.348145, 6.359016, 3082.951416>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.348633, 6.358994, 3082.950928>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.349121, 6.359011, 3082.950928>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.349121, 6.358966, 3082.950684>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.350098, 6.358983, 3082.950439>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.349609, 6.358923, 3082.950195>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.350098, 6.358900, 3082.949951>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6800.350586, 6.358919, 3082.949951>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6799.888672, 6.362034, 3082.625244>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6799.429199, 6.365125, 3082.302002>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6798.977051, 6.368172, 3081.984131>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6798.543457, 6.371099, 3081.679443>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6798.132813, 6.373856, 3081.390625>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6797.758301, 6.376358, 3081.126953>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6797.418945, 6.378653, 3080.888184>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6797.114746, 6.380652, 3080.673340>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.854980, 6.384056, 3080.490479>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.639160, 6.389389, 3080.337402>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.459473, 6.393836, 3080.209717>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.308105, 6.397609, 3080.101563>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.186035, 6.400624, 3080.014893>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.091797, 6.402987, 3079.947266>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6796.019531, 6.404778, 3079.895996>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.965332, 6.406086, 3079.857178>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.925293, 6.407110, 3079.828613>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.896973, 6.407794, 3079.808105>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.876953, 6.408304, 3079.793457>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.862793, 6.408617, 3079.783447>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.853516, 6.408881, 3079.776855>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6795.084473, 6.428030, 3079.237549>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6794.625977, 6.455418, 3078.916016>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6794.339355, 6.474788, 3078.714600>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6794.162109, 6.486764, 3078.590088>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6793.474121, 6.533215, 3078.104980>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6793.070801, 6.560482, 3077.820068>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.839844, 6.576051, 3077.656982>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.710449, 6.584810, 3077.564941>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.382813, 6.599623, 3077.331543>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.201172, 6.604026, 3077.201904>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.107910, 6.606233, 3077.135010>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.062012, 6.607335, 3077.102051>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6792.040039, 6.607855, 3077.085938>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6791.946777, 6.610084, 3077.019775>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6791.904785, 6.611097, 3076.989258>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6791.885254, 6.611603, 3076.975830>)
+23:3:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6791.877441, 6.611760, 3076.969727>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6790.869141, 6.636332, 3076.259033>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6790.456543, 6.646333, 3075.968750>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6790.292480, 6.650378, 3075.853271>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6790.229004, 6.651907, 3075.808350>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6790.205078, 6.652433, 3075.791260>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6789.083984, 6.679734, 3075.000000>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6788.725098, 6.696568, 3074.746826>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6788.607422, 6.702101, 3074.663574>)
+23:3:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6788.570313, 6.703847, 3074.637695>)
+23:3:8 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6784.479980, 6.865632, 3071.625000>)
+23:3:9 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6780.066895, 6.910690, 3068.508301>)
+23:3:9 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6775.721680, 7.004489, 3065.395752>)
+23:3:9 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6771.150879, 7.009328, 3062.242920>)
+23:3:10 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6766.332520, 6.933323, 3059.002686>)
+23:3:21 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (TerritoryHQ_Kit)
+23:3:32 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (RA_ClawHammer_Yellow)
+23:3:38 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<10315.364258, 9.964632, 2376.914795>)
+23:3:42 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (RA_Blueprint)
+23:4:11 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1409.119263, 309.232452, 9255.478516>)
+23:4:13 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1399.723145, 308.257568, 9254.487305>)
+23:4:14 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1390.352905, 306.885620, 9251.197266>)
+23:4:14 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1337.218994, 297.200623, 9231.047852>)
+23:4:18 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1364.748657, 299.825653, 9240.332031>)
+23:4:20 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1400.180664, 320.482178, 9261.953125>)
+23:4:24 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1400.946777, 308.372650, 9255.416992>)
+23:4:27 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1388.523926, 306.771423, 9250.351563>)
+23:4:29 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+23:6:8 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (FOG_Bag_6ShBagT_Black)
+23:6:13 | "Syntactix" (steamid=76561199240649723) Spawned Item: (FOG_Bag_6ShBagT_Black)
+23:6:25 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:25 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:25 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:25 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:26 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:26 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:26 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenLog)
+23:6:26 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:27 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:27 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:27 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:27 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:27 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:27 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:28 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:28 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:28 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:28 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:28 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:28 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:29 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:29 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:29 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (WoodenLog)
+23:6:43 | "Syntactix" (steamid=76561199240649723) Spawned Item: (RA_Blueprint)
+23:8:15 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1400.713501, 305.804810, 9273.304688>)
+23:8:17 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:16 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:9:21 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:24 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6580.081055, 5.999996, 2433.828369>)
+23:9:26 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6580.919434, 5.999912, 2433.577148>)
+23:9:26 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:27 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6581.411621, 6.000053, 2433.393311>)
+23:9:27 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:27 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6582.871094, 6.021126, 2432.709473>)
+23:9:28 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6584.949219, 6.013729, 2431.486816>)
+23:9:29 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6606.570313, 34.915672, 2420.529297>)
+23:9:29 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:30 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:31 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:32 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.313477, 38.386948, 2422.172119>)
+23:9:32 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:34 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.408691, 41.435223, 2421.635498>)
+23:9:34 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:35 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.346680, 43.669624, 2421.435547>)
+23:9:36 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:9:36 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.220215, 45.366615, 2421.406982>)
+23:9:38 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6571.239258, 19.329010, 2399.854004>)
+23:9:39 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.239258, 45.542030, 2421.353516>)
+23:9:40 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.227539, 45.743286, 2421.345703>)
+23:9:41 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<6605.215820, 45.888138, 2421.344238>)
+23:9:43 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:10:1 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:2 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:10:2 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:3 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:4 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:4 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:10:6 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:12 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:13 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:18 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:22 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:25 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:10:55 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:1 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:2 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:4 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:5 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:5 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (GhillieHood_Winter)
+23:11:8 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:8 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (GhillieAtt_Winter)
+23:11:9 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:11 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (GhillieAtt_Winter)
+23:11:34 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (GhillieTop_Winter)
+23:11:35 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (GhillieSuit_Winter)
+23:11:45 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:46 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:51 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:11:57 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:12:1 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:12:6 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:12:7 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:12:14 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:12:59 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (A6_AX_Black)
+23:13:7 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (HuntingOptic)
+23:13:15 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:16 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:13:21 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:13:23 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:24 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:26 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:28 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:31 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:33 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:39 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:41 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:42 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:47 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (BalaclavaMask_Blackskull)
+23:13:50 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:52 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:52 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (BalaclavaMask_White)
+23:13:54 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:55 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:13:57 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:0 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:2 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:5 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:6 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:11 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:14 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:16 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:19 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:23 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:26 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:14:34 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:14:36 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:14:39 | "Syntactix" (steamid=76561199240649723) executed kill command on: "76561199240649723"
+23:14:46 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<13202.662109, 1.004192, 3451.907227>)
+23:15:11 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4170.961914, 307.063507, 8060.429199>)
+23:15:21 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (A6_Mag_AX_7Rnd)
+23:15:32 | "Hellcatz" (steamid=76561199011835169) gave unlimited ammo to (steamid=76561199011835169)
+23:15:33 | "Hellcatz" (steamid=76561199011835169) gave godmode to (steamid=76561199011835169)
+23:16:50 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:16:50 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:16:51 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:18:5 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:18:45 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3124.770264, 303.488983, 8057.596191>)
+23:18:46 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3134.854248, 303.510590, 8042.599121>)
+23:18:47 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3137.505371, 303.539795, 8025.112305>)
+23:18:48 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3134.332031, 303.686646, 8007.437012>)
+23:18:49 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3130.901123, 303.428253, 7991.586426>)
+23:18:50 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3126.845703, 303.465302, 7982.345215>)
+23:19:10 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:19:12 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2943.523193, 321.587921, 7753.330078>)
+23:19:13 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:20:50 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3699.604492, 402.000031, 5973.665039>)
+23:21:33 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3711.211182, 402.216644, 5993.219727>)
+23:24:32 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3706.431396, 398.920929, 6040.171387>)
+23:25:35 | "Syntactix" (steamid=76561199240649723) /heal used on: "Hellcatz" (steamid=76561199011835169)
+23:25:38 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+23:42:17 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3711.543457, 399.656158, 6032.695801>)
+23:42:18 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3719.173096, 400.721924, 6021.220215>)
+23:42:19 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3716.237061, 401.871460, 6005.730957>)
+23:42:20 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3706.956787, 402.000000, 5996.047363>)
+23:42:20 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3701.272705, 402.000031, 5989.050781>)
+23:42:21 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3703.572998, 401.999969, 5962.788086>)
+23:59:26 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3701.823242, 402.000000, 5987.117188>)
+0:3:17 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:3:25 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:3:27 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<3726.013916, 402.000000, 5984.870117>)
+0:3:27 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3725.948242, 402.383514, 5984.904297>)
+0:3:31 | "Syntactix" (steamid=76561199240649723) toggled godmode
+0:3:35 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3446.021484, 595.771057, 7062.946777>)
+0:3:36 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3320.457764, 335.179657, 7401.335938>)
+0:4:28 | "Syntactix" (steamid=76561199240649723) Spawned Item: (TerritoryHQ)
+0:4:30 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3386.929688, 329.799164, 7441.532715>)
+0:5:10 | "Syntactix" (steamid=76561199240649723) Spawned Item: (StorageBox_Tcrate_Black)
+0:5:15 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3459.677490, 322.364563, 7467.822266>)
+0:5:20 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3453.454834, 322.975861, 7464.473145>)
+0:5:21 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3441.272705, 324.105835, 7460.515625>)
+0:5:21 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3429.749268, 325.304901, 7457.030762>)
+0:5:21 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3419.761230, 326.523499, 7453.478027>)
+0:5:25 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3407.934326, 327.976776, 7449.202148>)
+0:5:25 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3400.623535, 328.766052, 7446.352051>)
+0:5:26 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3396.825439, 329.121277, 7444.434570>)
+0:6:43 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<8208.425781, 470.680145, 9005.796875>)
+0:6:44 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<8208.400391, 470.702301, 9007.121094>)
+0:6:46 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:6:49 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<8204.731445, 469.076355, 9018.575195>)
+0:6:50 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:7:4 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:7:33 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:7:36 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:7:45 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<8205.645508, 470.752075, 9014.820313>)
+0:7:45 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:13:9 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:13:9 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:13:9 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:13:20 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:15:51 | "Syntactix" (steamid=76561199240649723) toggled godmode
+0:15:52 | "Syntactix" (steamid=76561199240649723) toggled godmode
+0:16:22 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<3716.143066, 506.346497, 5988.552246>)
+0:16:37 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<3715.568848, 546.546692, 5985.631836>)
+0:17:55 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_Mag_Alligator_Snipex_5Rnd)
+0:17:55 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_Alligator_Snipex_Black)
+0:21:3 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:21:17 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<12168.771484, 139.999969, 12486.777344>)
+0:23:57 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:23:58 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:23:59 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:24:5 | Player "Syntactix" (steamId=76561199240649723) initiated disconnect process...
+0:24:6 | Player "Syntactix" (steamId=76561199240649723) disconnected early from server (EXIT NOW).
+0:24:9 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:24:55 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:30:15 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<7845.592773, 348.728241, 14626.904297>)
+0:30:16 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<7845.241699, 346.583649, 14626.236328>)
+0:31:56 | Player "Hellcatz" (steamId=76561199011835169) initiated disconnect process...
+0:31:57 | Player "Hellcatz" (steamId=76561199011835169) disconnected early from server (EXIT NOW).

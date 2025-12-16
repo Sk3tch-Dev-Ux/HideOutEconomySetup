@@ -1,0 +1,12 @@
+{
+  "ConfigVersion": 28,
+  "ID": 3,
+  "ObjectiveType": 11,
+  "ObjectiveText": "Craft the flag pole kit",
+  "TimeLimit": -1,
+  "ItemNames": [
+    "TerritoryFlagKit"
+  ],
+  "ExecutionAmount": 1,
+  "Active": 1
+}

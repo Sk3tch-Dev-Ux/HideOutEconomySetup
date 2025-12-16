@@ -1,0 +1,19 @@
+{
+    "version": 0,
+    "steamid": "76561199575568889",
+    "name": "Chaps",
+    "selectedTitle": "",
+    "achievements": [
+        "groupleader",
+        "inventory"
+    ],
+    "trigger": {
+        "kill:zombie": 9,
+        "bullet:shot": 13,
+        "inventory:open": 1,
+        "distance:walk": 4,
+        "ag:group:created:once": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

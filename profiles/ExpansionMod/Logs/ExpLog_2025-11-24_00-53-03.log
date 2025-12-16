@@ -1,0 +1,33 @@
+00:53:07.925 [Expansion Quests] Objective with ID=6 (Type=COLLECT) is set to inactive. Skip adding objective..
+02:33:58.719 [Safezone] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= pos=<3696.02, 402.02, 5992.11>) entered the safezone
+02:33:58.720 [Expansion Quests] Initialize quest system on the connected client with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+02:33:58.723 [Expansion Quests] Created new persistent player quest data for player UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+02:33:58.724 [Expansion Quests] Created new persistent group quest data for group with ID=5310120
+02:33:58.724 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+02:33:58.725 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+02:33:58.725 [Expansion Quests] Updated and saved persistent player quest data for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= | Quest ID=1
+02:33:58.726 [Expansion Quests] Sending FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= quest configs to client for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+02:33:58.726 [Expansion Quests] Sending player quest data for 1 quests to player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+02:33:59.178 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+02:33:59.178 [Expansion Quests] Updated and saved persistent player quest data for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= | Quest ID=1
+02:34:04.539 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+02:34:04.539 [Expansion Quests] Updated and saved persistent player quest data for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= | Quest ID=1
+02:34:04.540 [Expansion Quests] Player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= has completed quest with ID=1
+02:34:04.540 [Expansion Quests] Updated and saved persistent player quest data for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= | Quest ID=1
+02:35:05.370 [VehicleDeleted] OffroadHatchback (id=67B0D3D6CD490F6F9A87B4A45753B39E pos=<0, 0.75, 0.04>)
+02:35:05.382 [Market] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=) has bought offroadhatchback x1 (77c6f510, HeadlightH7<784f0790>, HeadlightH7<784f0790>, HatchbackDoors_CoDriver<784f1320>, HatchbackDoors_Driver<784ee4e0>, HatchbackTrunk<784e3770>, HatchbackHood<784e5a20>, SparkPlug<784e9f80>, CarRadiator<784e4300>, CarBattery<784e8860>, HatchbackWheel<8a241db0>, HatchbackWheel<8a241db0>, HatchbackWheel<8a241db0>, HatchbackWheel<8a241db0>, HatchbackWheel<8a241db0>) from the trader "Vehicles ( [Vehicles])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 24160.
+02:35:14.271 [VehicleCarKey] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= pos=<3696.6, 402.02, 5995.83>) used ExpansionCarKey to unlock OffroadHatchback (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3695.97, 402.04, 5994.21>)
+02:35:18.501 [VehicleEnter] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=) entered vehicle Ada 4x4 (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3695.97, 402.04, 5994.21>) as driver
+02:35:20.069 [VehicleEngine] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=) started vehicle Ada 4x4 (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3695.97, 402.04, 5994.21>)
+02:35:32.073 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Ada 4x4 (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3754.31, 403.21, 5998.01>)
+02:35:32.207 [VehicleLeave] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=) left vehicle Ada 4x4 (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3754.31, 403.21, 5998.01>)
+02:35:35.504 [VehicleCarKey] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= pos=<3756.51, 403.26, 5998.9>) used ExpansionCarKey to lock OffroadHatchback (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3754.31, 403.21, 5998.01>)
+02:35:38.607 [VehicleCarKey] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= pos=<3756.03, 403.24, 5999.12>) used ExpansionCarKey to unlock OffroadHatchback (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3754.31, 403.21, 5998.01>)
+02:49:27.375 [VehicleDeleted] OffroadHatchback (id=14D23098BE4DF351F57E5E8BD3AC5611 pos=<3754.31, 403.21, 5998.01>)
+11:00:32.686 [Safezone] Player "Syntactix" (id=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= pos=<3756.72, 403.27, 5998.88>) entered the safezone
+11:00:32.687 [Expansion Quests] Initialize quest system on the connected client with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+11:00:32.697 [Expansion Quests] Loaded existing player quest data for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+11:00:32.697 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=5310120
+11:00:32.697 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+11:00:32.698 [Expansion Quests] Sending FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c= quest configs to client for player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=
+11:00:32.698 [Expansion Quests] Sending player quest data for 1 quests to player with UID=FyJcOhcMvMpOVeNd_G3xpD63Qg86N5ALZZh0U4LUn0c=

@@ -1,0 +1,14 @@
+{
+    "version": 0,
+    "steamid": "76561199468414765",
+    "name": "[AQL]-KILLA",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

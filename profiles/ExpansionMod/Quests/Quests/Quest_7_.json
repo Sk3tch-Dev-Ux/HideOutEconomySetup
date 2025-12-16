@@ -1,0 +1,84 @@
+{
+  "ConfigVersion": 22,
+  "ID": 7,
+  "Type": 1,
+  "Title": "Hunter: Cow Tipper",
+  "Descriptions": [
+    "",
+    "",
+    ""
+  ],
+  "ObjectiveText": "Hunt and skin a cow",
+  "FollowUpQuest": 8,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "LBS_SleepingBag_New_Camo",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    },
+    {
+      "ClassName": "A6_Scorpion_Evo",
+      "Amount": 1,
+      "Attachments": [
+        "A6_Scorpion_Evo_Tactical_Buttstock",
+        "A6_Mag_Scorpion_Evo_40Rnd",
+        "A6_Scorpion_Evo_PistolGrip"
+      ],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1,
+      "Chance": 1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1,
+    2
+  ],
+  "QuestTurnInIDs": [
+    1,
+    2
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 6,
+      "ObjectiveType": 2
+    },
+    {
+      "ConfigVersion": 28,
+      "ID": 1,
+      "ObjectiveType": 10
+    }
+  ],
+  "QuestColor": -38400,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

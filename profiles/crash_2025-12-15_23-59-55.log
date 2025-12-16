@@ -1,0 +1,173 @@
+---------------------------------------------
+Log C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\profiles\crash_2025-12-15_23-59-55.log started at 16.12. 00:00:45
+
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:45
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:\Bastardo_HC\loot_pools.json":
+JSON ERROR:
+Reading variable: data
+Expecting instance
+Reading variable: AllDefinedCategories
+Expecting map
+Expecting array
+At index 0, Expecting instance
+Reading variable: items
+Expecting array
+At index 0, Expecting instance
+Reading variable: attachments
+Expecting array
+At index 0, Expecting instance
+Is not json object 
+
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BS_HackedCrate/Scripts/4_World/entites\classes\loot\bshclootpoolconfig.c:87 Function Load
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:71 Function OnInit
+KOTH/Scripts/5_Mission/missionserver.c:27 Function OnInit
+CannabisPlus/scripts/5_mission/missionserver.c:7 Function OnInit
+ContinuousSawing\scripts\5_Mission/continuoussawinginit.c:5 Function OnInit
+BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:34 Function OnInit
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:45
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:\Continuous Sawing\ContinuousSawingSettings.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+ContinuousSawing\scripts\3_Game/continuoussawingconfig.c:47 Function Load
+ContinuousSawing\scripts\3_Game/continuoussawingconfig.c:114 Function LoadConfig
+ContinuousSawing\scripts\3_Game/continuoussawingconfig.c:126 Function Init
+ContinuousSawing\scripts\5_Mission/continuoussawinginit.c:7 Function OnInit
+BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:34 Function OnInit
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:47
+ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:17 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:47
+ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:18 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:47
+ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:19 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:47
+ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:20 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 
+
+
+------------------------------------
+SERVER, 16.12 2025 00:00:47
+ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:27 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles dologs  adminlog  serverMod @Server;@2464526692; mod @1559212036;@2545327648;@2276010135;@1828439124;@2303554682;@2444247391;@2873016243;@2932515312;@2291785308;@2792983824;@2116157322;@2828486817;@2572328470;@2291785437;@2777701910;@1646187754;@1710977250;@3289273127;@3423509498;@3392651917;@1827241477;@1932611410;@2931436407;@2931560672;@2981609048;@2536780687; 

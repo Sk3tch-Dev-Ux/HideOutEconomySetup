@@ -1,0 +1,50 @@
+{
+    "name": "MDMEX",
+    "shortname": "MDM",
+    "level": 0,
+    "lastActivity": 1764987436,
+    "creationDate": 1764985489,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 786980430,
+            "name": "Chaps",
+            "icon": "",
+            "position": [
+                4748.6337890625,
+                339.0164489746094,
+                10367.2763671875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199575568889",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0,
+            "tempMember": 0,
+            "lastSubgroup": 0,
+            "moveToLastSubgroup": 0
+        }
+    ],
+    "markers": []
+}

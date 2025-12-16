@@ -1,0 +1,95 @@
+{
+    "version": 1,
+    "rootEntry": {
+        "itemname": "SurvivorM_Manua",
+        "location": 1,
+        "slotId": -1,
+        "row": -1,
+        "column": -1,
+        "idx": -1,
+        "flipped": 0,
+        "children": [
+            {
+                "itemname": "Dogtag_Survivor",
+                "location": 2,
+                "slotId": -1442127266,
+                "row": -1,
+                "column": -1,
+                "idx": -1,
+                "flipped": 0,
+                "children": []
+            },
+            {
+                "itemname": "TShirt_Black",
+                "location": 2,
+                "slotId": 5119774,
+                "row": -1,
+                "column": -1,
+                "idx": -1,
+                "flipped": 0,
+                "children": [
+                    {
+                        "itemname": "BandageDressing",
+                        "location": 3,
+                        "slotId": -1,
+                        "row": 0,
+                        "column": 0,
+                        "idx": 0,
+                        "flipped": 0,
+                        "children": []
+                    },
+                    {
+                        "itemname": "Chemlight_Yellow",
+                        "location": 3,
+                        "slotId": -1,
+                        "row": 0,
+                        "column": 1,
+                        "idx": 0,
+                        "flipped": 0,
+                        "children": []
+                    },
+                    {
+                        "itemname": "Plum",
+                        "location": 3,
+                        "slotId": -1,
+                        "row": 0,
+                        "column": 2,
+                        "idx": 0,
+                        "flipped": 0,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "itemname": "CanvasPantsMidi_Violet",
+                "location": 2,
+                "slotId": 5612719,
+                "row": -1,
+                "column": -1,
+                "idx": -1,
+                "flipped": 0,
+                "children": []
+            },
+            {
+                "itemname": "AthleticShoes_Grey",
+                "location": 2,
+                "slotId": 5308728,
+                "row": -1,
+                "column": -1,
+                "idx": -1,
+                "flipped": 0,
+                "children": []
+            },
+            {
+                "itemname": "A6_SecureContainer_Alpha",
+                "location": 2,
+                "slotId": -1481879766,
+                "row": -1,
+                "column": -1,
+                "idx": -1,
+                "flipped": 0,
+                "children": []
+            }
+        ]
+    }
+}

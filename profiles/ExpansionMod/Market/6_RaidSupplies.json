@@ -1,0 +1,120 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Raid Supplies",
+  "Icon": "Grenade",
+  "Color": "FF0000FF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "hdsn_breachingcharge",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_breachingchargeheavy",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_c4nowiring",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_c4stick",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_c4sticks",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_charcoal",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_detonator",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_explosive",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_gunpowder",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hdsn_sulfur",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 45.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

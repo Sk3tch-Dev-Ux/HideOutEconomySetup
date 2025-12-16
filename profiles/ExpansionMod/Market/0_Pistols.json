@@ -1,0 +1,153 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Weapons - Pistols",
+  "Icon": "Gun",
+  "Color": "FF0000FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "a6_500sw",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_deserteagle",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_fiveseven",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_glock19",
+      "MaxPriceThreshold": 73500,
+      "MinPriceThreshold": 73500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_m1911",
+      "MaxPriceThreshold": 87500,
+      "MinPriceThreshold": 87500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_m1911_compact",
+      "MaxPriceThreshold": 63000,
+      "MinPriceThreshold": 63000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_m1911_kimber",
+      "MaxPriceThreshold": 87500,
+      "MinPriceThreshold": 87500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_m9",
+      "MaxPriceThreshold": 108000,
+      "MinPriceThreshold": 108000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_mp9pro_black",
+      "MaxPriceThreshold": 76000,
+      "MinPriceThreshold": 76000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_mpshield",
+      "MaxPriceThreshold": 70500,
+      "MinPriceThreshold": 70500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_p320",
+      "MaxPriceThreshold": 76000,
+      "MinPriceThreshold": 76000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_px4",
+      "MaxPriceThreshold": 74000,
+      "MinPriceThreshold": 74000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_rugermarkiv",
+      "MaxPriceThreshold": 97500,
+      "MinPriceThreshold": 97500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

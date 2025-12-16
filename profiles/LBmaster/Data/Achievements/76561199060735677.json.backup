@@ -1,0 +1,17 @@
+{
+    "version": 0,
+    "steamid": "76561199060735677",
+    "name": "luke",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "kill:zombie": 13,
+        "distance:walk": 4,
+        "action:ActionMineTree:ruined-target": 1,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

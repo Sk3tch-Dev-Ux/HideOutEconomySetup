@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Dogtags",
+  "Icon": "Deliver",
+  "Color": "00FFFFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "dogtag_survivor",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

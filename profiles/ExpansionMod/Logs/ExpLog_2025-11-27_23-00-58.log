@@ -1,0 +1,139 @@
+23:01:04.322 [Expansion Quests] Objective with ID=6 (Type=COLLECT) is set to inactive. Skip adding objective..
+01:24:55.741 [Expansion Quests] Initialize quest system on the connected client with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+01:24:55.745 [Expansion Quests] Created new persistent player quest data for player UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+01:24:55.745 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+01:24:55.745 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+01:24:55.746 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=1
+01:24:55.746 [Expansion Quests] Sending hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= quest configs to client for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+01:24:55.747 [Expansion Quests] Sending player quest data for 1 quests to player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+01:24:56.218 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+01:24:56.218 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=1
+02:47:56.877 [Safezone] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= pos=<3305.91, 284.49, 5745.08>) entered the safezone
+02:49:23.333 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+02:49:23.334 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=1
+02:49:23.334 [Expansion Quests] Player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= has completed quest with ID=1
+02:49:23.335 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=1
+02:50:11.699 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has sold a6_leupoldmark6optic x1 (ba428030) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 77000.
+02:50:17.329 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has sold battery9v x1 (cfb7c430) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 4340.
+02:51:23.552 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has sold a6_elcanspecteroptic x1 (afd98b10) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 59500.
+02:53:25.079 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has bought fog_bag_6shbagt_emr_white x1 (afc2b9c0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 14000.
+03:54:23.140 [Expansion Quests] Initialize quest system on the connected client with UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=
+03:54:23.155 [Expansion Quests] Loaded existing player quest data for player with UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=
+03:54:23.155 [Expansion Quests] Loaded existing group quest data for group with ID=5968555
+03:54:23.156 [Expansion Quests] Check quest initialization for quest with ID=1 | State=STARTED | Player UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=
+03:54:23.156 [Expansion Quests] Create new quest instance for quest with ID=1 | Player UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=
+03:54:23.157 [Expansion Quests] Sending smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io= quest configs to client for player with UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=
+03:54:23.158 [Expansion Quests] Sending player quest data for 1 quests to player with UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=
+03:54:23.570 [Expansion Quests] Added new objective data for type=TRAVEL | Key=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io= | ID=1
+03:54:23.571 [Expansion Quests] Updated and saved persistent player quest data for player with UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io= | Quest ID=1
+03:55:59.177 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=smrsfctXLmfqYV2V4xYTBccqGYfN9F-xXgsr88FO4io=.
+05:12:53.538 [Safezone] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= pos=<3705.82, 402.02, 5961.7>) entered the safezone
+05:12:53.539 [Expansion Quests] Initialize quest system on the connected client with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+05:12:53.555 [Expansion Quests] Loaded existing player quest data for player with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+05:12:53.556 [Expansion Quests] Loaded existing group quest data for group with ID=218927968
+05:12:53.556 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+05:12:53.557 [Expansion Quests] Sending o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= quest configs to client for player with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+05:12:53.558 [Expansion Quests] Sending player quest data for 1 quests to player with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+05:18:01.251 [Market] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) has bought a6_m1911_compact x1 (adbe96f0, A6_Mag_M1911_Compact_9Rnd<c438e9c0>, ammo_9x19ap63 x9, A6_Gemtech_Tundra_Suppressor<c636ba70>) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 106080.
+05:18:17.241 [Market] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) has bought a6_mag_m1911_compact_9rnd x1 (c437ec70, ammo_9x19ap63 x9) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 22080.
+05:18:17.649 [Market] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) has bought a6_mag_m1911_compact_9rnd x1 (c4388940, ammo_9x19ap63 x9) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 22080.
+05:20:42.826 [Market] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) has bought a6_omega_300_suppressor x1 (cec542c0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 21000.
+05:22:54.758 [Market] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) has bought a6_eotechoptic x1 (bf0bf880) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 120000.
+05:25:09.981 [Market] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) has bought mfp_hflask_slate x1 (1023bb50) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 14000.
+05:28:42.136 [Safezone] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= pos=<3240.67, 272.86, 5719.81>) left the safezone
+06:26:49.053 [Safezone] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= pos=<3309.13, 284.46, 5733.86>) entered the safezone
+07:04:46.772 [Safezone] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= pos=<3703.85, 402.02, 5959.97>) entered the safezone
+07:04:46.773 [Expansion Quests] Initialize quest system on the connected client with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+07:04:46.776 [Expansion Quests] Loaded existing player quest data for player with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+07:04:46.776 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=218927968
+07:04:46.777 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+07:04:46.777 [Expansion Quests] Sending o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= quest configs to client for player with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+07:04:46.778 [Expansion Quests] Sending player quest data for 1 quests to player with UID=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=
+07:05:22.721 [VehicleDeleted] CrSk_Insurgent_SUV_Black (id=F4F26EB0104B11A67EFEB0A01FA271C2 pos=<0, -51.28, -0.2>)
+07:05:33.189 [VehicleEnter] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) entered vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<3737.8, 402.59, 6000.43>) as driver
+07:05:34.796 [VehicleEngine] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) started vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<3737.8, 402.59, 6000.43>)
+07:05:42.621 [VehicleEngine] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) stopped vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<3737.8, 402.59, 6000.43>)
+07:05:44.746 [VehicleEngine] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) started vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<3737.8, 402.59, 6000.43>)
+07:06:20.647 [Safezone] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= pos=<4314.92, 328.4, 5475.68>) left the safezone
+07:07:28.978 [VehicleLeave] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) left vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4546.42, 233.08, 4523.34>)
+07:10:32.605 [VehicleEnter] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) entered vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4546.42, 233.08, 4523.34>) as driver
+07:10:56.905 [VehicleLeave] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) left vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4582.39, 233.35, 4519.29>)
+07:29:16.696 [VehicleEnter] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) entered vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4582.39, 233.35, 4519.29>) as driver
+07:29:45.063 [VehicleLeave] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) left vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4533.13, 233.01, 4550.66>)
+07:30:08.598 [VehicleEnter] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) entered vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4533.13, 233.01, 4550.66>) as driver
+07:30:16.933 [VehicleLeave] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) left vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4527.71, 233.75, 4574.19>)
+07:30:29.160 [VehicleEnter] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) entered vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<4527.71, 233.75, 4574.19>) as driver
+07:31:42.804 [Safezone] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18= pos=<4103.93, 353.53, 5676.33>) entered the safezone
+07:32:16.599 [VehicleLeave] Player "$kizo" (id=o4f3cnqp6AYc2jBk38PQBx8x94UJVru5puhAaLyBD18=) left vehicle Insurgent SUV Black (id=12CC5293E1447EBC2379AC863657388F pos=<3739.24, 402.69, 5999.11>)
+07:32:31.743 [VehicleDeleted] CrSk_Insurgent_SUV_Black (id=12CC5293E1447EBC2379AC863657388F pos=<3739.24, 402.69, 5999.11>)
+17:18:39.849 [Expansion Quests] Initialize quest system on the connected client with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+17:18:39.854 [Expansion Quests] Created new persistent player quest data for player UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+17:18:39.854 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+17:18:39.854 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+17:18:39.855 [Expansion Quests] Updated and saved persistent player quest data for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= | Quest ID=1
+17:18:39.855 [Expansion Quests] Sending rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= quest configs to client for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+17:18:39.856 [Expansion Quests] Sending player quest data for 1 quests to player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+17:18:40.329 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+17:18:40.329 [Expansion Quests] Updated and saved persistent player quest data for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= | Quest ID=1
+18:34:31.219 [Safezone] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= pos=<3312.32, 284.76, 5730.99>) entered the safezone
+18:36:00.619 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+18:36:00.620 [Expansion Quests] Updated and saved persistent player quest data for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= | Quest ID=1
+18:36:00.620 [Expansion Quests] Player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= has completed quest with ID=1
+18:36:00.621 [Expansion Quests] Updated and saved persistent player quest data for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= | Quest ID=1
+18:37:26.077 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has bought fog_bag_6shbagt_black x1 (afa5adc0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 14000.
+18:38:32.793 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has bought bbp_blueprint x1 (12ddd420) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 17500.
+18:38:43.622 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has bought lbs_sleepingpacked_new_camo x1 (12ddf6d0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 17500.
+18:40:19.252 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has sold a6_xtri_optic x1 (164daac0) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 77000.
+18:40:20.091 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has sold a6_acogoptic_tan x1 (116f1af0) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 59500.
+18:41:35.659 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has bought screwdriver x1 (cbae59b0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 17500.
+18:47:21.465 [Safezone] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= pos=<3281.55, 275.18, 5645.76>) left the safezone
+19:23:27.528 [Expansion Quests] Initialize quest system on the connected client with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290=
+19:23:27.532 [Expansion Quests] Created new persistent player quest data for player UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290=
+19:23:27.532 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290=
+19:23:27.533 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:23:27.533 [Expansion Quests] Updated and saved persistent player quest data for player with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290= | Quest ID=1
+19:23:27.534 [Expansion Quests] Sending nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290= quest configs to client for player with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290=
+19:23:27.534 [Expansion Quests] Sending player quest data for 1 quests to player with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290=
+19:23:28.010 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:23:28.011 [Expansion Quests] Updated and saved persistent player quest data for player with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290= | Quest ID=1
+19:26:15.770 [Safezone] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= pos=<3315.65, 285.42, 5735.24>) entered the safezone
+19:44:19.805 [Safezone] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= pos=<3414.86, 308.66, 5790.79>) entered the safezone
+19:44:19.805 [Expansion Quests] Initialize quest system on the connected client with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+19:44:19.821 [Expansion Quests] Loaded existing player quest data for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+19:44:19.821 [Expansion Quests] Created new persistent group quest data for group with ID=161826
+19:44:19.821 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+19:44:19.822 [Expansion Quests] Sending rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= quest configs to client for player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+19:44:19.822 [Expansion Quests] Sending player quest data for 1 quests to player with UID=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=
+19:47:41.629 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has sold a6_acogoptic_black x1 (c28bb4d0) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 59500.
+19:47:43.140 [Market] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo=) has sold a6_acogoptic_black_rmroptic_black x1 (c136bfc0, Battery9V<1e1ef8d0>) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 71820.
+19:51:22.178 [Safezone] Player "sammy" (id=rvwee3OBBhfeCkZDLA_edpHeYiJqOQygt0pZcN1FLZo= pos=<3501.63, 339.03, 6521.62>) left the safezone
+20:00:41.651 [Expansion Quests] Initialize quest system on the connected client with UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=
+20:00:41.665 [Expansion Quests] Loaded existing player quest data for player with UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=
+20:00:41.665 [Expansion Quests] Check quest initialization for quest with ID=1 | State=STARTED | Player UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=
+20:00:41.665 [Expansion Quests] Create new quest instance for quest with ID=1 | Player UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=
+20:00:41.666 [Expansion Quests] Sending 3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o= quest configs to client for player with UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=
+20:00:41.667 [Expansion Quests] Sending player quest data for 1 quests to player with UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=
+20:00:42.145 [Expansion Quests] Added new objective data for type=TRAVEL | Key=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o= | ID=1
+20:00:42.146 [Expansion Quests] Updated and saved persistent player quest data for player with UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o= | Quest ID=1
+20:01:43.737 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=3J-NbjgiVl-E-ZoQZOVTiZyU__qnsGO4ro0cBkRtb6o=.
+20:26:41.285 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=nhcB0JV6z483TfY-_KBye70QU80LRV9kZjmqnZ32290=.
+21:04:39.751 [Expansion Quests] Initialize quest system on the connected client with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc=
+21:04:39.756 [Expansion Quests] Created new persistent player quest data for player UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc=
+21:04:39.756 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc=
+21:04:39.757 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+21:04:39.757 [Expansion Quests] Updated and saved persistent player quest data for player with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc= | Quest ID=1
+21:04:39.758 [Expansion Quests] Sending 7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc= quest configs to client for player with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc=
+21:04:39.758 [Expansion Quests] Sending player quest data for 1 quests to player with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc=
+21:04:40.231 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+21:04:40.232 [Expansion Quests] Updated and saved persistent player quest data for player with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc= | Quest ID=1
+21:17:41.644 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=7vNG28dMVhTIaF44HuiOWMzA76mjSJf3M8RCM1xG7dc=.
+21:32:14.506 [Expansion Quests] Initialize quest system on the connected client with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4=
+21:32:14.510 [Expansion Quests] Created new persistent player quest data for player UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4=
+21:32:14.511 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4=
+21:32:14.511 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+21:32:14.511 [Expansion Quests] Updated and saved persistent player quest data for player with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4= | Quest ID=1
+21:32:14.512 [Expansion Quests] Sending oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4= quest configs to client for player with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4=
+21:32:14.513 [Expansion Quests] Sending player quest data for 1 quests to player with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4=
+21:32:14.985 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+21:32:14.986 [Expansion Quests] Updated and saved persistent player quest data for player with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4= | Quest ID=1
+21:36:55.184 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=oZI4WR70rg-ftlSPlM3AcTRBO45iGxTIxIouoOrZui4=.

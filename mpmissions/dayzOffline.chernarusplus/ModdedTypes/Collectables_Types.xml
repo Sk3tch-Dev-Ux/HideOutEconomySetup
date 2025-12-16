@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="ZY_Collectable_Coin3">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Coin2">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Coin">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_GameboyAdv">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_GameboyColor">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_ImpossibleCube">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Nintendo2DS">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_NintendoDSLite">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_NintendoSwitch">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_NintendoWii">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_NintendoWiiController">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_GreatBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_MasterBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PokeBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_NestBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_ParkBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PremierBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_SafariBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_UltraBall">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Pokedex">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_RubixCube">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Skull_Gold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Skull_Silver">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_CPU">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_BarGold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_BarSilver">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidCam">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm1">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm2">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm3">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm4">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm5">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm6">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm7">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm8">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm9">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PolaroidFilm10">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS1">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS2">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS4">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS4Controller">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS5">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS5_Gold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_IPhone_White">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_IPhone_Black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS5Controller">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_PS5Controller_Gold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Tamagochi_Blue">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Tamagochi_Green">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Tamagochi_Purple">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Tamagochi_Red">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Tamagochi_yellow">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Tetristoy">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_Keyboard">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game1">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game2">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game3">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game4">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game5">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game6">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game7">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game8">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game9">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_N64Game10">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_GPU">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+    <type name="ZY_Collectable_RAM">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <usage name="Cult"/>
+        <usage name="Underground"/>
+        <usage name="Elite"/>
+        <usage name="HeliCrash"/>
+        <usage name="CultCrash"/>
+        <usage name="MissileSilo"/>
+    </type>
+</types>

@@ -1,0 +1,191 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-9_8-40-18
+====================================================================================
+8:40:18 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+8:40:18 | [PermissionManager] Perm (FreeCamera) has been registered!
+8:40:18 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuItemManager) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuServerManager) has been registered!
+8:40:18 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+8:40:18 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+8:40:18 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+8:40:18 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+8:40:18 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+8:40:18 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+8:40:18 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+8:40:18 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+8:40:18 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+8:40:18 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuBansManager) has been registered!
+8:40:18 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+8:40:18 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+8:40:18 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+8:40:18 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+8:40:18 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+8:40:18 | [PermissionManager] Adding Super Admin (76561199240649723)
+8:40:18 | [PermissionManager] Adding Super Admin (76561199011835169)
+8:40:18 | [PermissionManager] Loaded UserGroups.json
+8:40:18 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+8:40:18 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+8:40:18 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+8:40:18 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+8:40:18 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+8:40:18 | Building Sets Loaded: 0
+8:40:18 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+8:40:18 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+8:41:37 | Player "Hellcatz" (steamId=76561199011835169) connected to server!
+8:41:51 | [WeatherManager] Send Data Count is 0
+8:41:59 | [Time Manager] Setting Date to 2025/9/20 9:3
+8:42:7 | Player "Syntactix" (steamId=76561199240649723) connected to server!
+8:42:27 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+8:42:48 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Money)
+8:42:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Money)
+8:42:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Money)
+8:42:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Money)
+8:42:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Money)
+8:42:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Money)
+8:43:8 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<8165.346191, 474.040039, 9093.376953>)
+8:43:13 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<8183.102051, 471.663147, 9056.107422>)
+8:43:14 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<8194.864258, 470.818390, 9049.824219>)
+8:44:57 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<13478.391602, 76.008789, 3267.561768>)
+8:45:55 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<8180.000000, 472.441162, 9063.288086>)
+8:45:55 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<8170.604004, 474.040039, 9081.802734>)
+8:46:30 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2491.127930, 196.756378, 5126.373535>)
+8:46:45 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_Mag_MK18_Mjolnir_10Rnd)
+8:46:47 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_MK18_Mjolnir_Black)
+8:46:56 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_AI_338_Suppressor)
+8:47:6 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.023926, 481.233704, 15006.675781>)
+8:47:7 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.248047, 481.238525, 15005.802734>)
+8:47:8 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.626465, 480.954132, 15004.330078>)
+8:47:8 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.587402, 480.497925, 15004.482422>)
+8:47:8 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.823730, 481.298615, 15003.561523>)
+8:47:8 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.788086, 481.251282, 15003.701172>)
+8:47:8 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.880371, 481.279907, 15003.340820>)
+8:47:8 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.840820, 481.028687, 15003.495117>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.844727, 482.343628, 15003.479492>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.802246, 482.344238, 15003.645508>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.575684, 483.482635, 15003.583984>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5504.499023, 482.788696, 15003.583008>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5500.771973, 480.493896, 15002.615234>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5501.626953, 480.493896, 15002.875977>)
+8:47:9 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5499.418457, 480.493896, 15002.342773>)
+8:47:10 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5499.819824, 480.493896, 15002.317383>)
+8:47:10 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5499.076660, 480.493896, 15001.732422>)
+8:47:13 | "Syntactix" (steamid=76561199240649723) gave unlimited ammo to (steamid=76561199240649723)
+8:47:14 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<5496.153809, 482.348206, 15002.961914>)
+8:47:20 | "Syntactix" (steamid=76561199240649723) toggled godmode
+8:47:21 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+8:47:31 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+8:47:35 | "Syntactix" (steamid=76561199240649723) toggled godmode
+8:47:48 | "Syntactix" (steamid=76561199240649723) toggled godmode
+8:47:59 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2491.728271, 196.778320, 5125.750000>)
+8:49:26 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2491.853516, 196.661102, 5125.619141>)
+8:49:32 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2503.565430, 197.144501, 5117.230469>)
+8:49:40 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2520.429199, 196.839569, 5103.407715>)
+8:49:51 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2508.687744, 197.170410, 5109.465332>)
+8:49:54 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2533.996338, 194.371780, 5093.442871>)
+8:50:0 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<4952.498047, 9.501234, 2555.926758>)
+8:50:1 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<4952.041016, 9.755890, 2571.698975>)
+8:50:1 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<4949.692383, 9.727470, 2590.187256>)
+8:50:2 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2523.126953, 196.360580, 5102.088379>)
+8:50:3 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<4944.620117, 11.629926, 2597.814941>)
+8:50:26 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2503.079834, 195.931076, 5103.174316>)
+8:50:28 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2507.172607, 197.165894, 5110.965332>)
+8:50:39 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2493.396240, 196.975494, 5124.395020>)
+8:50:41 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2481.869141, 202.376755, 5128.645508>)
+8:50:52 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2471.606445, 193.208832, 5116.068359>)
+8:50:55 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2470.403809, 202.292267, 5126.716797>)
+8:53:27 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2469.316406, 197.696243, 5105.034180>)
+8:53:46 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_HK_E1_Buttstock_Black)
+8:54:15 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_M4A1_PistolGrip_Ergo)
+8:54:43 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_B25U_RK2_Grip)
+8:55:40 | "Syntactix" (steamid=76561199240649723) Spawned Item: (BS_HackedCrateRust)
+8:55:42 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2472.354980, 193.193466, 5118.174316>)
+8:55:57 | "Syntactix" (steamid=76561199240649723) deleted object "BS_HackedCrateRust" (pos=<2470.077881, 193.331345, 5116.913574>)
+8:56:4 | "Syntactix" (steamid=76561199240649723) Spawned Item: (BS_Hacked_Crate_Black)
+8:56:11 | "Syntactix" (steamid=76561199240649723) deleted object "BS_Hacked_Crate_Black" (pos=<2469.238525, 193.176086, 5117.697754>)
+8:57:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_BandageDressing)
+8:57:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_BandageDressing)
+8:58:2 | "Syntactix" (steamid=76561199240649723) toggled godmode
+8:58:41 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<2471.645264, 198.031174, 5098.368164>)
+8:59:2 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<2469.459717, 197.755737, 5104.167480>)
+8:59:36 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<2469.033203, 197.675369, 5105.609863>)
+8:59:42 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<2468.807373, 197.771729, 5104.740234>)
+9:0:1 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Grizzly_Medkit)
+9:0:1 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_Grizzly_Medkit)
+9:0:6 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<2469.347168, 198.145279, 5099.714844>)
+9:0:30 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Hideout_IFAK_Medkit_Black)
+9:0:58 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+9:4:23 | Player "Syntactix" (steamId=76561199240649723) initiated disconnect process...
+9:4:23 | Player "Hellcatz" (steamId=76561199011835169) initiated disconnect process...
+9:4:24 | Player "Syntactix" (steamId=76561199240649723) disconnected from server.
+9:4:24 | Player "Hellcatz" (steamId=76561199011835169) disconnected from server.

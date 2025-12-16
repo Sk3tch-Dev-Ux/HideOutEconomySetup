@@ -1,0 +1,260 @@
+03:18:40.402 [Safezone] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= pos=<3718.13, 402.04, 5976.15>) entered the safezone
+03:18:40.403 [Expansion Quests] Initialize quest system on the connected client with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+03:18:40.413 [Expansion Quests] Loaded existing player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+03:18:40.413 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+03:18:40.413 [Expansion Quests] Sending hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= quest configs to client for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+03:18:40.414 [Expansion Quests] Sending player quest data for 1 quests to player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=
+03:19:07.206 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has sold a6_nxsoptic x1 (ca5a34e0) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 16800.
+03:19:23.862 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has sold balaclavamask_bdu x1 (ca5a1cc0) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 500.
+03:22:08.337 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has bought fog_vest_fcpc_mcal x1 (1d155ec0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 35000.
+03:23:14.332 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has bought mfp_cokezero x5 (1d168040) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 10000.
+03:24:21.390 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has bought fog_ferrogloves_white x1 (1ffbcd30) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+03:24:49.610 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has bought fog_mtf_pants_white x1 (1ffd2b00) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+03:25:27.163 [Market] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=) has bought fog_arcteryx_balaclava_white x1 (1ffe94e0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+03:27:46.814 [Expansion Quests] Added new objective data for type=TARGET | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=6
+03:27:46.814 [Expansion Quests] Added new objective data for type=ACTION | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=1
+03:27:46.815 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=7
+03:27:46.815 [Expansion Quests] Created new quest instance with instance key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= for quest with ID=7
+03:28:27.352 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=20
+03:28:27.352 [Expansion Quests] Created new quest instance with instance key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= for quest with ID=20
+03:28:31.509 [Expansion Quests] Added new objective data for type=CRAFTING | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=3
+03:28:31.510 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=23
+03:28:31.510 [Expansion Quests] Created new quest instance with instance key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= for quest with ID=23
+03:28:34.615 [Expansion Quests] Added new objective data for type=CRAFTING | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=4
+03:28:34.616 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=24
+03:28:34.616 [Expansion Quests] Created new quest instance with instance key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= for quest with ID=24
+03:28:37.497 [Expansion Quests] Added new objective data for type=CRAFTING | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=5
+03:28:37.498 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=25
+03:28:37.499 [Expansion Quests] Created new quest instance with instance key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= for quest with ID=25
+03:34:04.770 [Safezone] Player "Demonic" (id=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= pos=<3290.2, 275.56, 5640.66>) left the safezone
+03:47:18.710 [Expansion Quests] Added new objective data for type=CRAFTING | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=3
+03:47:18.711 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=23
+03:47:18.711 [Expansion Quests] Added new objective data for type=CRAFTING | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=4
+03:47:18.712 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=24
+03:47:18.713 [Expansion Quests] Added new objective data for type=CRAFTING | Key=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | ID=5
+03:47:18.716 [Expansion Quests] Updated and saved persistent player quest data for player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM= | Quest ID=25
+03:55:04.712 [Expansion Quests] Deleted quest with ID=20 is a of player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=.
+03:55:04.712 [Expansion Quests] Deleted quest with ID=7 is a of player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=.
+03:55:04.712 [Expansion Quests] Deleted quest with ID=23 is a of player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=.
+03:55:04.712 [Expansion Quests] Deleted quest with ID=24 is a of player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=.
+03:55:04.713 [Expansion Quests] Deleted quest with ID=25 is a of player with UID=hwwDN6M_kiT6LM5K2FNYk3ctvuHzrkEI4nTrjI3J7GM=.
+09:23:27.550 [Expansion Quests] Initialize quest system on the connected client with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+09:23:27.565 [Expansion Quests] Loaded existing player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+09:23:27.566 [Expansion Quests] Loaded existing group quest data for group with ID=140782
+09:23:27.566 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+09:23:27.567 [Expansion Quests] Sending _YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= quest configs to client for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+09:23:27.567 [Expansion Quests] Sending player quest data for 1 quests to player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+09:46:30.299 [Safezone] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= pos=<3919.83, 324.85, 5545.41>) entered the safezone
+09:50:29.832 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought a6_ar15_standard x1 (af95f640) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 130000.
+09:54:15.120 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought a6_tangodown_grip x1 (b4a1f550) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 60000.
+09:54:30.195 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought a6_m4a1_handguard_dd95_tan x1 (b4a24640) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 56000.
+09:58:34.191 [Safezone] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= pos=<4179.18, 324.83, 6348.37>) left the safezone
+10:14:06.936 [Safezone] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= pos=<7752.45, 420.55, 8813.69>) entered the safezone
+10:15:55.453 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:15:55.453 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:15:55.454 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=23
+10:16:29.938 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:16:29.938 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:16:29.939 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=24
+10:16:32.075 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:16:32.076 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:16:32.076 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=25
+10:16:36.437 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:16:36.438 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:16:36.438 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=22
+10:16:38.318 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:16:38.319 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:16:38.319 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=21
+10:16:40.574 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=19
+10:16:40.575 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=19
+10:16:42.331 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=18
+10:16:42.332 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=18
+10:16:49.122 [Expansion Quests] Added new objective data for type=COLLECT | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:16:49.123 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=12
+10:16:49.124 [Expansion Quests] Created new quest instance with instance key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= for quest with ID=12
+10:16:49.621 [Expansion Quests] Added new objective data for type=COLLECT | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:16:49.622 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=12
+10:20:33.295 [Safezone] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= pos=<8665.9, 381.96, 9367.83>) left the safezone
+10:33:39.982 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:33:39.983 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:33:39.984 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:33:39.984 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:33:39.985 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:33:39.986 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:33:39.986 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:33:39.987 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:33:39.987 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:33:39.988 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:34:17.111 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:34:17.112 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:34:17.113 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:34:17.114 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:34:17.114 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:34:17.115 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:34:17.115 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:34:17.116 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:34:17.116 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:34:17.117 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:44:34.804 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:44:34.805 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:44:34.805 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:44:34.806 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:44:34.806 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:44:34.807 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:44:34.807 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:44:34.808 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:44:34.809 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:44:34.809 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:45:22.703 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:45:22.704 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:45:22.704 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:45:22.705 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:45:22.706 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:45:22.706 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:45:22.707 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:45:22.708 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:45:22.708 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:45:22.709 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:46:13.302 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:46:13.303 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:46:13.303 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:46:13.304 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:46:13.304 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:46:13.305 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:46:13.305 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:46:13.306 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:46:13.307 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:46:13.307 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:47:30.469 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:47:30.470 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:47:30.470 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:47:30.471 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:47:30.471 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:47:30.472 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:47:30.472 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:47:30.473 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:47:30.474 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:47:30.474 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:48:15.236 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:48:15.237 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:48:15.237 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:48:15.238 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:48:15.238 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:48:15.239 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:48:15.239 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:48:15.240 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:48:15.240 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:48:15.241 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+10:49:06.967 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+10:49:06.968 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+10:49:06.968 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+10:49:06.969 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+10:49:06.969 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+10:49:06.970 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+10:49:06.970 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+10:49:06.970 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+10:49:06.971 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+10:49:06.971 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+11:07:27.117 [Expansion Quests] Deleted quest with ID=18 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.117 [Expansion Quests] Deleted quest with ID=19 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.117 [Expansion Quests] Deleted quest with ID=21 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.117 [Expansion Quests] Deleted quest with ID=22 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.118 [Expansion Quests] Deleted quest with ID=23 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.118 [Expansion Quests] Deleted quest with ID=24 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.118 [Expansion Quests] Deleted quest with ID=25 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+11:07:27.118 [Expansion Quests] Deleted quest with ID=12 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+14:40:32.894 [Expansion Quests] Initialize quest system on the connected client with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.903 [Expansion Quests] Loaded existing player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.903 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=140782
+14:40:32.903 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.903 [Expansion Quests] Check quest initialization for quest with ID=12 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.904 [Expansion Quests] Create new quest instance for quest with ID=12 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.904 [Expansion Quests] Check quest initialization for quest with ID=18 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.904 [Expansion Quests] Create new quest instance for quest with ID=18 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.905 [Expansion Quests] Quest continue event failed for quest with quest ID=18 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.906 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=18
+14:40:32.906 [Expansion Quests] Check quest initialization for quest with ID=19 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.906 [Expansion Quests] Create new quest instance for quest with ID=19 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.906 [Expansion Quests] Quest continue event failed for quest with quest ID=19 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.907 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=19
+14:40:32.907 [Expansion Quests] Check quest initialization for quest with ID=21 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.907 [Expansion Quests] Create new quest instance for quest with ID=21 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.908 [Expansion Quests] Check quest initialization for quest with ID=22 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.908 [Expansion Quests] Create new quest instance for quest with ID=22 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.908 [Expansion Quests] Check quest initialization for quest with ID=23 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.908 [Expansion Quests] Create new quest instance for quest with ID=23 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.909 [Expansion Quests] Check quest initialization for quest with ID=24 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.909 [Expansion Quests] Create new quest instance for quest with ID=24 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.909 [Expansion Quests] Check quest initialization for quest with ID=25 | State=STARTED | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.909 [Expansion Quests] Create new quest instance for quest with ID=25 | Player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.911 [Expansion Quests] Sending _YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= quest configs to client for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:32.911 [Expansion Quests] Sending player quest data for 9 quests to player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+14:40:33.336 [Expansion Quests] Added new objective data for type=COLLECT | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+14:40:33.337 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=12
+15:15:51.533 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+15:15:51.533 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+15:15:51.534 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+15:15:51.535 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+15:15:51.535 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+15:15:51.536 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+15:15:51.536 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+15:15:51.537 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+15:15:51.537 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+15:15:51.538 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+15:16:16.368 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+15:16:16.369 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+15:16:16.369 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+15:16:16.370 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+15:16:16.370 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+15:16:16.371 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+15:16:16.372 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+15:16:16.372 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+15:16:16.373 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=5
+15:16:16.373 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=25
+15:17:52.091 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+15:17:52.092 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+15:17:52.092 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+15:17:52.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+15:17:52.093 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+15:17:52.094 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+15:17:52.094 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+15:17:52.095 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+15:20:40.896 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=2
+15:20:40.897 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=21
+15:20:40.897 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=1
+15:20:40.898 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=22
+15:20:40.899 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=3
+15:20:40.899 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=23
+15:20:40.900 [Expansion Quests] Added new objective data for type=CRAFTING | Key=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | ID=4
+15:20:40.900 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=24
+15:32:15.409 [Expansion Quests] Deleted quest with ID=21 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+15:32:15.410 [Expansion Quests] Deleted quest with ID=22 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+15:32:15.410 [Expansion Quests] Deleted quest with ID=23 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+15:32:15.410 [Expansion Quests] Deleted quest with ID=24 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+15:32:15.410 [Expansion Quests] Deleted quest with ID=25 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+15:32:15.411 [Expansion Quests] Deleted quest with ID=12 is a of player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=.
+18:36:53.281 [Expansion Quests] Initialize quest system on the connected client with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=
+18:36:53.285 [Expansion Quests] Created new persistent player quest data for player UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=
+18:36:53.285 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=
+18:36:53.286 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+18:36:53.286 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= | Quest ID=1
+18:36:53.287 [Expansion Quests] Sending RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= quest configs to client for player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=
+18:36:53.287 [Expansion Quests] Sending player quest data for 1 quests to player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=
+18:36:53.761 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+18:36:53.761 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= | Quest ID=1
+19:21:12.353 [Safezone] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= pos=<4020.18, 344.18, 5601.38>) entered the safezone
+19:22:39.317 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:22:39.317 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= | Quest ID=1
+19:22:39.318 [Expansion Quests] Player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= has completed quest with ID=1
+19:22:39.318 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= | Quest ID=1
+19:24:39.903 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has sold weaponcleaningkit x1 (bdc427c0) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 10000.
+19:25:28.867 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_vest_lbt6094_black x1 (c72c1430) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 35000.
+19:25:35.309 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_helmet_fast_bump_black x1 (c72cd530) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 35000.
+19:26:18.462 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_bag_6shbagt_black x1 (adaced00) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 20000.
+19:26:30.038 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_pants_crye_g3_black x1 (adace0f0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+19:26:38.596 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_glasses_pitviper_murica x1 (adad4170) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+19:26:48.006 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_mechanixgloves_black x1 (c0e1fa40) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+19:26:55.527 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_ghost_mask_black x1 (c0e1b1e0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+19:27:18.239 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought fog_jacket_softshell_black x1 (cdad3dc0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+19:30:16.393 [Market] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4=) has bought mfp_hflask_royal x1 (3ea13dc0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 2000.
+19:34:33.977 [Safezone] Player "RideBlue" (id=RSwgBjrEIdb-Z-xOHK9m5SvQfHby-uyYph0WOIZ6Sx4= pos=<3933.69, 321.17, 6543.14>) left the safezone

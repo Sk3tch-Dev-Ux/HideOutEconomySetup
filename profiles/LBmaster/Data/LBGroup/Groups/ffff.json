@@ -1,0 +1,50 @@
+{
+    "name": "fffff",
+    "shortname": "ffff",
+    "level": 0,
+    "lastActivity": 1764392865,
+    "creationDate": 1762588543,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 1946871846,
+            "name": "Hellcatz",
+            "icon": "",
+            "position": [
+                3701.90283203125,
+                402.0248718261719,
+                5970.15087890625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199011835169",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 65.828857421875,
+            "tempMember": 0,
+            "lastSubgroup": 0,
+            "moveToLastSubgroup": 0
+        }
+    ],
+    "markers": []
+}

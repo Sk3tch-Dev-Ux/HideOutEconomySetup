@@ -1,0 +1,39 @@
+{
+    "version": 0,
+    "steamid": "76561199032441806",
+    "name": "$kizo",
+    "selectedTitle": "",
+    "achievements": [
+        "atms1",
+        "bullet1",
+        "bullet2",
+        "flagpole",
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2",
+        "money3",
+        "money4",
+        "run_car1",
+        "run_foot1",
+        "zombie1",
+        "zombie2"
+    ],
+    "trigger": {
+        "quests:finished": 2,
+        "action:ActionEatCan:item:TunaCan_Opened:once": 1,
+        "action:ActionEatCan:item:BakedBeansCan_Opened:once": 1,
+        "bank:balance:personal": 1133313,
+        "atm:robbed": 2,
+        "action:ActionDeployObject:hologram:TerritoryFlagKitPlacing": 2,
+        "kill:zombie": 315,
+        "distance:drive": 48,
+        "action:ActionMineTree:ruined-target": 3,
+        "ag:group:created:once": 1,
+        "inventory:open": 1,
+        "distance:walk": 49,
+        "bullet:shot": 191
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

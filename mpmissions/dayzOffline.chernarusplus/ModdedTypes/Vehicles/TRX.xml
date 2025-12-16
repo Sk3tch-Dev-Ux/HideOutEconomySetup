@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="CrSk_RAM_1500_TRX">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Grey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Khaki">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Red">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Tan">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Clean_Yellow">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Grey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Khaki">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_1500_TRX_Tan">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Grey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Khaki">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Red">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Tan">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Clean_Yellow">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Grey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Khaki">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="CrSk_RAM_Hennessey_Mammoth_900_Tan">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Hennessey_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_bagazhnik_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Hennessey_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_1_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_1_2_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Hennessey_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_1_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_dver_2_2_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Black">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Blue">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Red">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Clean_Yellow">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Khaki">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_kapot_Tan">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_koleso">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_koleso_Hennessey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_koleso_Hennessey_Ruined">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="RAM1500TRX_koleso_Ruined">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="RAM1500TRX_koleso2">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_koleso2_Hennessey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="RAM1500TRX_koleso2_Hennessey_Ruined">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="RAM1500TRX_koleso2_Ruined">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+</types>

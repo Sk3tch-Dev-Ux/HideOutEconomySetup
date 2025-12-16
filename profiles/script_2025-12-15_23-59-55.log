@@ -1,0 +1,1300 @@
+---------------------------------------------
+Log C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\profiles\script_2025-12-15_23-59-55.log started at 15.12. 23:59:55
+
+SCRIPT       : Loaded Achievements (Client PBO) Version 1.3.2:stable
+SCRIPT       : Loaded Achievements (Server PBO) Version 1.3.2:stable
+SCRIPT       : Loaded Airdrops (Client PBO) Version 3.0.3:stable
+SCRIPT       : Loaded Airdrops (Server PBO) Version 3.0.3:stable
+SCRIPT       : Loaded Remote Config Storage (Client PBO) Version 0.1.1:stable
+SCRIPT       : Loaded Core (Client PBO) Version 4.0.0:stable
+SCRIPT       : Loaded Earplugs (Client PBO) Version 1.1.1:stable
+SCRIPT       : Loaded Virtual Garage (Client PBO) Version 4.8.0:stable
+SCRIPT       : Loaded Virtual Garage (Server PBO) Version 4.8.0:stable
+SCRIPT       : Loaded Advanced Groups (Client PBO) Version 5.1.0:stable
+SCRIPT       : Loaded Enhanced Banking (Client PBO) Version 3.2.0:stable
+SCRIPT       : Loaded Advanced Groups (Server PBO) Version 5.1.0:stable
+SCRIPT       : Loaded Hover Loot (Client PBO) Version 1.1.1:stable
+SCRIPT       : Loaded Advanced Loot Chests (Client PBO) Version 4.0.0:stable
+SCRIPT       : Loaded Advanced Loot Chests (Server PBO) Version 4.0.0:stable
+SCRIPT       : Loaded Skin System (Client PBO) Version 4.1.7:stable
+SCRIPT       : Loaded Skin System (Server PBO) Version 4.1.7:stable
+SCRIPT       : Loaded Spawn System (Client PBO) Version 5.3.0:stable
+SCRIPT       : Loaded Spawn System (Server PBO) Version 5.3.0:stable
+SCRIPT       : Loaded Utility Workbenches (Client PBO) Version 3.0.10:stable
+SCRIPT       : Loaded Utility Workbenches (Server PBO) Version 3.0.10:stable
+SCRIPT       : Version check for Achievements successful. Version Loaded: 1.3.2:stable
+SCRIPT       : Version check for Airdrops successful. Version Loaded: 3.0.3:stable
+SCRIPT       : Version check for Virtual Garage successful. Version Loaded: 4.8.0:stable
+SCRIPT       : Version check for Advanced Groups successful. Version Loaded: 5.1.0:stable
+SCRIPT       : Version check for Advanced Loot Chests successful. Version Loaded: 4.0.0:stable
+SCRIPT       : Version check for Skin System successful. Version Loaded: 4.1.7:stable
+SCRIPT       : Version check for Spawn System successful. Version Loaded: 5.3.0:stable
+SCRIPT       : Version check for Utility Workbenches successful. Version Loaded: 3.0.10:stable
+SCRIPT       : Registered 444 temporary action enum(s), UAN==444
+SCRIPT    (W): @"CPTOKENS/scripts/3_game/ђ?джуѐ.ogg,20": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"CPTOKENS/scripts/3_game/ђ?джуѐ.ogg,33": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"CPTOKENS/scripts/3_game/ђ?джуѐ.ogg,46": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,80": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,95": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,127": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,137": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,201": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,305": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,313": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,385": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,386": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,484": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,485": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,489": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,498": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,499": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,503": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,512": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,513": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,517": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,526": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,527": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,531": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,546": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,547": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,551": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,554": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,559": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,564": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,575": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,576": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_black-hawk// // / ,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSIB_black-hawk// // / ,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/3_Game/dayzgame.c,3": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/3_Game/favoriteskinsdb.c,14": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/3_Game/favoriteskinsdb.c,62": Missing ';' at the end of line
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/їш*Цхвї.rtm,409": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CPTOKENS/scripts/3_game/ђ?джуѐ.ogg,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ItemRarity/scripts/3_game/itemrarity.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ItemRarity/scripts/3_game/itemrarity.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ItemRarity/scripts/3_game/itemrarity.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/?шљР.ogg,96": FIX-ME: Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\gui\helper\lbwidgetutils.c,53": FIX-ME: Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : Started LBLogger at: $profile:LBmaster_16_12_2025_00_00_01.log
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : KExcng 1: 781
+SCRIPT       : My External IP: 206.221.176.215
+SCRIPT       : KExcng 2: 651165
+SCRIPT       : KExcng 3: 5807443
+SCRIPT       : KExcng 4: 5814771
+SCRIPT       : KExcng 5: 22631830
+SCRIPT       : KExcng 6: 22672630
+SCRIPT       : KExcng 7: 22672895 Sucessfully connected to License Server: 213.109.160.200
+SCRIPT       : RemoteConfigs: Successfully received file list from github. Files: 357 in 950ms
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/A6_GunplayMod/A6_GunplayMod.json ($profile:/A6_GunplayMod/A6_GunplayMod.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/A6_SecureContainers/SecureContainersSettings.json ($profile:/A6_SecureContainers/SecureContainersSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/BaseBuildingPlus/BBP_Settings.json ($profile:/BaseBuildingPlus/BBP_Settings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Bastardo_HC/BS_Dynamic_crates.json ($profile:/Bastardo_HC/BS_Dynamic_crates.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Bastardo_HC/BS_Global_settings.json ($profile:/Bastardo_HC/BS_Global_settings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Bastardo_HC/BS_Static_crates.json ($profile:/Bastardo_HC/BS_Static_crates.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Bastardo_HC/loot_pools.json ($profile:/Bastardo_HC/loot_pools.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/BreachingCharge/breachingcharge.json ($profile:/BreachingCharge/breachingcharge.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/CodeLock/CodeLockConfig.json ($profile:/CodeLock/CodeLockConfig.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/CodeLock/CodeLockPerms.json ($profile:/CodeLock/CodeLockPerms.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Continuous Sawing/ContinuousSawingSettings.json ($profile:/Continuous Sawing/ContinuousSawingSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/DoorLockSystem/DoorLockSystem.json ($profile:/DoorLockSystem/DoorLockSystem.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/EnhancedFOV/config.json ($profile:/EnhancedFOV/config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/BanditLoadout.json ($profile:/ExpansionMod/Loadouts/BanditLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/EastLoadout.json ($profile:/ExpansionMod/Loadouts/EastLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/FireFighterLoadout.json ($profile:/ExpansionMod/Loadouts/FireFighterLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/GorkaLoadout.json ($profile:/ExpansionMod/Loadouts/GorkaLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/HumanLoadout.json ($profile:/ExpansionMod/Loadouts/HumanLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/NBCLoadout.json ($profile:/ExpansionMod/Loadouts/NBCLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/PlayerFemaleSuitLoadout.json ($profile:/ExpansionMod/Loadouts/PlayerFemaleSuitLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/PlayerMaleSuitLoadout.json ($profile:/ExpansionMod/Loadouts/PlayerMaleSuitLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/PlayerSurvivorLoadout.json ($profile:/ExpansionMod/Loadouts/PlayerSurvivorLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/PoliceLoadout.json ($profile:/ExpansionMod/Loadouts/PoliceLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/SurvivorLoadout.json ($profile:/ExpansionMod/Loadouts/SurvivorLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/TTSKOLoadout.json ($profile:/ExpansionMod/Loadouts/TTSKOLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/WestLoadout.json ($profile:/ExpansionMod/Loadouts/WestLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/YeetBrigadeLoadout.json ($profile:/ExpansionMod/Loadouts/YeetBrigadeLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Loadouts/YellowKingLoadout.json ($profile:/ExpansionMod/Loadouts/YellowKingLoadout.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Ammunition.json ($profile:/ExpansionMod/Market/0_Ammunition.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Assault_Rifles.json ($profile:/ExpansionMod/Market/0_Assault_Rifles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Bipods.json ($profile:/ExpansionMod/Market/0_Bipods.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Buttstocks.json ($profile:/ExpansionMod/Market/0_Buttstocks.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Grips.json ($profile:/ExpansionMod/Market/0_Grips.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Handguards.json ($profile:/ExpansionMod/Market/0_Handguards.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Magazines.json ($profile:/ExpansionMod/Market/0_Magazines.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Marksman_Rifles.json ($profile:/ExpansionMod/Market/0_Marksman_Rifles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Muzzles.json ($profile:/ExpansionMod/Market/0_Muzzles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Optics.json ($profile:/ExpansionMod/Market/0_Optics.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Pistols.json ($profile:/ExpansionMod/Market/0_Pistols.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Shotguns.json ($profile:/ExpansionMod/Market/0_Shotguns.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Sniper_Rifles.json ($profile:/ExpansionMod/Market/0_Sniper_Rifles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/0_Submachine_Guns.json ($profile:/ExpansionMod/Market/0_Submachine_Guns.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Backpacks.json ($profile:/ExpansionMod/Market/1_Backpacks.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Belts.json ($profile:/ExpansionMod/Market/1_Belts.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_BootsAndShoes.json ($profile:/ExpansionMod/Market/1_BootsAndShoes.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Bottoms.json ($profile:/ExpansionMod/Market/1_Bottoms.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Ghillie.json ($profile:/ExpansionMod/Market/1_Ghillie.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Glasses.json ($profile:/ExpansionMod/Market/1_Glasses.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Gloves.json ($profile:/ExpansionMod/Market/1_Gloves.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Hats.json ($profile:/ExpansionMod/Market/1_Hats.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Masks.json ($profile:/ExpansionMod/Market/1_Masks.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_NVG.json ($profile:/ExpansionMod/Market/1_NVG.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Pouches.json ($profile:/ExpansionMod/Market/1_Pouches.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/1_Tops.json ($profile:/ExpansionMod/Market/1_Tops.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/2_Helmets.json ($profile:/ExpansionMod/Market/2_Helmets.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/2_Vests.json ($profile:/ExpansionMod/Market/2_Vests.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/3_SleepingBags.json ($profile:/ExpansionMod/Market/3_SleepingBags.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/3_Storage.json ($profile:/ExpansionMod/Market/3_Storage.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/3_Supplies.json ($profile:/ExpansionMod/Market/3_Supplies.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/3_Tools.json ($profile:/ExpansionMod/Market/3_Tools.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/4_Consumables.json ($profile:/ExpansionMod/Market/4_Consumables.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/4_Medical.json ($profile:/ExpansionMod/Market/4_Medical.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/5_Hunting.json ($profile:/ExpansionMod/Market/5_Hunting.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Ammo.json ($profile:/ExpansionMod/Market/6_Ammo.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Assault_Rifles.json ($profile:/ExpansionMod/Market/6_Assault_Rifles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Collectibles.json ($profile:/ExpansionMod/Market/6_Collectibles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Dogtags.json ($profile:/ExpansionMod/Market/6_Dogtags.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Helmets.json ($profile:/ExpansionMod/Market/6_Helmets.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_LMGs.json ($profile:/ExpansionMod/Market/6_LMGs.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_RaidSupplies.json ($profile:/ExpansionMod/Market/6_RaidSupplies.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Snipers.json ($profile:/ExpansionMod/Market/6_Snipers.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Supplies.json ($profile:/ExpansionMod/Market/6_Supplies.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Vests.json ($profile:/ExpansionMod/Market/6_Vests.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_Weed.json ($profile:/ExpansionMod/Market/6_Weed.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/6_WeedSupplies.json ($profile:/ExpansionMod/Market/6_WeedSupplies.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars.json ($profile:/ExpansionMod/Market/Cars.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_AudiRS6.json ($profile:/ExpansionMod/Market/Cars_AudiRS6.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_AudiRS7Sportback.json ($profile:/ExpansionMod/Market/Cars_AudiRS7Sportback.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_BMWM5CompF9.json ($profile:/ExpansionMod/Market/Cars_BMWM5CompF9.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_BMWX6M.json ($profile:/ExpansionMod/Market/Cars_BMWX6M.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_BentleyMullinerBacalar.json ($profile:/ExpansionMod/Market/Cars_BentleyMullinerBacalar.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_Canam.json ($profile:/ExpansionMod/Market/Cars_Canam.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_DodgeChargerSRTHellcat.json ($profile:/ExpansionMod/Market/Cars_DodgeChargerSRTHellcat.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_FordBroncoXLT80.json ($profile:/ExpansionMod/Market/Cars_FordBroncoXLT80.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_FordVelociraptor6x6.json ($profile:/ExpansionMod/Market/Cars_FordVelociraptor6x6.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_Hurracan.json ($profile:/ExpansionMod/Market/Cars_Hurracan.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_Insurgent.json ($profile:/ExpansionMod/Market/Cars_Insurgent.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_LANEvoque2016.json ($profile:/ExpansionMod/Market/Cars_LANEvoque2016.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_LAPV.json ($profile:/ExpansionMod/Market/Cars_LAPV.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_LamboUrus.json ($profile:/ExpansionMod/Market/Cars_LamboUrus.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_LancerEvoIX.json ($profile:/ExpansionMod/Market/Cars_LancerEvoIX.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_MercedesAMGGT2020.json ($profile:/ExpansionMod/Market/Cars_MercedesAMGGT2020.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_MercedesG63AMG.json ($profile:/ExpansionMod/Market/Cars_MercedesG63AMG.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_Nissan350Z.json ($profile:/ExpansionMod/Market/Cars_Nissan350Z.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_Porsche911GTRS2018.json ($profile:/ExpansionMod/Market/Cars_Porsche911GTRS2018.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_ShelbySuperSnake19.json ($profile:/ExpansionMod/Market/Cars_ShelbySuperSnake19.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_SubaruImprezaWRXF4.json ($profile:/ExpansionMod/Market/Cars_SubaruImprezaWRXF4.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_TRX.json ($profile:/ExpansionMod/Market/Cars_TRX.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Cars_VWGolfGTI.json ($profile:/ExpansionMod/Market/Cars_VWGolfGTI.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Exchange.json ($profile:/ExpansionMod/Market/Exchange.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Helicopters.json ($profile:/ExpansionMod/Market/Helicopters.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Vehicle_Attachments.json ($profile:/ExpansionMod/Market/Vehicle_Attachments.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Market/Vehicle_Parts.json ($profile:/ExpansionMod/Market/Vehicle_Parts.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/NPCs/QuestNPC_1.json ($profile:/ExpansionMod/Quests/NPCs/QuestNPC_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/NPCs/QuestNPC_2.json ($profile:/ExpansionMod/Quests/NPCs/QuestNPC_2.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Action/Objective_A_1.json ($profile:/ExpansionMod/Quests/Objectives/Action/Objective_A_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Action/Objective_A_2.json ($profile:/ExpansionMod/Quests/Objectives/Action/Objective_A_2.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Action/Objective_A_3.json ($profile:/ExpansionMod/Quests/Objectives/Action/Objective_A_3.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Action/Objective_A_4.json ($profile:/ExpansionMod/Quests/Objectives/Action/Objective_A_4.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Collection/Objective_C_1.json ($profile:/ExpansionMod/Quests/Objectives/Collection/Objective_C_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Collection/Objective_C_2.json ($profile:/ExpansionMod/Quests/Objectives/Collection/Objective_C_2.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Collection/Objective_C_3.json ($profile:/ExpansionMod/Quests/Objectives/Collection/Objective_C_3.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Collection/Objective_C_4.json ($profile:/ExpansionMod/Quests/Objectives/Collection/Objective_C_4.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Collection/Objective_C_5.json ($profile:/ExpansionMod/Quests/Objectives/Collection/Objective_C_5.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Collection/Objective_C_6.json ($profile:/ExpansionMod/Quests/Objectives/Collection/Objective_C_6.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_1.json ($profile:/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_2.json ($profile:/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_2.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_3.json ($profile:/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_3.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_4.json ($profile:/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_4.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_5.json ($profile:/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_5.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_1.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_10.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_10.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_2.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_2.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_3.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_3.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_4.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_4.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_5.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_5.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_6.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_6.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_7.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_7.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_8.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_8.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Target/Objective_TA_9.json ($profile:/ExpansionMod/Quests/Objectives/Target/Objective_TA_9.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Objectives/Travel/Objective_T_1.json ($profile:/ExpansionMod/Quests/Objectives/Travel/Objective_T_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_10_.json ($profile:/ExpansionMod/Quests/Quests/Quest_10_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_11_.json ($profile:/ExpansionMod/Quests/Quests/Quest_11_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_12_.json ($profile:/ExpansionMod/Quests/Quests/Quest_12_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_13_.json ($profile:/ExpansionMod/Quests/Quests/Quest_13_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_14_.json ($profile:/ExpansionMod/Quests/Quests/Quest_14_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_15_.json ($profile:/ExpansionMod/Quests/Quests/Quest_15_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_16_.json ($profile:/ExpansionMod/Quests/Quests/Quest_16_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_17_.json ($profile:/ExpansionMod/Quests/Quests/Quest_17_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_18_.json ($profile:/ExpansionMod/Quests/Quests/Quest_18_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_19_.json ($profile:/ExpansionMod/Quests/Quests/Quest_19_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_1_.json ($profile:/ExpansionMod/Quests/Quests/Quest_1_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_20_.json ($profile:/ExpansionMod/Quests/Quests/Quest_20_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_21_.json ($profile:/ExpansionMod/Quests/Quests/Quest_21_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_22_.json ($profile:/ExpansionMod/Quests/Quests/Quest_22_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_23_.json ($profile:/ExpansionMod/Quests/Quests/Quest_23_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_24_.json ($profile:/ExpansionMod/Quests/Quests/Quest_24_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_25_.json ($profile:/ExpansionMod/Quests/Quests/Quest_25_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_26_.json ($profile:/ExpansionMod/Quests/Quests/Quest_26_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_27_.json ($profile:/ExpansionMod/Quests/Quests/Quest_27_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_2_.json ($profile:/ExpansionMod/Quests/Quests/Quest_2_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_3_.json ($profile:/ExpansionMod/Quests/Quests/Quest_3_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_4_.json ($profile:/ExpansionMod/Quests/Quests/Quest_4_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_5_.json ($profile:/ExpansionMod/Quests/Quests/Quest_5_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_6_.json ($profile:/ExpansionMod/Quests/Quests/Quest_6_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_7_.json ($profile:/ExpansionMod/Quests/Quests/Quest_7_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_8_.json ($profile:/ExpansionMod/Quests/Quests/Quest_8_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Quests/Quests/Quest_9_.json ($profile:/ExpansionMod/Quests/Quests/Quest_9_.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/AirdropSettings.json ($profile:/ExpansionMod/Settings/AirdropSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/BookSettings.json ($profile:/ExpansionMod/Settings/BookSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/ChatSettings.json ($profile:/ExpansionMod/Settings/ChatSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/CoreSettings.json ($profile:/ExpansionMod/Settings/CoreSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/DamageSystemSettings.json ($profile:/ExpansionMod/Settings/DamageSystemSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/GarageSettings.json ($profile:/ExpansionMod/Settings/GarageSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/GeneralSettings.json ($profile:/ExpansionMod/Settings/GeneralSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/LogsSettings.json ($profile:/ExpansionMod/Settings/LogsSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/MissionSettings.json ($profile:/ExpansionMod/Settings/MissionSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/MonitoringSettings.json ($profile:/ExpansionMod/Settings/MonitoringSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/NameTagsSettings.json ($profile:/ExpansionMod/Settings/NameTagsSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/NotificationSchedulerSettings.json ($profile:/ExpansionMod/Settings/NotificationSchedulerSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/NotificationSettings.json ($profile:/ExpansionMod/Settings/NotificationSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/PartySettings.json ($profile:/ExpansionMod/Settings/PartySettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/PersonalStorageNewSettings.json ($profile:/ExpansionMod/Settings/PersonalStorageNewSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/PlayerListSettings.json ($profile:/ExpansionMod/Settings/PlayerListSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/QuestSettings.json ($profile:/ExpansionMod/Settings/QuestSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/Raidsettings.json ($profile:/ExpansionMod/Settings/Raidsettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/SocialMediaSettings.json ($profile:/ExpansionMod/Settings/SocialMediaSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/TerritorySettings.json ($profile:/ExpansionMod/Settings/TerritorySettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Settings/VehicleSettings.json ($profile:/ExpansionMod/Settings/VehicleSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Traders/BlackMarket.json ($profile:/ExpansionMod/Traders/BlackMarket.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Traders/Exchange.json ($profile:/ExpansionMod/Traders/Exchange.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Traders/Helicopters.json ($profile:/ExpansionMod/Traders/Helicopters.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Traders/Safezone.json ($profile:/ExpansionMod/Traders/Safezone.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ExpansionMod/Traders/Vehicles.json ($profile:/ExpansionMod/Traders/Vehicles.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliMH6_SIB_clear_config.json ($profile:/Heli_sib/HeliMH6_SIB_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliMH6_SIB_config.json ($profile:/Heli_sib/HeliMH6_SIB_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliMH6_SIB_d_clear_config.json ($profile:/Heli_sib/HeliMH6_SIB_d_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliMH6_SIB_d_config.json ($profile:/Heli_sib/HeliMH6_SIB_d_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliMI17_SIB_clear_config.json ($profile:/Heli_sib/HeliMI17_SIB_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliMI17_SIB_config.json ($profile:/Heli_sib/HeliMI17_SIB_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_airforce_clear_config.json ($profile:/Heli_sib/HeliSIB_UH1D_airforce_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_airforce_config.json ($profile:/Heli_sib/HeliSIB_UH1D_airforce_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_clear_config.json ($profile:/Heli_sib/HeliSIB_UH1D_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_config.json ($profile:/Heli_sib/HeliSIB_UH1D_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_iron_clear_config.json ($profile:/Heli_sib/HeliSIB_UH1D_iron_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_iron_config.json ($profile:/Heli_sib/HeliSIB_UH1D_iron_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_navy_clear_config.json ($profile:/Heli_sib/HeliSIB_UH1D_navy_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1D_navy_config.json ($profile:/Heli_sib/HeliSIB_UH1D_navy_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1H2_config.json ($profile:/Heli_sib/HeliSIB_UH1H2_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_UH1H_config.json ($profile:/Heli_sib/HeliSIB_UH1H_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_hommade_clear_config.json ($profile:/Heli_sib/HeliSIB_hommade_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliSIB_hommade_config.json ($profile:/Heli_sib/HeliSIB_hommade_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliScout_mk_SIB_clear_config.json ($profile:/Heli_sib/HeliScout_mk_SIB_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliScout_mk_SIB_config.json ($profile:/Heli_sib/HeliScout_mk_SIB_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliXH9_SIB_clear_config.json ($profile:/Heli_sib/HeliXH9_SIB_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/HeliXH9_SIB_config.json ($profile:/Heli_sib/HeliXH9_SIB_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliblack_hawk_SIB_camo_clear_config.json ($profile:/Heli_sib/Heliblack_hawk_SIB_camo_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliblack_hawk_SIB_camo_config.json ($profile:/Heli_sib/Heliblack_hawk_SIB_camo_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliblack_hawk_SIB_clear_config.json ($profile:/Heli_sib/Heliblack_hawk_SIB_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliblack_hawk_SIB_config.json ($profile:/Heli_sib/Heliblack_hawk_SIB_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliec135_SIB_clear_config.json ($profile:/Heli_sib/Heliec135_SIB_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliec135_SIB_config.json ($profile:/Heli_sib/Heliec135_SIB_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliec135_SIB_hell_clear_config.json ($profile:/Heli_sib/Heliec135_SIB_hell_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Heliec135_SIB_hell_config.json ($profile:/Heli_sib/Heliec135_SIB_hell_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Helipolice_SIB4_clear_config.json ($profile:/Heli_sib/Helipolice_SIB4_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Helipolice_SIB4_config.json ($profile:/Heli_sib/Helipolice_SIB4_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Helipolice_swat_SIB5_clear_config.json ($profile:/Heli_sib/Helipolice_swat_SIB5_clear_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/Helipolice_swat_SIB5_config.json ($profile:/Heli_sib/Helipolice_swat_SIB5_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/Heli_sib/global_config.json ($profile:/Heli_sib/global_config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/ItemRarity/config.json ($profile:/ItemRarity/config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/KOTH/Loot.json ($profile:/KOTH/Loot.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/KOTH/chernarusplus.json ($profile:/KOTH/chernarusplus.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/SyntactixMods/AirdropLimiter/config.json ($profile:/SyntactixMods/AirdropLimiter/config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/SyntactixMods/LogoutBlacklist/Config.json ($profile:/SyntactixMods/LogoutBlacklist/Config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/SyntactixMods/RaidGuard/config.json ($profile:/SyntactixMods/RaidGuard/config.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/WZ_SkinSystem/SkinPresets.json ($profile:/WZ_SkinSystem/SkinPresets.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/WZ_SkinSystem/SkinsOwners.json ($profile:/WZ_SkinSystem/SkinsOwners.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/WZ_SkinSystem/SkinsSets.json ($profile:/WZ_SkinSystem/SkinsSets.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/profile/WZ_SkinSystem/make_skinsets.py ($profile:/WZ_SkinSystem/make_skinsets.py) as it's already up to date
+SCRIPT       : RemoteConfigs: Finished loading files from github in 3ms
+SCRIPT       : Successfully Loaded Server PBO for Advanced Groups Version 5.1.0-stable
+SCRIPT       : Start Checksum: -981157796
+SCRIPT       : End Checksum: 228603210
+SCRIPT       : Successfully Loaded Server PBO for Spawn System Version 5.3.0-stable
+SCRIPT       : Start Checksum: 1746400410
+SCRIPT       : End Checksum: -1374293296
+SCRIPT       : Successfully Loaded Server PBO for Utility Workbenches Version 3.0.10-stable
+SCRIPT       : Start Checksum: 617764095
+SCRIPT       : End Checksum: 975860019
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Successfully Loaded Server PBO for Achievements Version 1.3.2-stable
+SCRIPT       : Start Checksum: -827891204
+SCRIPT       : End Checksum: 441702959
+SCRIPT       : Successfully Loaded Server PBO for Airdrops Version 3.0.3-stable
+SCRIPT       : Start Checksum: -1958548496
+SCRIPT       : End Checksum: 45557047
+SCRIPT       : Successfully Loaded Server PBO for Virtual Garage Version 4.8.0-stable
+SCRIPT       : Start Checksum: -1282779414
+SCRIPT       : End Checksum: -1626056411
+SCRIPT       : Successfully Loaded Server PBO for Advanced Loot Chests Version 4.0.0-stable
+SCRIPT       : Start Checksum: 1504797816
+SCRIPT       : End Checksum: 108441244
+SCRIPT       : Successfully Loaded Server PBO for Skin System Version 4.1.7-stable
+SCRIPT       : Start Checksum: -919133344
+SCRIPT       : End Checksum: -136990055
+SCRIPT       : 00:00:06.379 [EXPANSION LOG]: DayZGame<7231e020> Start time (local time) 2025-12-15 23:59:42
+SCRIPT       : 00:00:06.379 [EXPANSION LOG]: DayZGame<7231e020> Start time (UTC) 2025-12-16 05:59:42
+SCRIPT       : 00:00:06.379 [EXPANSION LOG]: DayZGame<7231e020> Runtime since start (seconds) 24.097
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,46": Missing ';' at the end of line
+SCRIPT    (W): @"zyro_collectables/forzlLM5/ ZqnCX3pA/W9lFiMfH/﻿﻿﻿/COM9.{82A5EA35-D9CD-47C5-9629-E15D2F714E6E}/i6IhARK /HqtLOubK/nusVs16e.ryrfAAzh,26": Missing ';' at the end of line
+SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"callatic_vehicles_tier_2_scripts/XoOO0z2n/  lCQB Ki/Buq F9J1/﻿﻿﻿﻿/AUX.{A305CE99-F527-492B-8B1A-7E76FA98D6E4}/jMXzDKWv/Afe6CeUm/g3svp AV. kA PQFr,607": FIX-ME: Overriding function 'UpdateLightsServer' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarylocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"helicoptersib_mh-6// // / ,472": FIX-ME: Overriding function 'GetCameraHeight' but not marked as 'override'
+SCRIPT    (W): @"HelicopterModSERVER// // / ,315": FIX-ME: Overloaded method 'EOnSimulate', argument name 'owner' differs from prototype 'other'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,118": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'ggmouoqfuyazpksib' differs from prototype 'currentSeat'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,118": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'mlpxdjgqbjlacrmmusib' differs from prototype 'maxAllowedObjHeight'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,118": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'ijnmgkungycfsib' differs from prototype 'horizontalExtents'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\guncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"NoTemp/scripts/4_World/fireplacebase.c,4": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\icebox_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"A6_SecureContainers/Scripts/4_world/entities\manbase\playerbase.c,37": FIX-ME: Overriding function 'GetSecureContainer' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,88": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,88": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,114": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,153": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,153": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,175": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,175": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CargoSorting/scripts/4_World/playerbase.c,198": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,120": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\locker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\tinycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,91": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_largegreenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,139": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,144": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,147": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,106": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ContinuousSawing\scripts\4_World/actions\actionsawplanks.c,123": FIX-ME: Overriding function 'SpawnNewPlankPile' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\iceceramfreezer_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\safe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/maskonly.c,11": FIX-ME: Overriding function 'BleedingSourceCreateCheck' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,46": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,52": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'bbhfvxsguuybfsib' differs from prototype 'maxAllowedObjHeight'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,52": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'lpwbibdhsib' differs from prototype 'horizontalExtents'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\weaponslocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"HelicopterSIB_MI17// // / ,58": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'mvdsiqqndkpmrmjttgojsib' differs from prototype 'currentSeat'
+SCRIPT    (W): @"HelicopterSIB_MI17// // / ,58": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'uozhabwxsib' differs from prototype 'maxAllowedObjHeight'
+SCRIPT    (W): @"HelicopterSIB_MI17// // / ,58": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'kewbpjpsesib' differs from prototype 'horizontalExtents'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\gearstand_case_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nostamina.c,3": FIX-ME: Overriding function 'Update' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\mediumcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/BaseBuilding/?ЬХќегйгѕ.jpg,9": FIX-ME: Overriding function 'ToJson' but not marked as 'override'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/BaseBuilding/?ЬХќегйгѕ.jpg,10": FIX-ME: Overriding function 'LoadFromDisk' but not marked as 'override'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/BaseBuilding/?ЬХќегйгѕ.jpg,13": FIX-ME: Overriding function 'SaveToDisk' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\dumpster_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,58": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'kfaynppdqjvbjnjgsib' differs from prototype 'currentSeat'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,58": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'vzkisqdhgnsib' differs from prototype 'maxAllowedObjHeight'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,58": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'sjbcrggxuybbhusib' differs from prototype 'horizontalExtents'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,31": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"DrippySneakers/scripts/4_world/itembase\entities\drip_largedisplaycase.c,182": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/gui\codelock\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\graffitican_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\fridge_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/maskonly.c,3": FIX-ME: Overriding function 'IsContaminationActive' but not marked as 'override'
+SCRIPT    (W): @"NoTemp/scripts/4_World/environment.c,3": FIX-ME: Overriding function 'SetEnvironmentTemperature' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\doubleguncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"callatic_vehicles_tier_2_scripts/vYfT f6a/ j oGYptC/KshwRNXD/﻿﻿﻿/LPT1.{8AD10C31-2ADB-4296-A8F7-E4701232C972}/Ts2GwwC /Xl8WtxEJ/tlGrDlVC.QetNqj P,10": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"callatic_vehicles_tier_3_scripts/Z2DBaz3Z/ IxbJOycb/Rou3TuIZ/﻿/LPT9.{0AC0837C-BBF8-452A-850D-79D08E667CA7}/g5czGxfM/irlAYvxr/xBR7z3pm.gHF rlHx,10": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"callatic_vehicles_tier_4_scripts/ 9AZkQh8/ lq ifV y/Q9y4rtal/﻿﻿﻿﻿/COM6.{ED4824AF-DCE4-45A8-81E2-FC7965083634}/ op d7xt/ 0H  t00/y juEINb.YtSGbOrf,10": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"czlapv_scripts/CsIULaTv/ W76y8p 6/fzc6I5un/﻿﻿/COM9.{859EAD94-2E85-48AD-A71A-0969CB56A6CD}/byqBgXxo/DWBXZkpJ/rZADO 1 .RYYihTTw,10": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/gui\codelock\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,16": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"HDSN_BreachingCharge\scripts\4_World/config.c,250": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HDSN_BreachingCharge\scripts\4_World/config.c,250": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HDSN_BreachingCharge\scripts\4_World/config.c,250": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HDSN_BreachingCharge\scripts\4_World/config.c,258": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HDSN_BreachingCharge\scripts\4_World/config.c,258": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HDSN_BreachingCharge\scripts\4_World/config.c,258": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_greenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/gui\codelock\admincodemenu.c,62": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/gui\codelock\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,61": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/gui\codelock\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,76": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"Hideout_Customs/Scripts/4_World/nosickness.c,134": FIX-ME: Overloaded method 'OnTick', argument name 'dT' differs from prototype 'deltaT'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,142": FIX-ME: Undefined function 'CGame.SpawnEntity'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,218": FIX-ME: Undefined function 'CGame.SpawnEntity'
+SCRIPT    (W): @"HelicopterSIB_XH9// // / ,296": FIX-ME: Undefined function 'CGame.SpawnEntity'
+SCRIPT    (W): @"HelicopterSIB_MI17// // / ,26": FIX-ME: Unsafe down-casting, use 'Sib_heliDoor.Cast' for safe down-casting
+SCRIPT    (W): @"HelicopterSIB_MI17// // / ,26": FIX-ME: Unsafe down-casting, use 'Sib_heliDoor.Cast' for safe down-casting
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/codelock\actions\dmp_actioninteractlock.c,86": FIX-ME: Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/codelock\actions\dmp_actioninteractlock.c,91": FIX-ME: Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/codelock\actions\dmp_actiondestroycodelock.c,76": Possible variable name conflict '_Health'
+SCRIPT       : [AirdropLimiter] Registered service with SyntactixCore.
+SCRIPT       : [EnhancedFOV] ModuleCustomFOV loaded!
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,30": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/inspectmenunew.c,252": Missing ';' at the end of line
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missionserver.c,283": FIX-ME: Overriding function 'GetServerName' but not marked as 'override'
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,7": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,7": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSIB_Hommade// // / ,7": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/inspectmenunew.c,30": FIX-ME: Overriding function 'OnHide' but not marked as 'override'
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/inspectmenunew.c,109": FIX-ME: Overriding function 'Update' but not marked as 'override'
+SCRIPT    (W): @"Colorful-UI/scripts/5_Mission/colorful-ui\gui\cui.respawndialogue.c,74": FIX-ME: Overriding function 'Update' but not marked as 'override'
+SCRIPT    (W): @"Hideout_Customs/Scripts/5_Mission/gui\itemactionswidget.c,56": FIX-ME: Overriding function 'CheckRefresherFlagVisibility' but not marked as 'override'
+SCRIPT    (W): @"WZ_SkinSystem/Scripts/5_Mission/inspectmenunew.c,172": FIX-ME: Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"KOTH/Scripts/5_Mission/koth_event.c,132": No need to use 'Cast' for up-casting
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_DoorLockSystem_Types.xml ($mission:/ModdedTypes/A6/A6_DoorLockSystem_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Optics_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Optics_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Optics_Types.xml ($mission:/ModdedTypes/A6/A6_Optics_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_SecureContainer_Types.xml ($mission:/ModdedTypes/A6/A6_SecureContainer_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Ammo_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Ammo_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Assault_Rifle_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_Assault_Rifle_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Assault_Rifle_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Assault_Rifle_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Bayonet_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Bayonet_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Buttstock_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Buttstock_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Flashlight_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_Flashlight_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Flashlight_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Flashlight_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Handguard_Attachment_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Handguard_Attachment_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Handguard_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Handguard_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_LMG_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_LMG_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_LMG_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_LMG_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Magazines_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Magazines_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Muzzle_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Muzzle_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_OpticMount_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_OpticMount_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_PistolGrip_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_PistolGrip_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Pistol_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_Pistol_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Pistol_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Pistol_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Rifle_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_Rifle_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Rifle_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Rifle_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_SMG_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_SMG_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_SMG_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_SMG_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Shotgun_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_Shotgun_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Shotgun_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Shotgun_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Sniper_Rifle_SpawnableTypes.xml ($mission:/ModdedTypes/A6/A6_Weapons_Sniper_Rifle_SpawnableTypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/A6/A6_Weapons_Sniper_Rifle_Types.xml ($mission:/ModdedTypes/A6/A6_Weapons_Sniper_Rifle_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Airdrop_Types.xml ($mission:/ModdedTypes/Airdrop_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/BBP_Types.xml ($mission:/ModdedTypes/BBP_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/BreachingCharge_Types.xml ($mission:/ModdedTypes/BreachingCharge_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/CodeLock_Types.xml ($mission:/ModdedTypes/CodeLock_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Collectables_Types.xml ($mission:/ModdedTypes/Collectables_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Dogtags_Types.xml ($mission:/ModdedTypes/Dogtags_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/FOG_Types.xml ($mission:/ModdedTypes/FOG_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Garage_Types.xml ($mission:/ModdedTypes/Garage_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Hideout_Types.xml ($mission:/ModdedTypes/Hideout_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/MFP_Types.xml ($mission:/ModdedTypes/MFP_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/SleepingBags_Types.xml ($mission:/ModdedTypes/SleepingBags_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Sneakers_Types.xml ($mission:/ModdedTypes/Sneakers_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Storage_Types.xml ($mission:/ModdedTypes/Storage_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/350Z.xml ($mission:/ModdedTypes/Vehicles/350Z.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/AMGGT2020.xml ($mission:/ModdedTypes/Vehicles/AMGGT2020.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/AudiRS6.xml ($mission:/ModdedTypes/Vehicles/AudiRS6.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/AudiRS7.xml ($mission:/ModdedTypes/Vehicles/AudiRS7.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/BMWM5.xml ($mission:/ModdedTypes/Vehicles/BMWM5.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/BMWX6M.xml ($mission:/ModdedTypes/Vehicles/BMWX6M.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/BentlyMullinerBacalar.xml ($mission:/ModdedTypes/Vehicles/BentlyMullinerBacalar.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/BroncoXLT80.xml ($mission:/ModdedTypes/Vehicles/BroncoXLT80.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Canam.xml ($mission:/ModdedTypes/Vehicles/Canam.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/G63AMG.xml ($mission:/ModdedTypes/Vehicles/G63AMG.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Helicopters.xml ($mission:/ModdedTypes/Vehicles/Helicopters.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Hellcat.xml ($mission:/ModdedTypes/Vehicles/Hellcat.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Huracan.xml ($mission:/ModdedTypes/Vehicles/Huracan.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Insurgent.xml ($mission:/ModdedTypes/Vehicles/Insurgent.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/LANEvoque2016.xml ($mission:/ModdedTypes/Vehicles/LANEvoque2016.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/LAPV.xml ($mission:/ModdedTypes/Vehicles/LAPV.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/LancerEvoIX.xml ($mission:/ModdedTypes/Vehicles/LancerEvoIX.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Porshce911.xml ($mission:/ModdedTypes/Vehicles/Porshce911.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/ShelbySuperSnake19.xml ($mission:/ModdedTypes/Vehicles/ShelbySuperSnake19.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/TRX.xml ($mission:/ModdedTypes/Vehicles/TRX.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Urus.xml ($mission:/ModdedTypes/Vehicles/Urus.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/VWGolfGTI.xml ($mission:/ModdedTypes/Vehicles/VWGolfGTI.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/Velociraptor.xml ($mission:/ModdedTypes/Vehicles/Velociraptor.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Vehicles/WRX.xml ($mission:/ModdedTypes/Vehicles/WRX.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/ModdedTypes/Weed_Types.xml ($mission:/ModdedTypes/Weed_Types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/areaflags.map ($mission:/areaflags.map) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgeconomycore.xml ($mission:/cfgeconomycore.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgeffectarea.json ($mission:/cfgeffectarea.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgenvironment.xml ($mission:/cfgenvironment.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgeventgroups.xml ($mission:/cfgeventgroups.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgeventspawns.xml ($mission:/cfgeventspawns.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfggameplay.json ($mission:/cfggameplay.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgignorelist.xml ($mission:/cfgignorelist.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfglimitsdefinition.xml ($mission:/cfglimitsdefinition.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfglimitsdefinitionuser.xml ($mission:/cfglimitsdefinitionuser.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgplayerspawnpoints.xml ($mission:/cfgplayerspawnpoints.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgrandompresets.xml ($mission:/cfgrandompresets.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgspawnabletypes.xml ($mission:/cfgspawnabletypes.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgundergroundtriggers.json ($mission:/cfgundergroundtriggers.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/cfgweather.xml ($mission:/cfgweather.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/db/economy.xml ($mission:/db/economy.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/db/events.xml ($mission:/db/events.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/db/globals.xml ($mission:/db/globals.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/db/messages.xml ($mission:/db/messages.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/db/types.xml ($mission:/db/types.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/db/types_Noms.txt ($mission:/db/types_Noms.txt) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/bear_territories.xml ($mission:/env/bear_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/cattle_territories.xml ($mission:/env/cattle_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/domestic_animals_territories.xml ($mission:/env/domestic_animals_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/fox_territories.xml ($mission:/env/fox_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/hare_territories.xml ($mission:/env/hare_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/hen_territories.xml ($mission:/env/hen_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/pig_territories.xml ($mission:/env/pig_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/red_deer_territories.xml ($mission:/env/red_deer_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/roe_deer_territories.xml ($mission:/env/roe_deer_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/sheep_goat_territories.xml ($mission:/env/sheep_goat_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/wild_boar_territories.xml ($mission:/env/wild_boar_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/wolf_territories.xml ($mission:/env/wolf_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/env/zombie_territories.xml ($mission:/env/zombie_territories.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/p2pmarket/P2PTrader_1.json ($mission:/expansion/p2pmarket/P2PTrader_1.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/p2pmarket/P2PTrader_2.json ($mission:/expansion/p2pmarket/P2PTrader_2.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/BaseBuildingSettings.json ($mission:/expansion/settings/BaseBuildingSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/HardlineSettings.json ($mission:/expansion/settings/HardlineSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/MarketSettings.json ($mission:/expansion/settings/MarketSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/P2PMarketSettings.json ($mission:/expansion/settings/P2PMarketSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/PersonalStorageSettings.json ($mission:/expansion/settings/PersonalStorageSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/SafeZoneSettings.json ($mission:/expansion/settings/SafeZoneSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/SpawnSettings.json ($mission:/expansion/settings/SpawnSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/settings/mapSettings.json ($mission:/expansion/settings/mapSettings.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traders/BALOTA_AIRCRAFT.map ($mission:/expansion/traders/BALOTA_AIRCRAFT.map) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traders/NORTH_BLACKMARKET.map ($mission:/expansion/traders/NORTH_BLACKMARKET.map) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traderzones/Altar.json ($mission:/expansion/traderzones/Altar.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traderzones/Balota_Aircraft.json ($mission:/expansion/traderzones/Balota_Aircraft.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traderzones/Green_Mountain.json ($mission:/expansion/traderzones/Green_Mountain.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traderzones/North_Blackmarket.json ($mission:/expansion/traderzones/North_Blackmarket.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/expansion/traderzones/South_Blackmarket.json ($mission:/expansion/traderzones/South_Blackmarket.json) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/init.c ($mission:/init.c) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapclusterproto.xml ($mission:/mapclusterproto.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupcluster.xml ($mission:/mapgroupcluster.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupcluster01.xml ($mission:/mapgroupcluster01.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupcluster02.xml ($mission:/mapgroupcluster02.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupcluster03.xml ($mission:/mapgroupcluster03.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupcluster04.xml ($mission:/mapgroupcluster04.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupdirt.xml ($mission:/mapgroupdirt.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgrouppos.xml ($mission:/mapgrouppos.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Skipping file: Hideout/mission/mapgroupproto.xml ($mission:/mapgroupproto.xml) as it's already up to date
+SCRIPT       : RemoteConfigs: Finished loading files. Total: 357. Ignored: 0 Already updated: 357 Failed to download: 0 Downloaded: 0
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : [ContinuousSawing] Vanilla FuelChainsaw recipe disabled - using custom gasoline system
+SCRIPT       : Expansion version: 1.9.49
+SCRIPT       : 00:00:40.908 [EXPANSION DEBUG]: [ExpansionCoreSettings] Load existing setting file:$profile:ExpansionMod\Settings\CoreSettings.json
+SCRIPT       : 00:00:40.914 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 00:00:40.924 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 00:00:40.930 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 00:00:40.935 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 00:00:40.945 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (0_Ammunition)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (0_Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (0_Bipods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (0_Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (0_Grips)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (0_Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (0_Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (0_Marksman_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (0_Muzzles)
+SCRIPT       : 00:00:41.042 [ERROR] :: MARKET CONFIGURATION ERROR: Variant a6_sigsauerromeo2_optic_tan_mrdmount of a6_sigsauerromeo2_optic_mrdmount (ID 449) in category 0_Optics (ID 10) was already added in category 0_Optics (ID 10) as variant of a6_sigsauerbravo4optic_sigsauerromeo2_optic_mrdmount (ID 445)
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (0_Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (0_Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (0_Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (0_Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (0_Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (1_Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (1_Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (1_BootsAndShoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (1_Bottoms)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (1_Ghillie)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (1_Glasses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (1_Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (1_Hats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (1_Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (1_NVG)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (1_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (1_Tops)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (2_Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (2_Vests)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (3_SleepingBags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (3_Storage)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (3_Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (3_Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (4_Consumables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (4_Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (5_Hunting)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (6_Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (6_Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (6_Collectibles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (6_Dogtags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (6_Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (6_LMGs)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (6_RaidSupplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (6_Snipers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (6_Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (6_Vests)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (6_Weed)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (6_WeedSupplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Cars_AudiRS6)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Cars_AudiRS7Sportback)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Cars_BentleyMullinerBacalar)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Cars_BMWM5CompF9)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Cars_BMWX6M)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Cars_Canam)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Cars_DodgeChargerSRTHellcat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Cars_FordBroncoXLT80)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Cars_FordVelociraptor6x6)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Cars_Hurracan)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Cars_Insurgent)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Cars_LamboUrus)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Cars_LancerEvoIX)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Cars_LANEvoque2016)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Cars_LAPV)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Cars_MercedesAMGGT2020)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Cars_MercedesG63AMG)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Cars_Nissan350Z)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Cars_Porsche911GTRS2018)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Cars_ShelbySuperSnake19)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Cars_SubaruImprezaWRXF4)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Cars_TRX)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Cars_VWGolfGTI)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 74 (Vehicle_Attachments)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 75 (Vehicle_Parts)
+SCRIPT       : 00:00:41.737 [WARNING] :: Market configuration warning: Magazine a6_mag_9a91_20rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.738 [WARNING] :: Market configuration warning: Magazine a6_mag_gripped_pp19bizon_64rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_380) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.739 [WARNING] :: Market configuration warning: Magazine a6_mag_vikhr_30rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.740 [WARNING] :: Market configuration warning: Magazine a6_mag_pp19bizon_64rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_380) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.740 [WARNING] :: Market configuration warning: Magazine a6_mag_ump45_25rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_45ACP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.740 [WARNING] :: Market configuration warning: Magazine a6_mag_val_red_20rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.741 [WARNING] :: Market configuration warning: Magazine a6_mag_vss_10rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_val_20rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_sr3_red_30rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_m1911_7rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_45ACP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_sr3_30rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.743 [WARNING] :: Market configuration warning: Magazine a6_mag_vss_red_10rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.743 [WARNING] :: Market configuration warning: Magazine a6_mag_aa12_24rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_12gaPellets or Ammo_12gaSlug or Ammo_12gaRubberSlug or Ammo_12gaBeanbag) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.744 [WARNING] :: Market configuration warning: Magazine a6_mag_rugermarkiv_10rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_22) does not exist in market. The magazine will be empty when bought.
+SCRIPT       : 00:00:41.747 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character '�' at position 18:
+'lancerevoix_trunk­_red'
+ -----------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+SCRIPT       : 00:00:41.748 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character '�' at position 19:
+'lancerevoix_trunk­_red'
+ ------------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+SCRIPT       : 00:00:41.820 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character '�' at position 18:
+'lancerevoix_trunk­_red'
+ -----------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+SCRIPT       : 00:00:41.820 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character '�' at position 19:
+'lancerevoix_trunk­_red'
+ ------------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+SCRIPT       : 00:00:42.273 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : A6_Gunplay
+SCRIPT       : A6_Optics
+SCRIPT       : A6_OpticScripts
+SCRIPT       : A6_SecureContainers
+SCRIPT       : A6_Attachments
+SCRIPT       : A6_LMGs
+SCRIPT       : A6_Pistols
+SCRIPT       : A6_Rifles
+SCRIPT       : A6_Shotguns
+SCRIPT       : A6_SMGs
+SCRIPT       : A6_Snipers
+SCRIPT       : Antifreeze
+SCRIPT       : AutoStacking
+SCRIPT       : BBP_keybind
+SCRIPT       : BetterVendingMachines
+SCRIPT       : Callatic_Vehicles_Tier_1_Scripts
+SCRIPT       : Callatic_Vehicles_Tier_2_Scripts
+SCRIPT       : Callatic_Vehicles_Tier_3_Scripts
+SCRIPT       : Callatic_Vehicles_Tier_4_Scripts
+SCRIPT       : CodeLock
+SCRIPT       : CPtoken
+SCRIPT       : CSO
+SCRIPT       : CZLAPV_Scripts
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : DoorLockSystem
+SCRIPT       : DrippySneakers
+SCRIPT       : sakhal
+SCRIPT       : EditorLoader
+SCRIPT       : GameLabs
+SCRIPT       : HealWhileMoving
+SCRIPT       : HelicopterModScriptsSIB
+SCRIPT       : HelicopterModSERVER
+SCRIPT       : HelicopterModSIB_black_hawk
+SCRIPT       : HelicopterModSIB_EC135
+SCRIPT       : HelicopterModhommade2
+SCRIPT       : HelicopterSIB_MH6
+SCRIPT       : HelicopterModSIB_MI17
+SCRIPT       : HelicopterModSIB_police
+SCRIPT       : HelicopterModSIB_Scout_mk
+SCRIPT       : HelicopterModSIBUH1D2
+SCRIPT       : HelicopterModSIB_XH9
+SCRIPT       : Hideout_Medical
+SCRIPT       : IceFishing
+SCRIPT       : DZ_InventoryMoveSounds
+SCRIPT       : ItemRarity
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : Lads_LightingOverhaul
+SCRIPT       : Achievements_Version
+SCRIPT       : LBmaster_XUQAqH2MJxAJWDJR
+SCRIPT       : MFbphdhhRBMtaC
+SCRIPT       : hoblzYLjmGBXd
+SCRIPT       : IXYzFNguJuMdg
+SCRIPT       : AMySLDWxwShNPi
+SCRIPT       : RVhmFcQpIfhhdL
+SCRIPT       : uxpusddVClUFf
+SCRIPT       : kaYExBDgVVwodc
+SCRIPT       : XyVDdnqfhWjGrJ
+SCRIPT       : mhDjPPtOmArzTG
+SCRIPT       : hjXjOhwKVltqHe
+SCRIPT       : Achievements_Server_Version
+SCRIPT       : Airdrops_Version
+SCRIPT       : kkIOSNJOiDGhj
+SCRIPT       : TnlcUImjeSuz
+SCRIPT       : EqkqDZTkRAiFrI
+SCRIPT       : zEOfGLjYQhzVP
+SCRIPT       : QBrdlKKMmruQ
+SCRIPT       : NeYSmbSOYBNIq
+SCRIPT       : mupPATvlQOmfV
+SCRIPT       : KJDxQbimMpXOv
+SCRIPT       : OehSdbhOmskUOl
+SCRIPT       : Airdrops_Server_Version
+SCRIPT       : LLIfnuuRtiXJ
+SCRIPT       : LBmaster_ConfigsServer
+SCRIPT       : Remote_Config_Storage_Version
+SCRIPT       : LBmaster_Core
+SCRIPT       : Core_Version
+SCRIPT       : LBmaster_EarPlugs
+SCRIPT       : Earplugs_Version
+SCRIPT       : Virtual_Garage_Version
+SCRIPT       : DILrlqhZteJDII
+SCRIPT       : ZFVDnSqlFMmkp
+SCRIPT       : YyjZIxnqHSaFE
+SCRIPT       : XBRnbOUcbttdNI
+SCRIPT       : jBfVoCKyRfPmU
+SCRIPT       : phbKjRlvGRwWB
+SCRIPT       : KEMapKbkCiKSJ
+SCRIPT       : sgSXnvwSzrLCo
+SCRIPT       : zcyhGrcQYdOjv
+SCRIPT       : RNMTpsJKxSJID
+SCRIPT       : Virtual_Garage_Server_Version
+SCRIPT       : vAirkGplWRXMO
+SCRIPT       : LBmaster_GroupDLCPlotpole
+SCRIPT       : LBmaster_Groups
+SCRIPT       : Advanced_Groups_Version
+SCRIPT       : LBmaster_Groups_ATM
+SCRIPT       : Enhanced_Banking_Version
+SCRIPT       : LBmaster_GroupsServer
+SCRIPT       : tWtdMSqCmwZNot
+SCRIPT       : bHQVfvXRrhMKsr
+SCRIPT       : UvYWQIeePBUZrp
+SCRIPT       : jmaHpKSyliViR
+SCRIPT       : hnBshtOZEYly
+SCRIPT       : OegJqxOagqzx
+SCRIPT       : KEpZDEpeyhNxe
+SCRIPT       : auTIZacbxzHll
+SCRIPT       : gwlfSDEKtbFXSS
+SCRIPT       : VaGjyTcAyzeXVH
+SCRIPT       : wJSNzpsnkdYIad
+SCRIPT       : Advanced_Groups_Server_Version
+SCRIPT       : LBmaster_HoverLoot
+SCRIPT       : Hover_Loot_Version
+SCRIPT       : Advanced_Loot_Chests_Version
+SCRIPT       : DPkKLpdfHcPz
+SCRIPT       : TemjAkxeFzWcB
+SCRIPT       : GqVXrrxvQtgkC
+SCRIPT       : Advanced_Loot_Chests_Server_Version
+SCRIPT       : FdDZlAUZkSkrVH
+SCRIPT       : tiSBIjmZJOXE
+SCRIPT       : snxSAAQcAFpNw
+SCRIPT       : tcWtwZJdtxoqgZ
+SCRIPT       : qCngVkgFZZSKW
+SCRIPT       : QbFJqkwwzVJT
+SCRIPT       : OuUszCooshROx
+SCRIPT       : ojRxRZvWKVeRY
+SCRIPT       : pAWWgvqiqHlhpm
+SCRIPT       : Skin_System_Version
+SCRIPT       : TseiAdMrUnvLwY
+SCRIPT       : vyJsvhBPnfBJ
+SCRIPT       : hExbtTpjHiSdZT
+SCRIPT       : tzjARUecQhIf
+SCRIPT       : mAOxRGKlWpPZO
+SCRIPT       : DuxeYoZJnCrW
+SCRIPT       : FdMyLfdhNcLRGd
+SCRIPT       : Skin_System_Server_Version
+SCRIPT       : BctOLFKVwNlNWB
+SCRIPT       : OVQsklRCznASx
+SCRIPT       : JQXIYNlWCckh
+SCRIPT       : LtreAawpKrth
+SCRIPT       : LBmaster_Spawnsystem
+SCRIPT       : Spawn_System_Version
+SCRIPT       : LBmaster_SpawnsystemServer
+SCRIPT       : aDIAyOFPUpLf
+SCRIPT       : IsdKToyyqBtec
+SCRIPT       : mRvoeZkDJwMcm
+SCRIPT       : WPSfEcfRKtOMD
+SCRIPT       : wxlaNJcXJVgdR
+SCRIPT       : AAuSulabukepgk
+SCRIPT       : ueSCDOLHmfOw
+SCRIPT       : rYQgUjhWcVbrNG
+SCRIPT       : yPHWVYxnfiYh
+SCRIPT       : Spawn_System_Server_Version
+SCRIPT       : tcqqzmtgTnMBl
+SCRIPT       : godIewDwJugBQG
+SCRIPT       : PEzodqvXMykFWA
+SCRIPT       : LBmaster_UtilityWorkbenches
+SCRIPT       : Utility_Workbenches_Version
+SCRIPT       : LBmaster_UtilityWorkbenchesServer
+SCRIPT       : aDoEFNJdZsUtwU
+SCRIPT       : HZRzPBkmiWQH
+SCRIPT       : GZIIwAlbCSZQTT
+SCRIPT       : Utility_Workbenches_Server_Version
+SCRIPT       : OhlAlVIGjGuG
+SCRIPT       : cylFFJfePghuPE
+SCRIPT       : OvNoDaiBNapy
+SCRIPT       : PtabTyiBHjDZy
+SCRIPT       : BPlmUBuTsSIObM
+SCRIPT       : BDGkpvEdXRSs
+SCRIPT       : ZnAGTojQcdKBq
+SCRIPT       : zdDcjjVaZVIG
+SCRIPT       : NoTemp
+SCRIPT       : quadlock
+SCRIPT       : PristineRepair
+SCRIPT       : Callatic_Vehicles_Tier_1
+SCRIPT       : Callatic_Vehicles_Tier_2
+SCRIPT       : Callatic_Vehicles_Tier_3
+SCRIPT       : Callatic_Vehicles_Tier_4
+SCRIPT       : CZLAPV
+SCRIPT       : SkyZ_SkyboxOverhaul
+SCRIPT       : SyntactixCore
+SCRIPT       : Ghillie_Mod
+SCRIPT       : ViewInventoryAnimation
+SCRIPT       : AVPPAdminTools
+SCRIPT       : WinterChernarusV2Scripts
+SCRIPT       : WinterChernarusV2
+SCRIPT       : Dogtags
+SCRIPT       : WZ_SkinSystem
+SCRIPT       : ZDependenciesKOTH
+SCRIPT       : Zyro_Collectables
+SCRIPT       : A6_SecureContainers_Dogtag_Compatibility
+SCRIPT       : A6_Ammo
+SCRIPT       : A6_WeaponScripts
+SCRIPT       : BS_HackedCrate
+SCRIPT       : CamoNetPoncho
+SCRIPT       : CannabisPlus_GhostIcons
+SCRIPT       : CargoSorting
+SCRIPT       : Inventory_Base
+SCRIPT       : Container_Base
+SCRIPT       : Clothing_Base
+SCRIPT       : WorldContainer_Base
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : FOG_MOD
+SCRIPT       : HDSN_BreachingCharge
+SCRIPT       : Hideout_Customs
+SCRIPT       : HideoutLootChestItems
+SCRIPT       : KOTH_Mod
+SCRIPT       : LBmaster_Achievements
+SCRIPT       : LBmaster_AchievementsGroupPage
+SCRIPT       : LBmaster_AchievementsServer
+SCRIPT       : LBmaster_Airdrop
+SCRIPT       : LBmaster_AirdropServer
+SCRIPT       : LBmaster_Garage
+SCRIPT       : LBmaster_GarageServer
+SCRIPT       : LBmaster_LootChests
+SCRIPT       : LBmaster_LootChestsServer
+SCRIPT       : LBmaster_SkinSystem
+SCRIPT       : LBmaster_SkinSystemServer
+SCRIPT       : MBM_CanAM_Maverick
+SCRIPT       : AirdropLimiter
+SCRIPT       : CannabisPlus
+SCRIPT       : ColorfulUI
+SCRIPT       : ContinuousSawing
+SCRIPT       : CrSk_Insurgent_SUV
+SCRIPT       : CrSk_Lamborghini_Huracan_Perf
+SCRIPT       : CrSk_RAM_1500_TRX
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : LBmaster_AchievementsExpansionMarket
+SCRIPT       : MegaFoodPack
+SCRIPT       : Paragon_Storage
+SCRIPT       : BaseBuildingPlus
+SCRIPT       : CP_Pouch
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : BBP_Override
+SCRIPT       : LBmaster_AchievementsExpansionQuests
+SCRIPT       : [BS_HackedCrate MissionServer] Constructor called. Mod system is initializing.
+SCRIPT       : [Breachingcharge]	Breachingcharge-Logger created!
+SCRIPT       : [Breachingcharge]	An existing breachingcharge.json has been found!
+SCRIPT       : [Breachingcharge]	Log-File for this session will be called: BreachingChargeLog_16-12-2025_00-00-44.txt
+SCRIPT       : [Breachingcharge]	An existing breachingcharge.json has been found!
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : start heli1 
+SCRIPT       : start heli2 
+SCRIPT       : end4 heli tpyzl~q-o#{"0":285,"0":315,"0":390,"0":270,"0":237,"0":328,"0":356,"0":301,"0":366,"0":317,"0":316,"0":261,"0":322,"0":326,"0":273,"0":434,"0":262,"0":349,"0":297,"0":377,"0":417,"0":304,"0":448,"0":451,"0":380,"0":438,"0":433,"0":371,"0":421,"0":323,"0":347,"0":251,"0":411,"0":281,"0":293,"0":381,"0":266,"0":291,"0":283,"0":355,"0":325,"0":454,"0":260,"0":264,"0":425,"0":409,"0":453,"0":402,"0":449,"0":426,"0":384,"0":427,"0":341,"0":350,"0":295,"0":232,"0":373,"0":286,"0":439,"0":444,"0":404,"0":255,"0":275,"0":382,"0":288,"0":282,"0":412,"0":324,"0":252,"0":298,"0":313,"0":268,"0":242,"0":287,"0":364,"0":387,"0":378,"0":445,"0":265,"0":428,"0":442,"0":393,"0":248,"0":446,"0":320,"0":245,"0":430,"0":452,"0":340,"0":294,"0":277,"0":334,"0":440,"0":337,"0":236,"0":420,"0":403,"0":386,"0":441,"0":296,"0":234,"0":418,"0":327,"0":335,"0":344,"0":338,"0":307,"0":318,"0":303,"0":431,"0":394,"0":370,"0":401,"0":443,"0":249,"0":279,"0":333,"0":246,"0":455,"0":263,"0":332,"0":353,"0":339,"0":300,"0":253,"0
+SCRIPT       : start heli3 true
+SCRIPT       : [A6GunplayMod] OnInit
+SCRIPT       : [SecureContainersMod] OnInit
+SCRIPT       : string dirtyName = 'TheHideout|US|Solo/Duo/Trio|WeekendRaiding'
+SCRIPT       : [AirdropLimiter] Ready. LimitPerRestart=2
+SCRIPT       : [AirdropLimiter] Service started (Core).
+SCRIPT       : [SyntactixCore] Init complete.
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [BSHC_Log GetInstance] No instance exists, creating new BSHC_Log for component: BSHC_MissionServer
+SCRIPT       : [BSHC_Log Constructor] Log file name base for this session: $profile:\Bastardo_HC\logs\BSHC_MissionServer_Session_2025_12_16_06_00_45.log
+SCRIPT    (E): JSON ERROR BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:34
+SCRIPT    (E): [::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:\Bastardo_HC\loot_pools.json":
+JSON ERROR:
+Reading variable: data
+Expecting instance
+Reading variable: AllDefinedCategories
+Expecting map
+Expecting array
+At index 0, Expecting instance
+Reading variable: items
+Expecting array
+At index 0, Expecting instance
+Reading variable: attachments
+Expecting array
+At index 0, Expecting instance
+Is not json object 
+
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BS_HackedCrate/Scripts/4_World/entites\classes\loot\bshclootpoolconfig.c:87 Function Load
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:71 Function OnInit
+KOTH/Scripts/5_Mission/missionserver.c:27 Function OnInit
+CannabisPlus/scripts/5_mission/missionserver.c:7 Function OnInit
+ContinuousSawing\scripts\5_Mission/continuoussawinginit.c:5 Function OnInit
+BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:34 Function OnInit
+SCRIPT       : [CP] Config Sucessfully loaded!
+SCRIPT    (E): JSON ERROR BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:34
+SCRIPT    (E): [::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:\Continuous Sawing\ContinuousSawingSettings.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+ContinuousSawing\scripts\3_Game/continuoussawingconfig.c:47 Function Load
+ContinuousSawing\scripts\3_Game/continuoussawingconfig.c:114 Function LoadConfig
+ContinuousSawing\scripts\3_Game/continuoussawingconfig.c:126 Function Init
+ContinuousSawing\scripts\5_Mission/continuoussawinginit.c:7 Function OnInit
+BaseBuildingPlus/scripts/5_Mission/mission\missionserver.c:34 Function OnInit
+SCRIPT       : [ContinuousSawing] Config loaded successfully
+SCRIPT       : [ContinuousSawing] Server mod initialized with config system and recipe management
+SCRIPT       : 00:00:47.087 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6add7450> fileName Safezone
+SCRIPT       : 00:00:47.088 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6add8f80> fileName Safezone
+SCRIPT       : 00:00:47.089 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6add22c0> fileName Safezone
+SCRIPT       : 00:00:47.090 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6adda1a0> fileName Vehicles
+SCRIPT       : 00:00:47.091 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6addaab0> fileName Safezone
+SCRIPT       : 00:00:47.092 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6add34e0> fileName Safezone
+SCRIPT       : 00:00:47.093 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6addcef0> fileName Safezone
+SCRIPT       : 00:00:47.094 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6ade1770> fileName Vehicles
+SCRIPT       : 00:00:47.095 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6addfc40> fileName Safezone
+SCRIPT       : 00:00:47.096 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6addc5e0> fileName BlackMarket
+SCRIPT       : 00:00:47.096 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6addf330> fileName Helicopters
+SCRIPT       : 00:00:47.103 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<6ade2080> fileName BlackMarket
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_10.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_2.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_3.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_4.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_5.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_6.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_7.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_8.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_9.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_1.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_3.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_4.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_5.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_6.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_2.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_3.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_4.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_1.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_2.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_3.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_4.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_5.json
+SCRIPT    (E): ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:17 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+SCRIPT       : 00:00:47.329 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_17_.json. Quest ID=17
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+SCRIPT    (E): ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:18 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+SCRIPT       : 00:00:47.336 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_18_.json. Quest ID=18
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+SCRIPT    (E): ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:19 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+SCRIPT       : 00:00:47.343 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_19_.json. Quest ID=19
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+SCRIPT    (E): ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:20 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+SCRIPT       : 00:00:47.356 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_20_.json. Quest ID=20
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+SCRIPT    (E): ExpansionQuestConfig::ValidateQuestConfiguration - Quest configuration with ID:27 has no configured objectives!
+Class:      'ExpansionQuestConfig'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestconfig.c:799 Function ValidateQuestConfiguration
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3048 Function GetQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930 Function LoadQuestData
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383 Function ServerModuleInit
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48 Function OnMissionStart
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190 Function OnMissionStart
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37 Function OnMissionStart
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12 Function OnMissionStart
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136 Function OnMissionStart
+CargoSorting/scripts/5_Mission/missionserver.c:5 Function OnMissionStart
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53 Function OnMissionStart
+SCRIPT       : 00:00:47.396 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_27_.json. Quest ID=27
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_2.json
+SCRIPT       : [CZ AUTOZ DEBUG] Trying IP checker: https://checkip.amazonaws.com
+SCRIPT       : [CZ AUTOZ DEBUG] Response from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Potential IP from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Valid IPv4 found: 206.221.176.215
+SCRIPT       : [CZ AUTOZ] Tier 2 Checking IP: 206.221.176.215 Port: 2302
+SCRIPT       : [CZ AUTOZ] Successfully fetched Tier2.json from: http://czautoz.co.uk/data/
+SCRIPT       : [CZ AUTOZ SUCCESS] YOU'RE WHITELISTED WITH IP 206.221.176.215:2302 FOR Tier 2, THANKS FOR SUPPORTING CALLATIC & CZ AUTOZ - https://discord.gg/EfPkGGP6n8
+SCRIPT       : [CZ AUTOZ SUCCESS] Tier 2 Server check passed. The server is valid.
+SCRIPT       : [CZ AUTOZ DEBUG] Trying IP checker: https://checkip.amazonaws.com
+SCRIPT       : [CZ AUTOZ DEBUG] Response from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Potential IP from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Valid IPv4 found: 206.221.176.215
+SCRIPT       : [CZ AUTOZ] Tier 1 Checking IP: 206.221.176.215 Port: 2302
+SCRIPT       : [CZ AUTOZ] Successfully fetched Tier1.json from: http://czautoz.co.uk/data/
+SCRIPT       : [CZ AUTOZ SUCCESS] YOU'RE WHITELISTED WITH IP 206.221.176.215:2302 FOR Tier 1, THANKS FOR SUPPORTING CALLATIC & CZ AUTOZ - https://discord.gg/EfPkGGP6n8
+SCRIPT       : [CZ AUTOZ SUCCESS] Tier 1 Server check passed. The server is valid.
+SCRIPT       : [CZ AUTOZ DEBUG] Trying IP checker: https://checkip.amazonaws.com
+SCRIPT       : [CZ AUTOZ DEBUG] Response from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Potential IP from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Valid IPv4 found: 206.221.176.215
+SCRIPT       : [CZ AUTOZ] Tier 4 Checking IP: 206.221.176.215 Port: 2302
+SCRIPT       : [CZ AUTOZ] Successfully fetched Tier4.json from: http://czautoz.co.uk/data/
+SCRIPT       : [CZ AUTOZ SUCCESS] YOU'RE WHITELISTED WITH IP 206.221.176.215:2302 FOR Tier 4, THANKS FOR SUPPORTING CALLATIC & CZ AUTOZ - https://discord.gg/EfPkGGP6n8
+SCRIPT       : [CZ AUTOZ SUCCESS] Tier 4 Server check passed. The server is valid.
+SCRIPT       : [CZ AUTOZ DEBUG] Trying IP checker: https://checkip.amazonaws.com
+SCRIPT       : [CZ AUTOZ DEBUG] Response from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Potential IP from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Valid IPv4 found: 206.221.176.215
+SCRIPT       : [CZ AUTOZ] Tier 3 Checking IP: 206.221.176.215 Port: 2302
+SCRIPT       : [CZ AUTOZ] Successfully fetched Tier3.json from: http://czautoz.co.uk/data/
+SCRIPT       : [CZ AUTOZ SUCCESS] YOU'RE WHITELISTED WITH IP 206.221.176.215:2302 FOR Tier 3, THANKS FOR SUPPORTING CALLATIC & CZ AUTOZ - https://discord.gg/EfPkGGP6n8
+SCRIPT       : [CZ AUTOZ SUCCESS] Tier 3 Server check passed. The server is valid.
+SCRIPT       : [CZ AUTOZ DEBUG] Trying IP checker: https://checkip.amazonaws.com
+SCRIPT       : [CZ AUTOZ DEBUG] Response from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Potential IP from https://checkip.amazonaws.com: 206.221.176.215
+SCRIPT       : [CZ AUTOZ DEBUG] Valid IPv4 found: 206.221.176.215
+SCRIPT       : [CZ AUTOZ] LAPV Checking IP: 206.221.176.215 Port: 2302
+SCRIPT       : [CZ AUTOZ] Successfully fetched LAPV.json from: http://czautoz.co.uk/data/
+SCRIPT       : [CZ AUTOZ SUCCESS] YOU'RE WHITELISTED WITH IP 206.221.176.215:2302 FOR LAPV, THANKS FOR SUPPORTING CALLATIC & CZ AUTOZ - https://discord.gg/EfPkGGP6n8
+SCRIPT       : [CZ AUTOZ SUCCESS] LAPV Server check passed. The server is valid.
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'TheHideout|US|Solo/Duo/Trio|WeekendRaiding'
+SCRIPT       : [Antifreeze_Config::SetLoaded] :: [INFO] :: AntifreeZe loaded
+SCRIPT       : 00:01:23.430 [EXPANSION DEBUG]: ExpansionP2PTraderMirek<68781350>::SetP2PTraderID - ID: 1
+SCRIPT       : 00:01:23.902 [EXPANSION DEBUG]: ExpansionP2PTraderMirek<403ada90>::SetP2PTraderID - ID: 2
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<317ec460>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionZoneCircle<9ea60cd0> position=<8160.000000, 0.000000, 9100.000000> radius=500
+SCRIPT       : ExpansionZoneCircle<9ea60c70> position=<3728.270020, 0.000000, 6003.600098> radius=500
+SCRIPT       : Found 2 zones!
+SCRIPT       :  !!! OnError() 
+SCRIPT       :  !!! OnError() 
+SCRIPT       :  !!! OnError() 
+SCRIPT       :  !!! OnError() 
+SCRIPT       :  !!! OnError() 
+SCRIPT       : Local Time <abbreviation="EST", timezone="America/New_York", utc_offset="-05:00", raw_offset=-18000>
+SCRIPT       : Received a list of 22 mods
+SCRIPT       : [UpdateCheck] All LBmaster mods are up to date !
+SCRIPT       : m_LoginTimeMs: 6200
+SCRIPT       : start heli4 
+SCRIPT       : end heli tpyzl~q-o-tpyzl~q-o=1!@!tpyzl~q-o s 1 v 7.961 
+SCRIPT       : [DoorLockSystem]: [ServerStartUpRelockSystem]: Setting up DoorLockSystem, locking all doors defined in the configuration file!
+SCRIPT       : [DoorLockSystem]: [ServerStartUpRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [ServerStartUpRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [ServerStartUpRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : 07:58:49.291 [WARNING]	76561199235895323 tried sending <SkinSystem>::SetSkinConfig which does not seem to exist!
+SCRIPT       : [CP] -> Sucessfully sent: Gailamir CP Plus Config!
+SCRIPT       : [VPPAT] Player "Gailamir" (steamId=76561199235895323) connected to server!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Automatic Relock Timer is Up! Attempting to Relock Doors!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Tisy Underground Room was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Bash Underground was already locked!
+SCRIPT       : [DoorLockSystem]: [GlobalAutomaticRelockSystem]: Door: Pavlovo Office was already locked!
+SCRIPT       : [Logout]: New player Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU= with logout time 15
+SCRIPT       : Player "Gailamir" (steamid=76561199235895323) initiated disconnect process...
+SCRIPT       : Player "Gailamir" (steamid=76561199235895323) disconnected early from server (EXIT NOW).
+SCRIPT       : 08:13:48.245 [EXPANSION DEBUG]: ExpansionQuestPersistentData<40eb6690>~ExpansionQuestPersistentData (1)
+SCRIPT       : [Logout]: Player Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU= finished
+SCRIPT       : Player "Gailamir" (steamid=76561199235895323) disconnected from server.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=

@@ -1,0 +1,19 @@
+{
+  "ConfigVersion": 28,
+  "ID": 2,
+  "ObjectiveType": 10,
+  "ObjectiveText": "Skin a deer",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ActionNames": [
+    "ActionSkinning"
+  ],
+  "AllowedClassNames": [
+    "Animal_CapreolusCapreolus",
+    "Animal_CapreolusCapreolusF",
+    "Animal_CervusElaphus",
+    "Animal_CervusElaphusF"
+  ],
+  "ExcludedClassNames": [],
+  "ExecutionAmount": 1
+}

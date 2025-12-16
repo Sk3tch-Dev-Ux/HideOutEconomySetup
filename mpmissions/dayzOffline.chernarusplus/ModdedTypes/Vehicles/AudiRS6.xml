@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="AudiRS6">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_Cargo1">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_ChromePurple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_Gray">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo1_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_ChromePurple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_Gray">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Cargo2_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_ChromePurple">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_CoDriver">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_ChromePurple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_Gray">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_CoDriver_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_ChromePurple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_Gray">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Driver_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Gray">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_Green">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_Hood">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_ChromePurple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_Gray">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Hood_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Orange">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS6_Trunk">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_ChromePurple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_Gray">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Trunk_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel_BW">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel_Green">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel_GW">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel_Orange">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_Wheel_Purple">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS6_White">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

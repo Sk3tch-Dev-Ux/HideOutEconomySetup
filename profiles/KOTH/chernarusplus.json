@@ -1,0 +1,575 @@
+{
+    "configVersion": 1,
+    "enabled": 1,
+    "loggingLevel": 2,
+    "useLocationText": 0,
+    "useMapMarker": 1,
+    "useNotifications": 1,
+    "reduceProgressOnAbandoned": 1,
+    "reduceProgressOnDeathFromOutside": 1,
+    "requireFlagConstruction": 0,
+    "estimateLocation": 0,
+    "celebrateWin": 1,
+    "punishLoss": 0,
+    "baseCaptureTime": 900.0,
+    "maxTimeBetweenEvents": 1200.0,
+    "minTimeBetweenEvents": 600.0,
+    "playerTimeMultiplier": 1.5,
+    "timeDespawn": 120.0,
+    "timeLimit": 0.0,
+    "timeStart": 30.0,
+    "timeSpawn": 120.0,
+    "timeZoneCooldown": 120.0,
+    "timeGasDuration": 300.0,
+    "minPlayerCount": 1,
+    "maxEnemyCount": 15,
+    "minEnemyCount": 5,
+    "maxEvents": 1,
+    "minimumDeaths": 0,
+    "minimumPlayers": 1,
+    "maximumPlayers": 4,
+    "rewardCount": 2,
+    "flagClassname": "Flag_Hideout",
+    "enemies": [
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_normal_Woodland"
+    ],
+    "lootCrate": "KOTH_Chest",
+    "crateLifeTime": 0,
+    "lootSets": [],
+    "zones": [
+        {
+            "zoneName": "Tisy Military",
+            "zonePosition": [
+                1677.5999755859376,
+                451.0,
+                14348.900390625
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        244.31640625,
+                        336.35931396484377,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Grozovy Military",
+            "zonePosition": [
+                3669.199951171875,
+                363.0,
+                14802.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        38.43388366699219,
+                        322.634033203125,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Kamensk Military",
+            "zonePosition": [
+                7105.2001953125,
+                355.0,
+                14582.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        215.38278198242188,
+                        26.682897567749025,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Novy Lug Military",
+            "zonePosition": [
+                9559.2001953125,
+                242.0,
+                11802.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        248.06419372558595,
+                        35.43929672241211,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Krasno Airfield",
+            "zonePosition": [
+                11871.2001953125,
+                140.0,
+                12552.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        156.9552001953125,
+                        289.5235290527344,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Staroye Military",
+            "zonePosition": [
+                10432.2001953125,
+                283.0,
+                5954.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        247.04978942871095,
+                        300.77264404296877,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Pavlovo Military",
+            "zonePosition": [
+                2194.199951171875,
+                91.0,
+                3363.800048828125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        135.08363342285157,
+                        319.10516357421877,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Myshkino Military",
+            "zonePosition": [
+                1161.199951171875,
+                185.0,
+                7248.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        118.21858215332031,
+                        23.34310531616211,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "VMC Military",
+            "zonePosition": [
+                4564.2001953125,
+                317.0,
+                8280.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        124.00358581542969,
+                        49.726253509521487,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Zelengorsk Military",
+            "zonePosition": [
+                2515.199951171875,
+                193.0,
+                5078.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        356.9316101074219,
+                        313.7308349609375,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Vybor Airfield",
+            "zonePosition": [
+                4643.2001953125,
+                339.0,
+                10464.7998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        301.32257080078127,
+                        31.184593200683595,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Kamensk Military Base",
+            "zonePosition": [
+                8006.2998046875,
+                339.5,
+                14627.900390625
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "timeGasDuration": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        287.4559326171875,
+                        23.669355392456056,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        }
+    ]
+}

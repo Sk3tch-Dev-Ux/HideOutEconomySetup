@@ -1,0 +1,17 @@
+{
+    "version": 0,
+    "steamid": "76561199478538528",
+    "name": "SkeeveIrwin",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "kill:zombie": 5,
+        "distance:walk": 1,
+        "spawnselect:spawn:Elektrozavodsk:once": 1,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

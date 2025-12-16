@@ -1,0 +1,76 @@
+{
+    "name": "Reapers",
+    "shortname": "REPRS",
+    "level": 0,
+    "lastActivity": 1764888676,
+    "creationDate": 1764110879,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 2104883949,
+            "name": "$kizo",
+            "icon": "",
+            "position": [
+                4584.8408203125,
+                233.27728271484376,
+                4519.3525390625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199032441806",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0,
+            "tempMember": 0,
+            "lastSubgroup": 0,
+            "moveToLastSubgroup": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1918952661,
+            "name": "HQ",
+            "icon": "LBmaster_Groups\\gui\\icons\\flag.paa",
+            "position": [
+                4590.5888671875,
+                234.23728942871095,
+                4518.15625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 109,
+            "colorB": 0,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

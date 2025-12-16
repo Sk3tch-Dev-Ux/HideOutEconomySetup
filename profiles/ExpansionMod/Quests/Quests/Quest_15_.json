@@ -1,0 +1,56 @@
+{
+  "ConfigVersion": 22,
+  "ID": 15,
+  "Type": 1,
+  "Title": "Collector: The Cannibal",
+  "Descriptions": [
+    "",
+    "",
+    ""
+  ],
+  "ObjectiveText": "Um, get the human steak...",
+  "FollowUpQuest": -1,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    1,
+    2
+  ],
+  "QuestTurnInIDs": [
+    1,
+    2
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 5,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": -16711903,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

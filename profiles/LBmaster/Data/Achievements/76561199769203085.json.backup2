@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "steamid": "76561199769203085",
+    "name": "DeathCrow",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "inventory",
+        "money1",
+        "money2",
+        "money3",
+        "run_car1",
+        "run_car2",
+        "run_foot1",
+        "zombie1",
+        "zombie2"
+    ],
+    "trigger": {
+        "kill:zombie": 105,
+        "distance:drive": 84,
+        "quests:finished": 1,
+        "inventory:open": 1,
+        "distance:walk": 19,
+        "bullet:shot": 146,
+        "bank:balance:personal": 219595
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

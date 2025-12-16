@@ -1,0 +1,46 @@
+{
+  "m_Version": 13,
+  "DisplayName": "Vehicles",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Car",
+  "Currencies": [
+    "hideout_money"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "USD",
+  "UseCategoryOrder": 1,
+  "Categories": [
+    "Cars_AudiRS6",
+    "Vehicle_Attachments:3",
+    "Cars_AudiRS7Sportback",
+    "Cars_BentleyMullinerBacalar",
+    "Cars_BMWM5CompF9",
+    "Cars_BMWX6M",
+    "Vehicle_Parts",
+    "Cars",
+    "Cars_Insurgent",
+    "Cars_Hurracan",
+    "Cars_TRX",
+    "Cars_DodgeChargerSRTHellcat",
+    "Cars_FordBroncoXLT80",
+    "Cars_FordVelociraptor6x6",
+    "Cars_LamboUrus",
+    "Cars_LancerEvoIX",
+    "Cars_LANEvoque2016",
+    "Cars_LAPV",
+    "Cars_Canam",
+    "Cars_MercedesAMGGT2020",
+    "Cars_MercedesG63AMG",
+    "Cars_Nissan350Z",
+    "Cars_Porsche911GTRS2018",
+    "Cars_ShelbySuperSnake19",
+    "Cars_SubaruImprezaWRXF4",
+    "Cars_VWGolfGTI"
+  ],
+  "Items": {
+    "carbattery": 3
+  }
+}

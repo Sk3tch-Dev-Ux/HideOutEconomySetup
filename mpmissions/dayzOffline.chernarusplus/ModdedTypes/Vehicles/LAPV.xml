@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="LAPV">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_Cargo1">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_Desert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_Green">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_MatteBlack">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_MatteDesert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_MatteGreen">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo1_MatteGrey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_Desert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_Green">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_MatteBlack">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_MatteDesert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_MatteGreen">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Cargo2_MatteGrey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_Desert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_Green">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_MatteBlack">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_MatteDesert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_MatteGreen">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_CoDriver_MatteGrey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Desert">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_Driver">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_Desert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_Green">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_MatteBlack">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_MatteDesert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_MatteGreen">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Driver_MatteGrey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Green">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_Grey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_MatteBlack">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_MatteDesert">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_MatteGreen">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_MatteGrey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="LAPV_Trunk">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_Desert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_Green">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_Grey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_MatteBlack">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_MatteDesert">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_MatteGreen">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Trunk_MatteGrey">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="LAPV_Wheel">
+    <lifetime>2700</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+</types>

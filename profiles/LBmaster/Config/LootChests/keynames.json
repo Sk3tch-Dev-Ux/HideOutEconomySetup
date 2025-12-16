@@ -1,0 +1,113 @@
+{
+    "version": 0,
+    "keys": [
+        {
+            "classname": "LB_LC_Key1_Black",
+            "displayname": "LB_LC_Key1_Black",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Blue",
+            "displayname": "LB_LC_Key1_Blue",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Green",
+            "displayname": "LB_LC_Key1_Green",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Grey",
+            "displayname": "LB_LC_Key1_Grey",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Orange",
+            "displayname": "LB_LC_Key1_Orange",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Red",
+            "displayname": "LB_LC_Key1_Red",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Violet",
+            "displayname": "LB_LC_Key1_Violet",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_White",
+            "displayname": "LB_LC_Key1_White",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key1_Yellow",
+            "displayname": "LB_LC_Key1_Yellow",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Black",
+            "displayname": "LB_LC_Key2_Black",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Blue",
+            "displayname": "LB_LC_Key2_Blue",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Green",
+            "displayname": "LB_LC_Key2_Green",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Grey",
+            "displayname": "LB_LC_Key2_Grey",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Orange",
+            "displayname": "LB_LC_Key2_Orange",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Red",
+            "displayname": "LB_LC_Key2_Red",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Violet",
+            "displayname": "LB_LC_Key2_Violet",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_White",
+            "displayname": "LB_LC_Key2_White",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        },
+        {
+            "classname": "LB_LC_Key2_Yellow",
+            "displayname": "LB_LC_Key2_Yellow",
+            "description": "Edit me too!",
+            "deleteOnRuined": 0
+        }
+    ]
+}

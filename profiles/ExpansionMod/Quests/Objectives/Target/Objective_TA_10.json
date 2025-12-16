@@ -1,0 +1,25 @@
+{
+  "ConfigVersion": 28,
+  "ID": 10,
+  "ObjectiveType": 2,
+  "ObjectiveText": "Kill 5 survivors",
+  "TimeLimit": 86400,
+  "Active": 1,
+  "Position": [
+    0,
+    0,
+    0
+  ],
+  "MaxDistance": -1,
+  "MinDistance": 0,
+  "Amount": 5,
+  "ClassNames": [
+    "SurvivorBase"
+  ],
+  "CountSelfKill": 0,
+  "AllowedWeapons": [],
+  "ExcludedClassNames": [],
+  "CountAIPlayers": 0,
+  "AllowedTargetFactions": [],
+  "AllowedDamageZones": []
+}

@@ -1,0 +1,12 @@
+{
+  "ConfigVersion": 28,
+  "ID": 1,
+  "ObjectiveType": 11,
+  "ObjectiveText": "Craft the Heavy C4",
+  "TimeLimit": -1,
+  "ItemNames": [
+    "HDSN_BreachingChargeHeavy"
+  ],
+  "ExecutionAmount": 1,
+  "Active": 1
+}

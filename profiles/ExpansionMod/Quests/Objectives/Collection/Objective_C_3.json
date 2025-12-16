@@ -1,0 +1,33 @@
+{
+  "ConfigVersion": 28,
+  "ID": 3,
+  "ObjectiveType": 4,
+  "ObjectiveText": "Collect all required explosives",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "HDSN_Sulfur",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "HDSN_Charcoal",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "HDSN_Gunpowder",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    }
+  ],
+  "MaxDistance": 0,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Active": 1
+}

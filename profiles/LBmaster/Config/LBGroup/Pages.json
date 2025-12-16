@@ -1,0 +1,106 @@
+{
+    "version": 2,
+    "infoPageSettings": {
+        "enabled": 1,
+        "priority": 500,
+        "buttonText": "#lb_page_info",
+        "showSurvivorCount": 1,
+        "showCursorCoordinates": 1,
+        "showPlayerPositionCoordinates": 1,
+        "showIngameTime": 1,
+        "showRealTime": 1,
+        "enableModCreatorMention": 0,
+        "buttonConfig": [
+            {
+                "buttonName": "Discord",
+                "subtext": "Join our Discord to stay up to date!",
+                "hoverTooltip": "",
+                "link": "https://discord.gg/bnF5TAMgQP"
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
+            },
+            {
+                "buttonName": "",
+                "subtext": "",
+                "hoverTooltip": "",
+                "link": ""
+            }
+        ]
+    },
+    "groupPageSettings": {
+        "enabled": 1,
+        "priority": 450,
+        "buttonText": "#lb_page_group"
+    },
+    "markersPageSettings": {
+        "enabled": 1,
+        "priority": 400,
+        "buttonText": "#lb_page_markers"
+    },
+    "settingsPageSettings": {
+        "enabled": 1,
+        "priority": 350,
+        "buttonText": "#lb_page_settings"
+    },
+    "achievementsPageSettings": {
+        "enabled": 1,
+        "priority": 120,
+        "buttonText": "#lb_ac_title_achievements"
+    },
+    "itemRestrictionsPageSettings": {
+        "enabled": 1,
+        "priority": 100,
+        "buttonText": "#lb_ir_text_restrictions"
+    },
+    "leaderboardPageSettings": {
+        "enabled": 1,
+        "priority": 110,
+        "buttonText": "Leaderboard"
+    },
+    "customPages": [
+        {
+            "enabled": 0,
+            "priority": 275,
+            "buttonText": "#lb_page_rules",
+            "fullSize": 1,
+            "lines": [
+                "$args(size(30),center,rgb(255,0,0));Rules",
+                "$args(size(20));General Rules",
+                "  - Duping, Hacking, Exploiting, Glitching and Cheating will result in a permanent ban",
+                "  - You must be at least 16 years old to play on our server",
+                "  - Alternate accounts are not allowed",
+                "  - Ban evading will result in a permanent ban",
+                "  - No refund for gear lost due to bugs without video evidence",
+                "  - Use vehicles on your own risk. We do not refund any vehicles",
+                "  - Scamming other players in safezones is forbidden",
+                "  - All Chats are in English",
+                "$args(size(20));Basebuilding Rules",
+                "  - Building a base requires a plotpole to be placed down first",
+                "  - A group is only allowed to have 1 base",
+                "  - No building within 200m of any military"
+            ]
+        }
+    ]
+}

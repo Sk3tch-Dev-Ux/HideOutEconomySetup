@@ -1,0 +1,187 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Armor - Helmets",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "fog_helmet_airframe_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_airframe_cb",
+                "fog_helmet_airframe_od",
+                "fog_helmet_airframe_rg",
+                "fog_helmet_airframe_tan"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_ajs_fast_sf_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_ajs_fast_sf_cb",
+                "fog_helmet_ajs_fast_sf_cb_blk",
+                "fog_helmet_ajs_fast_sf_erdl",
+                "fog_helmet_ajs_fast_sf_erdl_blk",
+                "fog_helmet_ajs_fast_sf_gry",
+                "fog_helmet_ajs_fast_sf_mc",
+                "fog_helmet_ajs_fast_sf_mc_black",
+                "fog_helmet_ajs_fast_sf_mcb",
+                "fog_helmet_ajs_fast_sf_mcb2",
+                "fog_helmet_ajs_fast_sf_mudtan",
+                "fog_helmet_ajs_fast_sf_rg",
+                "fog_helmet_ajs_fast_sf_rg_blk",
+                "fog_helmet_ajs_fast_sf_tan",
+                "fog_helmet_ajs_fast_sf_tan_blk"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_exfil_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_exfil_mc",
+                "fog_helmet_exfil_rg",
+                "fog_helmet_exfil_tan"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_fast_bump_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_fast_bump_cb",
+                "fog_helmet_fast_bump_erdl",
+                "fog_helmet_fast_bump_grey",
+                "fog_helmet_fast_bump_mc",
+                "fog_helmet_fast_bump_mcb",
+                "fog_helmet_fast_bump_mct",
+                "fog_helmet_fast_bump_od",
+                "fog_helmet_fast_bump_rg",
+                "fog_helmet_fast_bump_tan"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_fast_fths_tan",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_fast_fths_mc"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_fast_sf_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_fast_sf_cb",
+                "fog_helmet_fast_sf_cb_blk",
+                "fog_helmet_fast_sf_erdl",
+                "fog_helmet_fast_sf_erdl_blk",
+                "fog_helmet_fast_sf_gry",
+                "fog_helmet_fast_sf_mc",
+                "fog_helmet_fast_sf_mcb",
+                "fog_helmet_fast_sf_mcb2",
+                "fog_helmet_fast_sf_mudtan",
+                "fog_helmet_fast_sf_rg",
+                "fog_helmet_fast_sf_rg_blk",
+                "fog_helmet_fast_sf_tan",
+                "fog_helmet_fast_sf_tan_blk"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_fastmt_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_fastmt_aor1",
+                "fog_helmet_fastmt_aor2",
+                "fog_helmet_fastmt_cb",
+                "fog_helmet_fastmt_grey",
+                "fog_helmet_fastmt_m81",
+                "fog_helmet_fastmt_mc",
+                "fog_helmet_fastmt_mcal",
+                "fog_helmet_fastmt_mcb",
+                "fog_helmet_fastmt_mct",
+                "fog_helmet_fastmt_rg",
+                "fog_helmet_fastmt_tan"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_hgu56_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_hgu56_grey",
+                "fog_helmet_hgu56_od",
+                "fog_helmet_hgu56_t499",
+                "fog_helmet_hgu56_tan"
+            ]
+        },
+        {
+            "ClassName": "fog_helmet_mich2000_black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_helmet_mich2000_cb",
+                "fog_helmet_mich2000_grey",
+                "fog_helmet_mich2000_m81",
+                "fog_helmet_mich2000_mc",
+                "fog_helmet_mich2000_mcb",
+                "fog_helmet_mich2000_od",
+                "fog_helmet_mich2000_rg",
+                "fog_helmet_mich2000_rgrattle",
+                "fog_helmet_mich2000_tan",
+                "fog_helmet_mich2000_tanrattle"
+            ]
+        }
+    ]
+}

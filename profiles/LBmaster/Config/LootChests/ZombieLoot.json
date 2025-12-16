@@ -1,0 +1,41 @@
+{
+    "version": 1,
+    "entries": [
+        {
+            "enabled": 0,
+            "includeChildClasses": 1,
+            "zombieClassnames": [
+                "ZmbM_NBC_Yellow",
+                "ZmbM_NBC_Grey"
+            ],
+            "clearCargoInventory": 1,
+            "lootPresetSpawnedCargo": "Zombie_NBC_Cargo",
+            "clearAttachments": 1,
+            "lootPresetSpawnedAttachments": "Zombie_NBC_Clothing"
+        },
+        {
+            "enabled": 0,
+            "includeChildClasses": 1,
+            "zombieClassnames": [
+                "ZmbM_PatrolNormal_Base",
+                "ZmbM_SoldierNormal",
+                "ZmbM_usSoldier_normal_Base"
+            ],
+            "clearCargoInventory": 1,
+            "lootPresetSpawnedCargo": "Zombie_Military_Cargo",
+            "clearAttachments": 1,
+            "lootPresetSpawnedAttachments": "Zombie_Military_Clothing"
+        },
+        {
+            "enabled": 0,
+            "includeChildClasses": 1,
+            "zombieClassnames": [
+                "ZmbM_FirefighterNormal"
+            ],
+            "clearCargoInventory": 1,
+            "lootPresetSpawnedCargo": "Zombie_Firefighter_Cargo",
+            "clearAttachments": 1,
+            "lootPresetSpawnedAttachments": "Zombie_Firefighter_Clothing"
+        }
+    ]
+}

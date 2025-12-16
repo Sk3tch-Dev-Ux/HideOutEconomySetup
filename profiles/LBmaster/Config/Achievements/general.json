@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "useVanillaNotificationSystem": 0,
+    "publicAchievementGotTitle": "#lb_ac_title_achievements",
+    "publicAchievementGotMessage": "%player% just got the %title% achievement. Congratulations!",
+    "publicAchievementGotIcon": ""
+}

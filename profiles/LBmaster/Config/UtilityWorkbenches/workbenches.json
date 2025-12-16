@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "objects": [
+        {
+            "itemname": "Ammo_Workbench_Static",
+            "position": [
+                3704.990478515625,
+                402.0419006347656,
+                5977.900390625
+            ],
+            "orientation": [
+                519.7739868164063,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0
+        },
+        {
+            "itemname": "Ammo_Workbench_Static",
+            "position": [
+                8162.1904296875,
+                474.0686950683594,
+                9112.1884765625
+            ],
+            "orientation": [
+                514.4929809570313,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0
+        }
+    ]
+}

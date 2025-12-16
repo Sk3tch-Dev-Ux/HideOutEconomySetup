@@ -1,0 +1,18 @@
+{
+    "version": 0,
+    "steamid": "76561199857554126",
+    "name": "NightHammer39",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "kill:zombie": 5,
+        "inventory:open": 1,
+        "distance:walk": 1,
+        "spawnselect:spawn:Berenzino:once": 1,
+        "spawnselect:spawn:Chernogorsk:once": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

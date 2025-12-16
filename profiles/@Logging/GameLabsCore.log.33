@@ -1,0 +1,16 @@
+************************** 2025-12-13T02:46:54+00:00 **************************
+2025-12-13T02:46:54+00:00 | [INFO	] GameLabs v1.963 start for server 217611ad-48c7-4fe0-a20c-788244e3ff8b
+2025-12-13T02:47:07+00:00 | [INFO	] Server up (GameLabs v1.963; terrain=chernarusplus;)
+2025-12-13T02:47:07+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-12-13T02:47:09+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2025-12-13T02:47:09+00:00 | [WARN	] "ActionDestroyBBP" has been added as monitored action by a third party application
+2025-12-13T02:47:46+00:00 | [INFO	] Mission fully loaded in 101.417s. Server ready for connections.
+2025-12-13T02:47:49+00:00 | [WARN	] RegisterAsync re-authorized
+2025-12-13T03:48:04+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-12-13T03:48:04+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-12-13T03:48:04+00:00 | [WARN	] RegisterAsync re-authorized
+2025-12-13T04:48:05+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-12-13T04:48:05+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-12-13T04:48:05+00:00 | [WARN	] RegisterAsync re-authorized
+2025-12-13T04:59:35+00:00 | [INFO	] (Reporter) Disabled
+2025-12-13T04:59:35+00:00 | [INFO	] (Core) Attempting graceful exit

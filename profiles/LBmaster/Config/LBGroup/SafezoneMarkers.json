@@ -1,0 +1,44 @@
+{
+    "version": 3,
+    "enablePlayerMarkers": 1,
+    "showMarkersEverywhere": 0,
+    "checkLineOfSight": 1,
+    "obfuscatePlayerNames": 0,
+    "showOwnPlayerTag": 1,
+    "maxPlayerDistance": 100.0,
+    "safezoneMarkers": [
+        {
+            "prefix": "[Player] ",
+            "color": {
+                "a": 255,
+                "r": 0,
+                "g": 255,
+                "b": 0
+            },
+            "permission": "",
+            "ignoreNameObfuscationSetting": 0
+        },
+        {
+            "prefix": "[Admin] ",
+            "color": {
+                "a": 255,
+                "r": 255,
+                "g": 0,
+                "b": 0
+            },
+            "permission": "groups.nametags.admin",
+            "ignoreNameObfuscationSetting": 0
+        },
+        {
+            "prefix": "[Owner] ",
+            "color": {
+                "a": 255,
+                "r": 255,
+                "g": 0,
+                "b": 0
+            },
+            "permission": "groups.nametags.owner",
+            "ignoreNameObfuscationSetting": 0
+        }
+    ]
+}

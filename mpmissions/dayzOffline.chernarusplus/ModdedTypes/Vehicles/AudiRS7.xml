@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="AudiRS7Sportback">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS7Sportback_Black">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS7Sportback_Blue">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS7Sportback_Cargo1">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo1_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo1_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo1_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo1_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo1_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo2">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo2_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo2_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo2_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo2_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Cargo2_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Chrome">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS7Sportback_CoDriver">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_CoDriver_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_CoDriver_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_CoDriver_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_CoDriver_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_CoDriver_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Driver">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Driver_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Driver_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Driver_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Driver_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Driver_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Grey">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="AudiRS7Sportback_Hood">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Hood_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Hood_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Hood_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Hood_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Hood_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Spoiler">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Spoiler_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Spoiler_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Spoiler_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Spoiler_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Spoiler_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Trunk">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Trunk_Black">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Trunk_Blue">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Trunk_Chrome">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Trunk_Grey">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Trunk_White">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_Wheel">
+    <lifetime>2700</lifetime>
+  </type>
+  <type name="AudiRS7Sportback_White">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

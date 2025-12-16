@@ -1,0 +1,576 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-10_23-5-45
+====================================================================================
+23:5:45 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:5:45 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:5:45 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:5:45 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:5:45 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:5:45 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:5:45 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:5:45 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:5:45 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:5:45 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:5:45 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:5:45 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:5:45 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:5:45 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:5:45 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:5:45 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:5:45 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:5:45 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:5:45 | [PermissionManager] Adding Super Admin (76561199240649723)
+23:5:45 | [PermissionManager] Adding Super Admin (76561199011835169)
+23:5:45 | [PermissionManager] Loaded UserGroups.json
+23:5:45 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:5:45 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:5:45 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:5:45 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:5:45 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:5:45 | Building Sets Loaded: 0
+23:5:45 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+23:5:45 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:7:35 | Player "Syntactix" (steamId=76561199240649723) connected to server!
+23:8:39 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTvest)
+23:8:40 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTtops)
+23:8:42 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTshoes)
+23:8:43 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTpants)
+23:8:47 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTmasks_1)
+23:8:48 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTbelt_Black)
+23:8:51 | "Syntactix" (steamid=76561199240649723) Spawned Item: (SC_FANTbackpacks)
+23:9:10 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3708.619629, 402.001953, 5972.861816>)
+23:10:12 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:10:22 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:10:26 | [WeatherManager] Send Data Count is 0
+23:10:31 | [Time Manager] Setting Date to 2025/9/20 8:19
+23:12:4 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3300.964600, 575.237061, 7010.850098>)
+23:12:10 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3935.873779, 348.558228, 7877.656250>)
+23:12:14 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4486.007324, 316.375092, 8252.678711>)
+23:12:24 | "Syntactix" (steamid=76561199240649723) gave unlimited ammo to (steamid=76561199240649723)
+23:13:8 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4569.145508, 318.161438, 8304.830078>)
+23:13:9 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4581.063965, 318.784393, 8313.602539>)
+23:13:9 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4590.038574, 319.198669, 8321.352539>)
+23:13:10 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4593.637695, 319.451996, 8334.482422>)
+23:13:11 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4592.719727, 319.304749, 8349.237305>)
+23:13:29 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4634.776855, 321.742249, 8346.612305>)
+23:13:30 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4636.165527, 321.356293, 8336.744141>)
+23:15:36 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4594.275391, 321.006348, 8227.195313>)
+23:15:38 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4597.373047, 319.045715, 8201.357422>)
+23:15:39 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4643.206543, 319.304504, 8101.969727>)
+23:15:40 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4665.041016, 320.869049, 8076.302734>)
+23:15:40 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4691.029297, 322.529846, 8049.060547>)
+23:15:41 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4718.937988, 324.782227, 8024.430664>)
+23:15:41 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.638672, 327.221100, 8009.188965>)
+23:16:13 | "Syntactix" (steamid=76561199240649723) Spawned Item: (RA_Blueprint)
+23:16:18 | "Syntactix" (steamid=76561199240649723) Spawned Item: (RA_ClawHammer_Red)
+23:16:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.917969, 327.891052, 7982.963379>)
+23:16:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4761.170410, 327.378265, 7963.077637>)
+23:20:39 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:27:38 | "Syntactix" (steamid=76561199240649723) Spawned Item: (RA_CodeLock)
+23:30:2 | "Syntactix" (steamid=76561199240649723) Spawned Item: (CrSk_Insurgent_SUV_Black)
+23:30:21 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4762.644531, 330.465240, 7954.495605>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.943359, 332.105530, 7953.898926>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.850098, 332.074493, 7953.877930>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.807129, 332.052582, 7953.871582>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.708984, 332.018219, 7953.848633>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.668457, 331.995575, 7953.843262>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.561523, 331.958221, 7953.816895>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.518066, 331.933319, 7953.809570>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.430664, 331.898590, 7953.791016>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.389648, 331.875275, 7953.782715>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.288086, 331.836792, 7953.759277>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.242676, 331.812134, 7953.751953>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.150391, 331.774139, 7953.729004>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.107422, 331.749756, 7953.722168>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4758.012695, 331.710571, 7953.699219>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.970215, 331.686066, 7953.691895>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.860840, 331.640564, 7953.663574>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.817383, 331.614746, 7953.657715>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.723145, 331.573425, 7953.635254>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.683594, 331.550659, 7953.627930>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.582031, 331.505463, 7953.603516>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.537598, 331.478851, 7953.594727>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.439453, 331.434326, 7953.570801>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.396484, 331.399902, 7953.567383>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.395020, 331.414948, 7953.562500>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.351074, 331.412750, 7953.553711>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.236816, 331.416595, 7953.532227>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.176270, 331.462341, 7953.525391>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4757.049316, 331.511078, 7953.503906>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.979980, 331.598999, 7953.498535>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.847656, 331.681061, 7953.479492>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.769043, 331.794098, 7953.473633>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.619141, 331.889374, 7953.451660>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.528320, 332.011749, 7953.443359>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.400879, 332.116974, 7953.427734>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.323242, 332.236115, 7953.422363>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.183594, 332.319183, 7953.401855>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4756.103516, 332.418701, 7953.393066>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.973633, 332.481018, 7953.375000>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.906250, 332.559509, 7953.368164>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.780762, 332.592316, 7953.347168>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.718750, 332.644012, 7953.339355>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.595703, 332.648712, 7953.316406>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.542480, 332.678650, 7953.309082>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.433105, 332.664490, 7953.287598>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.381836, 332.673523, 7953.278809>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.282227, 332.644135, 7953.258301>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.229980, 332.635681, 7953.247559>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.130859, 332.592773, 7953.227051>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4755.084961, 332.577148, 7953.216309>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.981934, 332.521027, 7953.193359>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.943848, 332.503448, 7953.185547>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.838379, 332.446381, 7953.162109>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.791504, 332.415894, 7953.149902>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.698730, 332.354980, 7953.129883>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.663574, 332.332092, 7953.121094>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.561035, 332.263031, 7953.096191>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.514648, 332.231628, 7953.086914>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.421387, 332.168671, 7953.064941>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.377441, 332.137604, 7953.054199>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.273926, 332.066162, 7953.029785>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.227051, 332.033691, 7953.019531>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.158691, 331.981537, 7953.009766>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.118652, 331.951569, 7953.004395>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4754.030273, 331.887817, 7952.985840>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.971191, 331.845917, 7952.973145>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.881348, 331.779449, 7952.951660>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.834473, 331.746033, 7952.940430>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.706055, 331.681732, 7952.888672>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.666016, 331.670258, 7952.883789>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.555176, 331.646545, 7952.861328>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.499512, 331.676392, 7952.851074>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.363770, 331.684906, 7952.826172>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.291504, 331.748871, 7952.816406>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.160156, 331.793915, 7952.793457>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4753.075195, 331.876953, 7952.782715>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.931641, 331.932678, 7952.757324>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.845215, 332.027252, 7952.747070>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.694824, 332.080994, 7952.721680>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.604492, 332.168610, 7952.708984>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.465820, 332.215637, 7952.684570>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.386230, 332.293152, 7952.674805>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.250977, 332.316833, 7952.649902>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.175781, 332.371429, 7952.638672>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4752.053711, 332.375977, 7952.615234>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.983887, 332.405273, 7952.604492>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.870117, 332.386841, 7952.582520>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.808594, 332.396637, 7952.571289>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.683105, 332.343323, 7952.545410>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.629883, 332.336823, 7952.535156>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.542969, 332.295135, 7952.515625>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.494629, 332.277985, 7952.505371>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.393066, 332.208618, 7952.482910>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.349609, 332.184021, 7952.473633>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.248535, 332.105042, 7952.451172>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.201660, 332.071045, 7952.440918>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.109863, 332.002625, 7952.419434>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4751.063477, 331.962402, 7952.408203>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.973145, 331.880310, 7952.388184>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.927734, 331.839233, 7952.376465>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.824707, 331.746552, 7952.352539>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.791504, 331.715851, 7952.344238>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.702148, 331.632324, 7952.324219>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.655762, 331.590027, 7952.312988>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.553711, 331.495331, 7952.288574>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.506836, 331.453033, 7952.277832>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.418945, 331.367767, 7952.257813>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.372070, 331.324493, 7952.247070>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.282227, 331.238434, 7952.226074>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.235840, 331.195221, 7952.215820>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.145020, 331.107849, 7952.193359>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.099609, 331.063751, 7952.182617>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4750.009766, 330.975677, 7952.163086>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.953125, 330.920685, 7952.148926>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.870117, 330.882965, 7952.104004>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.821777, 330.857300, 7952.093262>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.684082, 330.791595, 7952.061523>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.568359, 330.780762, 7952.035645>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.494141, 330.821472, 7952.020996>)
+23:30:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.413574, 330.868225, 7952.004395>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.305664, 330.901489, 7951.981934>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.184570, 330.937531, 7951.956055>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4749.102051, 331.010040, 7951.939941>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.964844, 331.036285, 7951.910156>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.880859, 331.108002, 7951.892578>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.739258, 331.121155, 7951.862305>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.656250, 331.183105, 7951.844727>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.522461, 331.183350, 7951.815918>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.432617, 331.214417, 7951.797852>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.322266, 331.212769, 7951.773438>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.247070, 331.231079, 7951.757324>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.132324, 331.194458, 7951.730957>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4748.070801, 331.199036, 7951.718750>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.964355, 331.143860, 7951.694336>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.901367, 331.121521, 7951.679199>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.800781, 331.051239, 7951.657227>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.755859, 331.031067, 7951.647461>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.654297, 330.941498, 7951.623535>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.602539, 330.902588, 7951.612305>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.507813, 330.809113, 7951.588867>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.467285, 330.772919, 7951.579590>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.364746, 330.663239, 7951.555664>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.317383, 330.622162, 7951.545898>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.227539, 330.519318, 7951.523926>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.171387, 330.454498, 7951.510254>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.092773, 330.363831, 7951.492676>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4747.047363, 330.311920, 7951.480957>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.907227, 330.183624, 7951.408203>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.844238, 330.122131, 7951.378906>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.706543, 329.993652, 7951.308594>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.616211, 329.911163, 7951.259277>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.494629, 329.789642, 7951.206055>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.445801, 329.741760, 7951.181641>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.303223, 329.608643, 7951.104492>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.239746, 329.545776, 7951.074219>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.137207, 329.427063, 7951.048828>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.123047, 329.387726, 7951.083496>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.094238, 329.327606, 7951.121582>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.075684, 329.291626, 7951.140625>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4746.025879, 329.220184, 7951.164551>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.992188, 329.188019, 7951.166992>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.917969, 329.120483, 7951.165039>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.865234, 329.079163, 7951.147949>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.762695, 329.002869, 7951.114746>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.705566, 328.974854, 7951.093262>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.595215, 328.920990, 7951.051270>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.527344, 328.888611, 7951.027832>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.436035, 328.845032, 7950.998047>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.402832, 328.841034, 7950.986816>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.365234, 328.836548, 7950.976074>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4745.039063, 328.622650, 7950.479980>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.957031, 328.605286, 7950.457031>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.893555, 328.607788, 7950.436523>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.777832, 328.612488, 7950.397461>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.686523, 328.628143, 7950.366699>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.697266, 328.714752, 7950.475098>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.720215, 328.798370, 7950.583496>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.783203, 328.924133, 7950.768555>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.748535, 328.979462, 7950.824219>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.597168, 328.995239, 7950.775391>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.464844, 328.992065, 7950.729980>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.277832, 328.993225, 7950.656738>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4744.147949, 328.974976, 7950.611816>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.979004, 328.972961, 7950.551758>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.849121, 328.956207, 7950.507324>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.744141, 328.949310, 7950.474121>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.658203, 328.931549, 7950.447754>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.571289, 328.944702, 7950.419434>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.509766, 328.926514, 7950.399902>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.446289, 328.938507, 7950.378906>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.402344, 328.917114, 7950.363770>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.354980, 328.944550, 7950.347656>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.321777, 328.925201, 7950.335938>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.288086, 328.960876, 7950.323730>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.258789, 328.944702, 7950.312988>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.231445, 328.962585, 7950.303711>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.205566, 328.951752, 7950.292969>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.182129, 328.979370, 7950.282715>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.157715, 328.955902, 7950.274414>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.135254, 328.999023, 7950.266113>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.110840, 328.972076, 7950.257324>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.090820, 329.017334, 7950.248535>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.062988, 328.989349, 7950.240234>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.044434, 329.046356, 7950.230957>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4743.016602, 329.025726, 7950.221191>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.993164, 329.071625, 7950.212891>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.962402, 329.052002, 7950.200195>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.940430, 329.103790, 7950.191406>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.908691, 329.074097, 7950.181641>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.887695, 329.133881, 7950.170898>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.855957, 329.106293, 7950.160645>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.837402, 329.174133, 7950.151367>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.803711, 329.150055, 7950.140137>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.782227, 329.208130, 7950.130859>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.749023, 329.200104, 7950.119629>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.722656, 329.224915, 7950.109375>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.695801, 329.228088, 7950.099121>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.734375, 329.298370, 7950.138672>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.750000, 329.415466, 7950.144043>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.757813, 329.580994, 7950.146973>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.732422, 329.653992, 7950.144043>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.714844, 329.860199, 7950.142090>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.645996, 329.901947, 7950.131836>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.583984, 330.034637, 7950.121582>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.481445, 330.027130, 7950.104980>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.397461, 330.148102, 7950.088379>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.269531, 330.103210, 7950.067383>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.154297, 330.131592, 7950.046875>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4742.014160, 330.034576, 7950.023926>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.905762, 330.069366, 7950.002441>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.764160, 329.945496, 7949.977539>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.663574, 329.977905, 7949.954590>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.529785, 329.838074, 7949.929199>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.435059, 329.833740, 7949.907227>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.317383, 329.702545, 7949.884277>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.236816, 329.698669, 7949.861328>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.131348, 329.556854, 7949.837891>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4741.073242, 329.590302, 7949.816895>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.981445, 329.462891, 7949.794922>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.932129, 329.496338, 7949.772461>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.854004, 329.385895, 7949.750000>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.810059, 329.410248, 7949.729492>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.743164, 329.320740, 7949.708008>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.708984, 329.369690, 7949.685059>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.646484, 329.289246, 7949.664063>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.616211, 329.343079, 7949.641602>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.554688, 329.256592, 7949.622559>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.533691, 329.330292, 7949.600586>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.473633, 329.246643, 7949.581055>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.454102, 329.321960, 7949.560547>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.397949, 329.246979, 7949.542480>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.378906, 329.331604, 7949.520508>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.326172, 329.264160, 7949.501953>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.304199, 329.342194, 7949.478516>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.251465, 329.286102, 7949.459961>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.222168, 329.339935, 7949.435547>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.171387, 329.274628, 7949.417969>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.150391, 329.357178, 7949.393555>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.099609, 329.287811, 7949.376465>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.080566, 329.382965, 7949.352051>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4740.028809, 329.320862, 7949.333496>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.999023, 329.365570, 7949.309570>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.952148, 329.309937, 7949.291504>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.933105, 329.404449, 7949.266113>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.884766, 329.347321, 7949.247070>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.855957, 329.400330, 7949.222168>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.809570, 329.348114, 7949.203125>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.787109, 329.428101, 7949.176270>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.740234, 329.372162, 7949.158203>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.847656, 329.488342, 7949.289063>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.879883, 329.638336, 7949.293457>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.927734, 329.915070, 7949.298340>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.922363, 330.002747, 7949.308594>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.944336, 330.243561, 7949.322754>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.905273, 330.273956, 7949.338379>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.897461, 330.472076, 7949.354004>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.833496, 330.459442, 7949.375488>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.786133, 330.544220, 7949.394531>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.694336, 330.444855, 7949.417480>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.635742, 330.502991, 7949.434082>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.531738, 330.366241, 7949.454590>)
+23:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.469238, 330.406311, 7949.467285>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.356445, 330.226135, 7949.485840>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.279297, 330.181152, 7949.495117>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.172852, 329.995667, 7949.506836>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.111816, 329.988251, 7949.509766>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4739.011230, 329.802826, 7949.515625>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.961914, 329.807922, 7949.512695>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.869141, 329.634521, 7949.511719>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.817871, 329.606262, 7949.504395>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.738281, 329.451233, 7949.500977>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.713379, 329.520569, 7949.484375>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.636719, 329.369476, 7949.477539>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.601563, 329.386047, 7949.461426>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.534180, 329.256226, 7949.451172>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.508301, 329.300232, 7949.432129>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.446777, 329.183105, 7949.420898>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.432129, 329.272308, 7949.392578>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.376953, 329.198425, 7949.375000>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.346680, 329.221893, 7949.350586>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.294922, 329.146057, 7949.334961>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.275879, 329.223755, 7949.306641>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.223633, 329.138184, 7949.292969>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.205078, 329.209717, 7949.266602>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.155273, 329.140137, 7949.250000>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.134277, 329.198303, 7949.223633>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.084961, 329.128845, 7949.208008>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.067383, 329.204773, 7949.180664>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.025879, 329.158783, 7949.165039>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.001465, 329.223877, 7949.134277>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.955566, 329.174652, 7949.115723>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.924316, 329.200043, 7949.089844>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.883789, 329.151184, 7949.075684>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.996094, 329.289215, 7949.152832>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.007813, 329.426361, 7949.128418>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.029785, 329.671051, 7949.095215>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.024414, 329.755096, 7949.096191>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.053711, 330.029022, 7949.090332>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.029297, 330.075378, 7949.108887>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4738.032227, 330.274200, 7949.118652>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.978516, 330.244232, 7949.146973>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.944824, 330.328491, 7949.166504>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.874512, 330.241180, 7949.199707>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.838379, 330.321075, 7949.218262>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.751465, 330.177795, 7949.254395>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.708496, 330.242554, 7949.269043>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.616699, 330.089874, 7949.295898>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.544434, 330.013214, 7949.314453>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.457520, 329.843994, 7949.338379>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.403809, 329.833191, 7949.343262>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.320313, 329.665924, 7949.359375>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.263184, 329.618225, 7949.358398>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.184570, 329.451538, 7949.368652>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.146973, 329.466553, 7949.357910>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.072754, 329.305450, 7949.361328>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4737.040039, 329.324097, 7949.346680>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.977539, 329.201324, 7949.343750>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.956055, 329.246613, 7949.326660>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.900879, 329.145355, 7949.321777>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.875488, 329.171143, 7949.304688>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.821289, 329.068634, 7949.297363>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.807617, 329.122070, 7949.282227>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.765137, 329.056274, 7949.273438>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.744141, 329.089874, 7949.258301>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.702148, 329.012512, 7949.251953>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.692383, 329.089417, 7949.232910>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.652832, 329.024109, 7949.225098>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.644043, 329.099762, 7949.207031>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.602051, 329.025513, 7949.198730>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.786621, 329.170105, 7949.372559>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.811523, 329.301636, 7949.362793>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.856445, 329.553406, 7949.343750>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.859375, 329.653259, 7949.340820>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.891602, 329.938904, 7949.318359>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.863770, 329.990509, 7949.317871>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.841309, 330.101440, 7949.310059>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.785645, 330.074402, 7949.315430>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.764160, 330.225708, 7949.301758>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.684082, 330.136688, 7949.309082>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.632324, 330.175446, 7949.303711>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.540527, 330.040344, 7949.312988>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.484375, 330.060425, 7949.306641>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.390137, 329.903229, 7949.314941>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.333496, 329.903809, 7949.304688>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.238770, 329.729858, 7949.312012>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.180664, 329.699738, 7949.303223>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.094727, 329.533142, 7949.306152>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4736.042969, 329.509308, 7949.293457>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.963379, 329.343506, 7949.293945>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.934570, 329.388489, 7949.276367>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.863281, 329.242767, 7949.274414>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.821777, 329.223389, 7949.258789>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.763184, 329.099182, 7949.256836>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.736328, 329.118286, 7949.239746>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.686035, 329.022095, 7949.233398>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.663086, 329.070129, 7949.211914>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.615234, 328.983215, 7949.204102>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.592285, 329.017731, 7949.184570>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.549805, 328.950775, 7949.173828>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.529785, 329.002380, 7949.154297>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.488281, 328.926147, 7949.146973>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.471191, 328.985291, 7949.125488>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.432617, 328.921631, 7949.116699>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.419922, 328.995728, 7949.094727>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.377930, 328.928864, 7949.085449>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.366211, 329.007141, 7949.062500>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.328613, 328.948303, 7949.053711>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.311523, 329.003693, 7949.032715>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.274902, 328.944916, 7949.022949>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.258789, 329.007202, 7949.000977>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.224121, 328.958923, 7948.990723>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.211426, 329.029449, 7948.969238>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.175781, 328.976715, 7948.958008>)
+23:30:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4735.296387, 329.111481, 7949.220703>)
+23:35:39 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6345.617188, 6.595480, 2300.383789>)
+23:35:55 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:35:58 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6343.239746, 9.718941, 2297.825928>)
+23:35:59 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:37:5 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:37:12 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:37:36 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:37:38 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1685.446777, 147.890366, 3791.514648>)
+23:37:39 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:39:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1691.284912, 145.652679, 3791.011475>)
+23:40:30 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:40:42 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1661.569336, 143.403519, 3729.841064>)
+23:40:43 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:42:40 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:42:44 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:42:59 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6638.667480, 7.652935, 2652.296143>)
+23:43:4 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:43:14 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6639.082520, 11.449508, 2650.836426>)
+23:43:15 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:43:55 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:43:55 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:43:55 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:44:47 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:44:50 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:44:54 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3605.756592, 9.930717, 2518.466309>)
+23:44:55 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:45:33 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:45:38 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1726.369629, 145.884262, 3797.714844>)
+23:45:39 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:48:58 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:49:0 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3126.490479, 303.352905, 7977.304199>)
+23:49:1 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:57:45 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6373.039063, 7.378644, 2347.125977>)
+23:59:33 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:59:50 | "Syntactix" (steamid=76561199240649723) Spawned Item: (CrSk_RAM_1500_TRX_Black)
+23:59:52 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<6655.654297, 15.730461, 2844.279297>)
+23:59:53 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:2:10 | "Syntactix" (steamid=76561199240649723) Spawned Item: (CrSk_Lamborghini_Huracan_Perf_Black)
+0:4:19 | Player "Syntactix" (steamId=76561199240649723) initiated disconnect process...
+0:4:20 | Player "Syntactix" (steamId=76561199240649723) disconnected early from server (EXIT NOW).

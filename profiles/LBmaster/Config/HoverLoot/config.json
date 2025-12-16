@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "lootTimerSeconds": 0.20000000298023225,
+    "backgroundColor": {
+        "a": 120,
+        "r": 255,
+        "g": 255,
+        "b": 255
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "version": 0,
+    "steamid": "76561199240649723",
+    "name": "Syntactix",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "bullet3",
+        "bullet4",
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2",
+        "money3",
+        "player1",
+        "quests1",
+        "respawn_all",
+        "run_car1",
+        "run_heli1",
+        "zombie1",
+        "zombie2"
+    ],
+    "trigger": {
+        "distance:fly": 12,
+        "quests:finished": 6,
+        "kill:player": 10,
+        "bank:balance:personal": 372954,
+        "kill:zombie": 130,
+        "kill:animal": 2,
+        "distance:drive": 19,
+        "bullet:shot": 907,
+        "inventory:open": 1,
+        "distance:walk": 5,
+        "spawnselect:spawn:Berenzino:once": 1,
+        "spawnselect:spawn:Chernogorsk:once": 1,
+        "spawnselect:spawn:Elektrozavodsk:once": 1,
+        "ag:group:created:once": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

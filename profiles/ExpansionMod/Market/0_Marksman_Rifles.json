@@ -1,0 +1,106 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Weapons - Marksman Rifles",
+  "Icon": "Gun",
+  "Color": "FF0000FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "a6_ar10",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 225000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_hkg28",
+      "MaxPriceThreshold": 240000,
+      "MinPriceThreshold": 240000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_hkg28_black"
+      ]
+    },
+    {
+      "ClassName": "a6_m110",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 225000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_m110_black"
+      ]
+    },
+    {
+      "ClassName": "a6_mk12",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_mk12_black"
+      ]
+    },
+    {
+      "ClassName": "a6_mk14",
+      "MaxPriceThreshold": 126500,
+      "MinPriceThreshold": 126500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_opsks_black",
+      "MaxPriceThreshold": 132000,
+      "MinPriceThreshold": 132000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_opsks"
+      ]
+    },
+    {
+      "ClassName": "a6_rsass",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 225000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_scar20s",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 225000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

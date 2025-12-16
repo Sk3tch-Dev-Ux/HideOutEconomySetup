@@ -1,0 +1,387 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-17_6-24-39
+====================================================================================
+6:24:39 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:24:39 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:24:39 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:24:39 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:24:39 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:24:39 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:24:39 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:24:39 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:24:39 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:24:39 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:24:39 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:24:39 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:24:39 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:24:39 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:24:39 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:24:39 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:24:39 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:24:39 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:24:39 | [PermissionManager] Adding Super Admin (76561199240649723)
+6:24:39 | [PermissionManager] Adding Super Admin (76561199011835169)
+6:24:39 | [PermissionManager] Loaded UserGroups.json
+6:24:39 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:24:39 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:24:39 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:24:39 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:24:39 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:24:39 | Building Sets Loaded: 0
+6:24:39 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+6:24:39 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:33:9 | Player "Syntactix" (steamId=76561199240649723) connected to server!
+21:33:42 | [WeatherManager] Send Data Count is 0
+21:35:14 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3140.729980, 309.038513, 7812.723145>)
+21:35:26 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3268.553223, 742.109741, 6789.791016>)
+21:35:29 | "Syntactix" (steamid=76561199240649723) toggled godmode
+21:35:30 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3766.916016, 384.514252, 5850.349121>)
+21:35:34 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3733.152832, 403.721039, 5920.492188>)
+21:35:37 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3719.944092, 418.775940, 5980.991699>)
+21:35:39 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3709.287598, 402.001984, 5970.222168>)
+21:37:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4725.426270, 640.169678, 5433.690918>)
+21:37:8 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4900.522949, 319.610992, 5637.875488>)
+21:38:16 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4927.146484, 319.608490, 5691.657715>)
+21:38:18 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4922.466797, 319.053223, 5707.363281>)
+21:38:36 | "Syntactix" (steamid=76561199240649723) Spawned Item: (DLS_KeyCard_Black)
+21:52:39 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<5001.695313, 308.760284, 5702.681641>)
+22:2:38 | Player "Syntactix" (steamId=76561199240649723) initiated disconnect process...
+22:2:38 | Player "Syntactix" (steamId=76561199240649723) disconnected early from server (EXIT NOW).
+23:31:30 | Player "Syntactix" (steamId=76561199240649723) connected to server!
+23:31:59 | Player "Hellcatz" (steamId=76561199011835169) connected to server!
+23:34:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1446.566284, 300.010376, 9269.322266>)
+23:34:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1436.042725, 300.928070, 9281.804688>)
+23:34:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1429.999023, 301.694977, 9289.129883>)
+23:34:25 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1421.870605, 301.717224, 9296.322266>)
+23:34:26 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1412.811890, 302.639069, 9296.649414>)
+23:34:28 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1410.594116, 307.192871, 9283.538086>)
+23:34:29 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1412.207397, 307.390778, 9280.462891>)
+23:34:30 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1414.979858, 308.143799, 9264.708984>)
+23:34:32 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1405.441162, 308.721924, 9256.389648>)
+23:34:32 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1393.666382, 307.414154, 9252.828125>)
+23:34:33 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1382.267456, 305.753510, 9248.471680>)
+23:35:13 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (TerritoryFlagKit)
+23:35:50 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (BBP_Blueprint)
+23:36:4 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (TerritoryFlagKit)
+23:37:19 | Admin "Syntactix" (steamId=76561199240649723) built part frame at position: <1385.503540, 314.389709, 9255.997070>
+23:37:20 | Admin "Syntactix" (steamId=76561199240649723) built part t1_wall_planks at position: <1385.503540, 314.389709, 9255.997070>
+23:37:21 | Admin "Syntactix" (steamId=76561199240649723) built part t1_door at position: <1385.503540, 314.389709, 9255.997070>
+23:37:37 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:37:43 | "Syntactix" (steamid=76561199240649723) Spawned Item: (CodeLock)
+23:39:43 | "Syntactix" (steamid=76561199240649723) Spawned Item: (TerritoryFlag)
+23:39:45 | Admin "Syntactix" (steamId=76561199240649723) built part base at position: <1380.169434, 334.259430, 9258.548828>
+23:39:46 | Admin "Syntactix" (steamId=76561199240649723) built part support at position: <1380.169434, 334.259430, 9258.548828>
+23:39:47 | Admin "Syntactix" (steamId=76561199240649723) built part pole at position: <1380.169434, 334.259430, 9258.548828>
+23:39:58 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Flag_DayZ)
+23:40:5 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1383.860229, 334.103821, 9263.974609>
+23:40:14 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1378.514893, 334.103821, 9261.249023>
+23:40:17 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1377.250732, 334.103821, 9257.354492>
+23:40:20 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1378.954224, 334.103821, 9254.013672>
+23:40:21 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1379.635620, 334.103821, 9252.677734>
+23:40:25 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1382.508057, 334.103821, 9253.418945>
+23:40:29 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1387.853149, 334.103821, 9256.144531>
+23:40:32 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1389.457764, 334.103821, 9259.370117>
+23:40:34 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1390.139160, 334.103821, 9258.034180>
+23:40:37 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1387.754272, 334.103821, 9262.710938>
+23:40:49 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1387.754272, 334.103821, 9262.710938>
+23:40:52 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1383.860229, 334.103821, 9263.974609>
+23:40:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Ammo_308Win)
+23:40:54 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1378.514893, 334.103821, 9261.249023>
+23:40:56 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1377.250732, 334.103821, 9257.354492>
+23:41:0 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1378.954224, 334.103821, 9254.013672>
+23:41:2 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1379.635620, 334.103821, 9252.677734>
+23:41:4 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1382.508057, 334.103821, 9253.418945>
+23:41:8 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1387.853149, 334.103821, 9256.144531>
+23:41:10 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1389.457764, 334.103821, 9259.370117>
+23:41:12 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1390.139160, 334.103821, 9258.034180>
+23:42:13 | "Syntactix" (steamid=76561199240649723) Spawned Item: (WoodenPlank)
+23:42:15 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1386.540283, 337.103821, 9258.718750>
+23:42:18 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1386.540283, 337.103821, 9258.718750>
+23:42:27 | "Hellcatz" (steamid=76561199011835169) deleted object "BBP_Broof" (pos=<1386.540283, 337.103821, 9258.718750>)
+23:42:30 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1385.179688, 337.103821, 9261.398438>
+23:42:33 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1385.179688, 337.103821, 9261.398438>
+23:42:34 | Admin "Syntactix" (steamId=76561199240649723) built part frame at position: <1381.528809, 337.103821, 9255.326172>
+23:42:36 | Admin "Hellcatz" (steamId=76561199011835169) built part stair at position: <1385.179688, 337.103821, 9261.398438>
+23:42:38 | Admin "Syntactix" (steamId=76561199240649723) built part t1_wall_logs_horizontal at position: <1379.834473, 337.103607, 9258.672852>
+23:42:40 | Admin "Syntactix" (steamId=76561199240649723) built part t1_wall_logs_horizontal at position: <1381.528809, 337.103821, 9255.326172>
+23:42:44 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:42:51 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:43:6 | "Syntactix" (steamid=76561199240649723) toggled freecam
+23:43:9 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:44:1 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:44:1 | "Syntactix" (steamid=76561199240649723) toggled godmode
+23:44:3 | "Hellcatz" (steamid=76561199011835169) gave godmode to (steamid=76561199011835169)
+23:44:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1397.973145, 325.342773, 9287.238281>)
+23:44:29 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (M4A1)
+23:44:29 | "Hellcatz" (steamid=76561199011835169) Spawned Item: (M4A1)
+23:44:44 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1387.754883, 331.642365, 9264.823242>)
+23:44:57 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1387.880859, 336.699799, 9262.959961>)
+23:45:32 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1383.860229, 334.103821, 9263.974609>
+23:45:34 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1378.514893, 334.103821, 9261.249023>
+23:45:36 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1377.250732, 334.103821, 9257.354492>
+23:45:38 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1378.954224, 334.103821, 9254.013672>
+23:45:43 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1379.635620, 334.103821, 9252.677734>
+23:45:46 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1382.508057, 334.103821, 9253.418945>
+23:45:50 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1387.853149, 334.103821, 9256.144531>
+23:45:54 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1390.139160, 334.103821, 9258.034180>
+23:45:55 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1389.457764, 334.103821, 9259.370117>
+23:45:57 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1387.754272, 334.103821, 9262.710938>
+23:46:24 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:46:27 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1381.110840, 337.355591, 9256.947266>)
+23:46:28 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:49:3 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1384.084595, 333.994598, 9256.187500>
+23:49:5 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_door at position: <1384.084595, 333.994598, 9256.187500>
+23:49:8 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1384.084595, 333.994598, 9256.187500>
+23:49:24 | Admin "Hellcatz" (steamId=76561199011835169) built part stair at position: <1384.084595, 333.994598, 9256.187500>
+23:49:34 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:49:37 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+23:50:44 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1383.942871, 329.737915, 9257.565430>
+23:50:46 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1383.942871, 329.737915, 9257.565430>
+23:52:0 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1386.498291, 328.256104, 9258.915039>
+23:52:3 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1386.498291, 328.256104, 9258.915039>
+23:53:8 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1383.738525, 326.042877, 9257.200195>
+23:53:10 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1383.738525, 326.042877, 9257.200195>
+23:53:12 | Admin "Hellcatz" (steamId=76561199011835169) built part window_bars at position: <1383.738525, 326.042877, 9257.200195>
+23:54:9 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1385.933472, 318.568207, 9259.935547>
+23:54:12 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1385.933472, 318.568207, 9259.935547>
+23:55:12 | "Hellcatz" (steamid=76561199011835169) deleted objects using ESP
+23:56:0 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1385.791138, 314.389709, 9255.557617>
+23:56:4 | Admin "Hellcatz" (steamId=76561199011835169) built part t3_wall_concrete_bricks at position: <1385.791138, 314.389709, 9255.557617>
+23:59:18 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1384.557617, 314.389709, 9257.736328>
+23:59:20 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1384.557617, 314.389709, 9257.736328>
+23:59:22 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1385.894775, 314.389709, 9258.416016>
+23:59:24 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1385.894775, 314.389709, 9258.416016>
+23:59:26 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1387.231934, 314.389709, 9259.095703>
+23:59:28 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1387.231934, 314.389709, 9259.095703>
+0:0:26 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1384.343018, 314.389709, 9256.494141>
+0:0:29 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1384.343018, 314.389709, 9256.494141>
+0:3:15 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:3:52 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1420.883301, 301.717224, 9296.365234>)
+0:3:52 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+0:3:53 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:4:46 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1428.739990, 301.329224, 9289.433594>
+0:4:51 | "Hellcatz" (steamid=76561199011835169) deleted object "BBP_Bwall" (pos=<1428.739990, 304.329224, 9289.433594>)
+0:5:23 | "Hellcatz" (steamid=76561199011835169) deleted object "BBP_Half_Bwall" (pos=<1428.739990, 307.329224, 9289.433594>)
+0:6:55 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1423.671021, 304.328583, 9304.665039>
+0:6:58 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1419.098389, 304.328796, 9300.780273>
+0:7:0 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1419.098389, 304.328796, 9300.780273>
+0:7:2 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1422.983521, 304.329010, 9296.208008>
+0:7:4 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1422.983521, 304.329010, 9296.208008>
+0:7:6 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1426.868652, 304.329224, 9291.635742>
+0:7:7 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1426.868652, 304.329224, 9291.635742>
+0:7:10 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1428.739990, 304.329224, 9289.433594>
+0:7:12 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1428.739990, 304.329224, 9289.433594>
+0:7:35 | Admin "Hellcatz" (steamId=76561199011835169) built part t3_wall_concrete_bricks at position: <1428.739990, 301.329224, 9289.433594>
+0:8:50 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1421.829590, 301.334320, 9297.734375>
+0:8:52 | Admin "Hellcatz" (steamId=76561199011835169) built part t3_wall_concrete_bricks at position: <1421.829590, 301.334320, 9297.734375>
+0:9:13 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+0:9:45 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:10:21 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1367.348999, 302.068176, 9268.908203>)
+0:10:21 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:11:7 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1370.992065, 302.596985, 9271.238281>)
+0:11:22 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1368.690186, 301.844269, 9275.246094>)
+0:11:33 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1367.499146, 302.213135, 9274.581055>
+0:11:35 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1367.499146, 302.213135, 9274.581055>
+0:11:40 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1371.233398, 302.516815, 9271.230469>)
+0:11:41 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1369.654541, 302.946411, 9270.412109>
+0:11:44 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1369.654541, 302.946411, 9270.412109>
+0:11:45 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:11:47 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1368.131226, 303.126007, 9263.483398>)
+0:11:47 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:12:39 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1372.010742, 302.186859, 9265.990234>
+0:12:41 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1372.010742, 302.186859, 9265.990234>
+0:12:43 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:13:10 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1396.318237, 303.144684, 9304.824219>)
+0:13:11 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:13:53 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+0:14:40 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:14:45 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1396.839722, 303.177948, 9303.240234>)
+0:14:45 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:15:2 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+0:16:0 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:16:12 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:16:15 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1374.197021, 308.376862, 9263.086914>)
+0:17:21 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:17:22 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1384.075806, 336.897278, 9253.282227>)
+0:17:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1383.906982, 336.833984, 9253.878906>)
+0:17:46 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1394.006104, 325.356384, 9287.417969>)
+0:18:7 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1425.167358, 311.289551, 9293.525391>)
+0:19:11 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1394.522461, 303.066620, 9302.602539>)
+0:19:11 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:19:59 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1393.463623, 302.881165, 9295.922852>
+0:20:1 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1393.463623, 302.881165, 9295.922852>
+0:20:3 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1393.718872, 303.060944, 9301.916992>
+0:20:4 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1393.718872, 303.060944, 9301.916992>
+0:20:6 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1393.974121, 303.240723, 9307.911133>
+0:20:6 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1393.974121, 303.240723, 9307.911133>
+0:20:9 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1394.229370, 303.420502, 9313.905273>
+0:20:10 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1394.229370, 303.420502, 9313.905273>
+0:20:38 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1396.432983, 303.311279, 9303.840820>)
+0:20:49 | "Hellcatz" (steamid=76561199011835169) deleted objects using ESP
+0:21:7 | Admin "Syntactix" (steamId=76561199240649723) built part frame at position: <1393.718872, 302.880951, 9301.916992>
+0:21:8 | Admin "Syntactix" (steamId=76561199240649723) built part t3_wall_concrete_bricks at position: <1393.718872, 302.880951, 9301.916992>
+0:21:13 | Admin "Syntactix" (steamId=76561199240649723) built part frame at position: <1393.974121, 302.880737, 9307.911133>
+0:21:14 | Admin "Syntactix" (steamId=76561199240649723) built part t1_wall_logs_horizontal at position: <1393.974121, 302.880737, 9307.911133>
+0:21:16 | Admin "Syntactix" (steamId=76561199240649723) built part frame at position: <1394.229370, 302.880524, 9313.905273>
+0:21:17 | Admin "Syntactix" (steamId=76561199240649723) built part t1_wall_logs_horizontal at position: <1394.229370, 302.880524, 9313.905273>
+0:21:46 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1391.247192, 303.098938, 9311.780273>
+0:21:48 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1391.247192, 303.098938, 9311.780273>
+0:21:49 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1391.086792, 303.098938, 9308.034180>
+0:21:52 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1391.086792, 303.098938, 9308.034180>
+0:21:54 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1390.831543, 303.099152, 9302.040039>
+0:21:56 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1390.831543, 303.099152, 9302.040039>
+0:21:59 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1390.576294, 303.099365, 9296.045898>
+0:22:0 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1390.576294, 303.099365, 9296.045898>
+0:22:7 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1393.293701, 305.283539, 9312.162109>)
+0:22:8 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1386.086670, 305.349213, 9322.154297>)
+0:22:12 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:22:26 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1382.620117, 305.085114, 9244.695313>)
+0:22:28 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:23:38 | "Hellcatz" (steamid=76561199011835169) deleted objects using ESP
+0:23:44 | "Hellcatz" (steamid=76561199011835169) deleted objects using ESP
+0:25:45 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:25:47 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:26:9 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1383.655029, 305.653870, 9243.915039>
+0:26:10 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1383.655029, 305.653870, 9243.915039>
+0:26:13 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1381.116455, 305.654083, 9249.351563>
+0:26:14 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_logs_horizontal at position: <1381.116455, 305.654083, 9249.351563>
+0:26:16 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1378.497803, 305.872284, 9248.128906>
+0:26:19 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1378.497803, 305.872284, 9248.128906>
+0:26:21 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1381.036377, 305.872070, 9242.692383>
+0:26:23 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1381.036377, 305.872070, 9242.692383>
+0:26:26 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1379.894043, 305.872284, 9251.969727>
+0:26:27 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1379.894043, 305.872284, 9251.969727>
+0:27:9 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1379.894043, 308.872284, 9251.969727>
+0:27:11 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1379.894043, 308.872284, 9251.969727>
+0:27:13 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1378.497803, 308.872284, 9248.128906>
+0:27:14 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1378.497803, 308.872284, 9248.128906>
+0:27:22 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1381.036377, 308.872070, 9242.692383>
+0:27:24 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1381.036377, 308.872070, 9242.692383>
+0:27:28 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1382.623169, 305.872070, 9239.294922>
+0:27:30 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1382.623169, 304.372070, 9239.294922>
+0:27:33 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1382.623169, 304.372070, 9239.294922>
+0:27:39 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1382.623169, 305.872070, 9239.294922>
+0:27:42 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1383.817749, 306.019073, 9239.125977>)
+0:27:45 | Admin "Hellcatz" (steamId=76561199011835169) built part frame at position: <1382.623169, 308.872070, 9239.294922>
+0:27:47 | Admin "Hellcatz" (steamId=76561199011835169) built part t1_wall_planks at position: <1382.623169, 308.872070, 9239.294922>
+0:28:4 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:29:4 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:29:7 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:29:10 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:29:43 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1410.666992, 320.821411, 9268.623047>)
+0:29:45 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1412.765625, 323.660187, 9268.809570>)
+0:29:53 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1402.420654, 306.052551, 9273.657227>)
+0:30:4 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:30:11 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:30:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1418.075684, 304.577728, 9303.696289>)
+0:30:25 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:30:35 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1394.089966, 303.132874, 9305.106445>)
+0:30:43 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1417.942627, 304.580933, 9298.366211>)
+0:30:44 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:30:47 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:30:54 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1387.837158, 337.196625, 9262.784180>)
+0:31:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1396.997192, 325.342529, 9283.490234>)
+0:31:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1398.786377, 326.311798, 9282.731445>)
+0:31:17 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1412.379883, 322.037292, 9268.848633>)
+0:32:55 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1377.995117, 306.464050, 9234.933594>)
+0:33:1 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1414.131470, 310.056519, 9246.822266>)
+0:33:32 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1392.023804, 304.946594, 9315.769531>)
+0:33:33 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:38:5 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:38:13 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<1393.346313, 320.840393, 9259.540039>)
+0:38:14 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:38:50 | "Hellcatz" (steamid=76561199011835169) deleted objects using ESP
+0:38:53 | "Hellcatz" (steamid=76561199011835169) deleted objects using ESP
+0:39:1 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+0:39:16 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:41:8 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+0:41:39 | "Syntactix" (steamid=76561199240649723) Spawned Item: (HeliMI17_SIB_clear)
+0:41:43 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1421.480591, 308.494690, 9263.697266>)
+0:41:48 | "Syntactix" (steamid=76561199240649723) deleted object "HeliMI17_SIB_clear" (pos=<1430.156616, 308.768036, 9248.457031>)
+0:41:52 | "Syntactix" (steamid=76561199240649723) Spawned Item: (HeliMI17_SIB_clear)
+0:42:12 | "Syntactix" (steamid=76561199240649723) deleted object "HeliMI17_SIB_clear" (pos=<1420.612671, 309.107544, 9264.006836>)
+0:42:19 | "Syntactix" (steamid=76561199240649723) Spawned Item: (HeliScout_mk_SIB)
+0:44:21 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Heliec135_SIB)
+0:44:40 | "Syntactix" (steamid=76561199240649723) Spawned Item: (HeliSIB_UH1D)
+0:47:37 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:47:42 | "Syntactix" (steamid=76561199240649723) deleted object "HeliSIB_UH1D" (pos=<3800.749023, 388.459839, 5876.287109>)
+0:47:43 | "Syntactix" (steamid=76561199240649723) toggled freecam
+0:49:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3697.239990, 402.000061, 5979.072754>)
+0:49:23 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<3700.609619, 402.000000, 5974.862793>)
+0:49:38 | Player "Syntactix" (steamId=76561199240649723) initiated disconnect process...
+0:49:39 | Player "Syntactix" (steamId=76561199240649723) disconnected early from server (EXIT NOW).
+0:49:39 | "Hellcatz" (steamid=76561199011835169) deleted object "SurvivorM_Mirek" (pos=<3701.268311, 402.024902, 5973.537598>)
+0:49:47 | Player "Hellcatz" (steamId=76561199011835169) initiated disconnect process...
+0:49:49 | Player "Hellcatz" (steamId=76561199011835169) disconnected early from server (EXIT NOW).

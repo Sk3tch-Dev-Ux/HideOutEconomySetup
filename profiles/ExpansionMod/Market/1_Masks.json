@@ -1,0 +1,162 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Clothing - Masks",
+  "Icon": "Backpack",
+  "Color": "00FFFFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "balaclava3holes_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "balaclava3holes_beige",
+        "balaclava3holes_blue",
+        "balaclava3holes_green",
+        "balaclava3holes_white"
+      ]
+    },
+    {
+      "ClassName": "balaclavamask_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "balaclavamask_bdu",
+        "balaclavamask_beige",
+        "balaclavamask_blackskull",
+        "balaclavamask_blue",
+        "balaclavamask_chain",
+        "balaclavamask_green",
+        "balaclavamask_pig",
+        "balaclavamask_pink",
+        "balaclavamask_white"
+      ]
+    },
+    {
+      "ClassName": "fog_arcteryx_balaclava_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_arcteryx_balaclava_cb",
+        "fog_arcteryx_balaclava_grey",
+        "fog_arcteryx_balaclava_rg",
+        "fog_arcteryx_balaclava_white"
+      ]
+    },
+    {
+      "ClassName": "fog_beard_handlebar_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_beard_handlebar_brown",
+        "fog_beard_handlebar_grey",
+        "fog_beard_handlebar_lightbrown"
+      ]
+    },
+    {
+      "ClassName": "fog_dripclava_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_dripclava_cb",
+        "fog_dripclava_grey",
+        "fog_dripclava_lblue",
+        "fog_dripclava_lime",
+        "fog_dripclava_lv",
+        "fog_dripclava_lvsupreme",
+        "fog_dripclava_mc",
+        "fog_dripclava_purple",
+        "fog_dripclava_red",
+        "fog_dripclava_rg",
+        "fog_dripclava_tan",
+        "fog_dripclava_tan449",
+        "fog_dripclava_white"
+      ]
+    },
+    {
+      "ClassName": "fog_ghost_mask_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghost_mask_black_gold",
+        "fog_ghost_mask_black_white",
+        "fog_ghost_mask_new",
+        "fog_ghost_mask_red",
+        "fog_ghost_mask_red_gold",
+        "fog_ghost_mask_rg",
+        "fog_ghost_mask_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_halfmask_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_halfmask_cb",
+        "fog_halfmask_grey",
+        "fog_halfmask_rg",
+        "fog_halfmask_white"
+      ]
+    },
+    {
+      "ClassName": "fog_knight_mask_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_knight_mask"
+      ]
+    },
+    {
+      "ClassName": "fog_mustache_brown",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="BentleyMullinerBacalar">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_Black">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_Blue">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_Chrome">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_Black">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_Blue">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_Chrome">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_DarkRed">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_Green">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_OrangeFlame">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_CoDriver_White">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_DarkRed">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_Driver">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_Black">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_Blue">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_Chrome">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_DarkRed">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_Green">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_OrangeFlame">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Driver_White">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+  </type>
+  <type name="BentleyMullinerBacalar_Green">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_OrangeFlame">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_1">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_2">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_3">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_4">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_5">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_6">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_Wheel_7">
+    <nominal>0</nominal>
+    <lifetime>2700</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="BentleyMullinerBacalar_White">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>900</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

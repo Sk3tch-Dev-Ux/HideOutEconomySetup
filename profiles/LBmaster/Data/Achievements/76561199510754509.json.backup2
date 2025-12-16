@@ -1,0 +1,16 @@
+{
+    "version": 0,
+    "steamid": "76561199510754509",
+    "name": "Hi_Im_Kalash",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "distance:walk": 1,
+        "kill:zombie": 5,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

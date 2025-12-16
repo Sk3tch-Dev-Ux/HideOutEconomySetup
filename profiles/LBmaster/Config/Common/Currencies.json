@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "thousandsSeparator": ",",
+    "currencyPrefix": "$",
+    "currencySuffix": "",
+    "currencyValues": [
+        {
+            "itemclassname": "Hideout_Money",
+            "value": 1,
+            "depositableOnly": 0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "version": 0,
+    "steamid": "76561199005768944",
+    "name": "Demonic",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "inventory",
+        "money1",
+        "money2",
+        "money3",
+        "run_foot1",
+        "zombie1"
+    ],
+    "trigger": {
+        "kill:zombie": 74,
+        "quests:finished": 1,
+        "inventory:open": 1,
+        "distance:walk": 12,
+        "action:ActionEatCan:item:TunaCan_Opened:once": 1,
+        "bullet:shot": 116,
+        "bank:balance:personal": 172853
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

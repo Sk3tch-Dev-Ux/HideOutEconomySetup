@@ -1,0 +1,34 @@
+{
+    "version": 0,
+    "steamid": "76561198985914977",
+    "name": "dusty",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "bullet3",
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2",
+        "run_car1",
+        "run_car2",
+        "run_foot1",
+        "zombie1",
+        "zombie2"
+    ],
+    "trigger": {
+        "quests:finished": 1,
+        "bullet:shot": 352,
+        "action:ActionEatCan:item:TunaCan_Opened:once": 1,
+        "bank:balance:personal": 90000,
+        "kill:zombie": 214,
+        "distance:drive": 91,
+        "action:ActionEatCan:item:TacticalBaconCan_Opened:once": 1,
+        "inventory:open": 1,
+        "distance:walk": 30,
+        "ag:group:created:once": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

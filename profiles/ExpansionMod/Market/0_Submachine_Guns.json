@@ -1,0 +1,199 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Weapons - Submachine Guns",
+  "Icon": "Gun",
+  "Color": "FF0000FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "a6_9a91",
+      "MaxPriceThreshold": 112500,
+      "MinPriceThreshold": 112500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_aks74u",
+      "MaxPriceThreshold": 127500,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_aks74un",
+      "MaxPriceThreshold": 127500,
+      "MinPriceThreshold": 127500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_augpara_black",
+      "MaxPriceThreshold": 87000,
+      "MinPriceThreshold": 87000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_augpara_green"
+      ]
+    },
+    {
+      "ClassName": "a6_honeybadger",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_honeybadger_black"
+      ]
+    },
+    {
+      "ClassName": "a6_mp5",
+      "MaxPriceThreshold": 70500,
+      "MinPriceThreshold": 70500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_mp5_black",
+        "a6_mp5_desert",
+        "a6_mp5_olive"
+      ]
+    },
+    {
+      "ClassName": "a6_mp5k",
+      "MaxPriceThreshold": 70500,
+      "MinPriceThreshold": 70500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_mp5k_black"
+      ]
+    },
+    {
+      "ClassName": "a6_mp5sd",
+      "MaxPriceThreshold": 70500,
+      "MinPriceThreshold": 70500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_mp5sd_black"
+      ]
+    },
+    {
+      "ClassName": "a6_mp7a2",
+      "MaxPriceThreshold": 112000,
+      "MinPriceThreshold": 112000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_mp7a2_black"
+      ]
+    },
+    {
+      "ClassName": "a6_p90",
+      "MaxPriceThreshold": 146500,
+      "MinPriceThreshold": 146500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_p90_black"
+      ]
+    },
+    {
+      "ClassName": "a6_pp19",
+      "MaxPriceThreshold": 85500,
+      "MinPriceThreshold": 85500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_pp19_black"
+      ]
+    },
+    {
+      "ClassName": "a6_pp19bizon",
+      "MaxPriceThreshold": 120500,
+      "MinPriceThreshold": 120500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_scorpion_evo",
+      "MaxPriceThreshold": 85500,
+      "MinPriceThreshold": 85500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_scorpion_evo_black"
+      ]
+    },
+    {
+      "ClassName": "a6_ump45",
+      "MaxPriceThreshold": 91500,
+      "MinPriceThreshold": 91500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_ump45_black"
+      ]
+    },
+    {
+      "ClassName": "a6_vector_black",
+      "MaxPriceThreshold": 70000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_vector_fde"
+      ]
+    }
+  ]
+}

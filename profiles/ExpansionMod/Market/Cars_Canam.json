@@ -1,0 +1,125 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Canam Maverick",
+  "Icon": "Car",
+  "Color": "00FFFFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "mbm_canam",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "mbm_canam_doors_codriver",
+        "mbm_canam_doors_driver",
+        "mbm_canam_wheel",
+        "mbm_canam_wheel",
+        "mbm_canam_wheel",
+        "mbm_canam_wheel"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_canam_blue",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "mbm_canam_doors_codriver_blue",
+        "mbm_canam_doors_driver_blue",
+        "mbm_canam_wheel_blue",
+        "mbm_canam_wheel_blue",
+        "mbm_canam_wheel_blue",
+        "mbm_canam_wheel_blue"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_canam_green",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "mbm_canam_doors_codriver_green",
+        "mbm_canam_doors_driver_green",
+        "mbm_canam_wheel_green",
+        "mbm_canam_wheel_green",
+        "mbm_canam_wheel_green",
+        "mbm_canam_wheel_green"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_canam_grey",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "mbm_canam_doors_codriver_grey",
+        "mbm_canam_doors_driver_grey",
+        "mbm_canam_wheel_grey",
+        "mbm_canam_wheel_grey",
+        "mbm_canam_wheel_grey",
+        "mbm_canam_wheel_grey"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mbm_canam_pink",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "mbm_canam_doors_codriver_pink",
+        "mbm_canam_doors_driver_pink",
+        "mbm_canam_wheel_pink",
+        "mbm_canam_wheel_pink",
+        "mbm_canam_wheel_pink",
+        "mbm_canam_wheel_pink"
+      ],
+      "Variants": []
+    }
+  ]
+}

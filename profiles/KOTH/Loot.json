@@ -1,0 +1,77 @@
+{
+    "lootSets": [
+        {
+            "name": "T4 Set",
+            "items": [
+                {
+                    "name": "FOG_Vest_Thor_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Hideout_Maska_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "A6_PKM",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "A6_PKM_Buttstock",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "A6_Mag_PKM_100Rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Hideout_WeaponBag_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Hideout_WarBeltHeavy_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_BreachingChargeHeavy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "A6_SRSA2",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "A6_Mag_SRSA2_8Rnd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "A6_SchmidtBenderPMII_Optic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}

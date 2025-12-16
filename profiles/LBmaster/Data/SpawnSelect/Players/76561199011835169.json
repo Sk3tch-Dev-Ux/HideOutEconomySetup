@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Chernogorsk",
+        "lastSpawn": 1762989517,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Elektrozavodsk",
+        "lastSpawn": 1762989143,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Berenzino",
+        "lastSpawn": 1762989099,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Balota",
+        "lastSpawn": 0,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Kamenka",
+        "lastSpawn": 0,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Solnechny",
+        "lastSpawn": 0,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Svetloyarsk",
+        "lastSpawn": 1763014251,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Lottery",
+        "lastSpawn": 1763016989,
+        "bagID": 0,
+        "type": 0
+    }
+]

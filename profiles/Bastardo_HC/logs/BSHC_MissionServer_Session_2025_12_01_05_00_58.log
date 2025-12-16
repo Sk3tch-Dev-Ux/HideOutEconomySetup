@@ -1,0 +1,453 @@
+2025-12-01 05:00:58 [INFO] OnInit - Initializing Bastardos Hacked Crates System...
+2025-12-01 05:00:58 [INFO] OnInit - Loading Hacked Crate Loot Configuration (loot_pools.json)...
+2025-12-01 05:00:58 [INFO] [BSHCLootPoolConfig] Found loot_pools.json at: $profile:\Bastardo_HC\loot_pools.json
+2025-12-01 05:00:58 [INFO] [BSHCLootPoolConfig] JsonLoadFile executed. Loaded 2 categories defined in the root.
+2025-12-01 05:00:58 [INFO] [BSHCLootPoolConfig] Category 'DefaultArmaments' has 1 loot pools.
+2025-12-01 05:00:58 [INFO] [BSHCLootPoolConfig] Category 'DefaultMedical' has 1 loot pools.
+2025-12-01 05:00:58 [INFO] OnInit - Hacked Crate Loot Configuration processed successfully.
+2025-12-01 05:00:58 [INFO] OnInit - Loading Hacked Crate settings (global, static, dynamic)...
+2025-12-01 05:00:58 [INFO] CrateManagement instance created with default grace period and tick interval.
+2025-12-01 05:00:58 [INFO] [BSHCGlobalServerSettings] Loading from: $profile:\Bastardo_HC\BS_Global_settings.json
+2025-12-01 05:00:58 [INFO] [CrateConfigManager] Re-saved static_crates.json to include any new options.
+2025-12-01 05:00:58 [INFO] [CrateConfigManager] Re-saved dynamic_crates.json to include any new options.
+2025-12-01 05:00:58 [INFO] [CrateConfigManager] Static CrateManagement has been set.
+2025-12-01 05:00:58 [INFO] CrateSpawner instance created.
+2025-12-01 05:00:58 [INFO] OnInit - Crate Spawner created. Grace Period: 5 minutes. Periodic Tick: 3600 seconds.
+2025-12-01 05:00:58 [INFO] OnInit - Bastardos Hacked Crates System Initialization sequence finished.
+2025-12-01 05:01:05 [INFO] OnMissionStart - Server mission started. Scheduling Hacked Crate cleanup and initial spawn setup.
+2025-12-01 05:01:05 [INFO] OnMissionStart - Immediate STATIC Crate spawn scheduled in 15 seconds.
+2025-12-01 05:01:05 [INFO] OnMissionStart - Initial DYNAMIC Crate spawn scheduled in approx. 320 seconds.
+2025-12-01 05:01:05 [INFO] OnMissionStart - Scheduling first PERIODIC Crate Spawn Tick in approx. 3600 seconds.
+2025-12-01 05:02:04 [INFO] DeleteHackedCratesFromKnownLocations - Starting cleanup of Hacked Crates from KNOWN SPAWN LOCATIONS as defined in configurations...
+2025-12-01 05:02:04 [INFO] DeleteHackedCratesFromKnownLocations - Cleanup from known locations finished. Total inactive Hacked Crates (matching type and location) deleted: 0
+2025-12-01 05:02:09 [INFO] PerformImmediateStaticSpawn - Calling CrateSpawner to setup STATIC Hacked Crates...
+2025-12-01 05:02:09 [INFO] CrateSpawner: ------------- Starting IMMEDIATE STATIC Spawn Pass -------------
+2025-12-01 05:02:09 [INFO] CrateSpawner: Processing IMMEDIATE STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-12-01 05:02:09 [INFO] SpawnStaticCrates: Processing 1 static locations for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-12-01 05:02:09 [INFO] SpawnStaticCrates: Location <2471.820068, 193.177002, 5114.220215> is free. Attempting to spawn crate.
+2025-12-01 05:02:09 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-01 05:02:09 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-12-01 05:02:09 [INFO] [SpawnAIAroundCrate] Spawning 2 AI(s) next to the crate.
+2025-12-01 05:02:09 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <2473.455322, 193.253540, 5103.321289>
+2025-12-01 05:02:09 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <2482.403809, 193.149872, 5132.206055>
+2025-12-01 05:02:09 [INFO] CrateSpawner: ------------- Finished IMMEDIATE STATIC Spawn Pass -------------
+2025-12-01 05:02:09 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3009343>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-12-01 05:02:09 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3009343>.
+2025-12-01 05:02:09 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<3009343>.
+2025-12-01 05:02:09 [INFO] EXP_DEBUG: Inside CreateExpansionMapMarker for BS_Hacked_Crate.UseExpansionMapMarker is true.
+2025-12-01 05:02:09 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION is NOT defined. No Expansion marker will be created.
+2025-12-01 05:02:09 [INFO] DeferredEEInitLogic: AG DEBUG for BS_Hacked_Crate<3009343>
+2025-12-01 05:02:09 [INFO] BSHC_AG_DEBUG: BSHC_CreateAdvancedGroupsMapMarker call.
+2025-12-01 05:02:09 [INFO] BSHC_AG_DEBUG: Final Marker Name: '#STR_BSHC_HackedCrate_DisplayName'
+2025-12-01 05:02:09 [INFO] BSHC_AG_DEBUG: Trying to create AG marker with name: #STR_BSHC_HackedCrate_DisplayName, Pos: <2471.820068, 193.177002, 5114.220215>, Icon: BS_HackedCrate/gui/iconcrate.paa, Color: -65536, ShowOnMap: true, ShowInWorld: true
+2025-12-01 05:02:09 [INFO] BSHC_AG_DEBUG: LBStaticMarkerManager.Get is accessible.
+2025-12-01 05:02:09 [INFO] BSHC_AG_DEBUG: Created AG marker (UID: 1250137433) for BS_Hacked_Crate
+2025-12-01 05:02:09 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3009343> is: false
+2025-12-01 05:02:09 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-01 05:02:09 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3009343>
+2025-12-01 05:07:14 [INFO] PerformInitialDynamicSpawn - Grace period ended. Calling CrateSpawner to setup initial DYNAMIC Hacked Crates...
+2025-12-01 05:07:14 [INFO] CrateSpawner: ------------- Starting INITIAL DYNAMIC Spawn Pass (Post-Grace) -------------
+2025-12-01 05:07:14 [INFO] CrateSpawner: Current server population for dynamic spawn: 0 players.
+2025-12-01 05:07:14 [INFO] CrateSpawner: Processing DYNAMIC for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-01 05:07:14 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 05:07:14 [INFO] CrateSpawner: ------------- Finished INITIAL DYNAMIC Spawn Pass -------------
+2025-12-01 06:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 06:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 06:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 06:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 06:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 06:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 06:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 07:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 07:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 07:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 07:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 07:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 07:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 07:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 08:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 08:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 08:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 08:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 09:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 09:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 09:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 09:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 09:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 09:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 09:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 09:38:05 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:38:05 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1250137433
+2025-12-01 09:38:05 [INFO] BSHC_AG_DEBUG: AG marker UID 1250137433 successfully removed.
+2025-12-01 09:38:05 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: START, Key: #STR_BSHC_Notification_Start_Located
+2025-12-01 09:39:32 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:39:32 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 564085713
+2025-12-01 09:39:32 [INFO] BSHC_AG_DEBUG: AG marker UID 564085713 successfully removed.
+2025-12-01 09:41:02 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:41:02 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 470431920
+2025-12-01 09:41:02 [INFO] BSHC_AG_DEBUG: AG marker UID 470431920 successfully removed.
+2025-12-01 09:42:32 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:42:32 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 390016801
+2025-12-01 09:42:32 [INFO] BSHC_AG_DEBUG: AG marker UID 390016801 successfully removed.
+2025-12-01 09:44:02 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:44:02 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 884697579
+2025-12-01 09:44:02 [INFO] BSHC_AG_DEBUG: AG marker UID 884697579 successfully removed.
+2025-12-01 09:45:32 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:45:32 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1649132740
+2025-12-01 09:45:32 [INFO] BSHC_AG_DEBUG: AG marker UID 1649132740 successfully removed.
+2025-12-01 09:47:02 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:47:02 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1027242716
+2025-12-01 09:47:02 [INFO] BSHC_AG_DEBUG: AG marker UID 1027242716 successfully removed.
+2025-12-01 09:48:32 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:48:32 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 409284971
+2025-12-01 09:48:32 [INFO] BSHC_AG_DEBUG: AG marker UID 409284971 successfully removed.
+2025-12-01 09:50:02 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:50:02 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1664861858
+2025-12-01 09:50:02 [INFO] BSHC_AG_DEBUG: AG marker UID 1664861858 successfully removed.
+2025-12-01 09:51:32 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:51:32 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 829449050
+2025-12-01 09:51:32 [INFO] BSHC_AG_DEBUG: AG marker UID 829449050 successfully removed.
+2025-12-01 09:53:02 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:53:02 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1744883749
+2025-12-01 09:53:02 [INFO] BSHC_AG_DEBUG: AG marker UID 1744883749 successfully removed.
+2025-12-01 09:53:06 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 09:53:06 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1085505992
+2025-12-01 09:53:06 [INFO] BSHC_AG_DEBUG: AG marker UID 1085505992 successfully removed.
+2025-12-01 09:53:06 [INFO] Crate BS_Hacked_Crate requires access action (RequireAccessAction: true). Loot access pending.
+2025-12-01 09:53:06 [INFO] Unlocking crate & attempting to spawn loot at <2471.820068, 193.177002, 5114.220215> for crate type: BS_Hacked_Crate
+2025-12-01 09:53:06 [INFO] Temporarily unlocking inventory for loot spawn for BS_Hacked_Crate
+2025-12-01 09:53:06 [INFO] Spawning loot from JSON pools for crate: BS_Hacked_Crate. Using defined LootCategoriesToUse: 1 categories.
+2025-12-01 09:53:06 [INFO] Processing category from CrateSettings: 'DefaultMedical' for crate BS_Hacked_Crate
+2025-12-01 09:53:06 [INFO]   - Selected Pool: 'Basic_Medical_Supplies' (Weight/Probability: 0.8) for crate BS_Hacked_Crate
+2025-12-01 09:53:06 [INFO]     - Pool Min/Max items for 'Basic_Medical_Supplies': 2/2 (Clamped for pool size 2)
+2025-12-01 09:53:06 [INFO]     - Calculated Count To Spawn from this pool 'Basic_Medical_Supplies': 2
+2025-12-01 09:53:06 [INFO]     - Attempting to spawn 2 weighted random items from pool 'Basic_Medical_Supplies':
+2025-12-01 09:53:06 [INFO]       - Spawning Item 1/2: BandageDressing (Original Probability in Pool: 1.5) for crate BS_Hacked_Crate
+2025-12-01 09:53:06 [INFO]         -> Spawned base item OK: BandageDressing
+2025-12-01 09:53:06 [INFO]       - Spawning Item 2/2: PainkillerTablets (Original Probability in Pool: 0.5) for crate BS_Hacked_Crate
+2025-12-01 09:53:06 [INFO]         -> Spawned base item OK: PainkillerTablets
+2025-12-01 09:53:06 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: true LootAccessActionDone: false
+2025-12-01 09:53:06 [INFO] Inventory lock state re-evaluated for BS_Hacked_Crate. Should be LOCKED if RequireAccessAction is true and action not yet performed.
+2025-12-01 09:53:06 [INFO] Loot spawning process finished for crate at <2471.820068, 193.177002, 5114.220215>
+2025-12-01 09:53:06 [INFO] HandlePostLootTimersAndDespawn (BS_Hacked_Crate): Advanced Groups marker (UID: 1218220430) will be handled by EEDelete or specific despawn logic.
+2025-12-01 09:53:06 [INFO] HandlePostLootTimersAndDespawn (BS_Hacked_Crate): Scheduling auto-despawn in 1800s (30 minutes).
+2025-12-01 09:53:06 [INFO] StartAutoDespawnTimer: Auto-despawn timer started for BS_Hacked_Crate<94aef950>. Will delete in 1800s.
+2025-12-01 09:53:06 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: END, Key: #STR_BSHC_Notification_End_Located
+2025-12-01 09:53:06 [INFO] Hack finished: BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-12-01 09:53:14 [INFO] Inventory for BS_Hacked_Crate UNLOCKED. IsOpen: true LootAccessActionDone: true
+2025-12-01 09:53:14 [INFO] Player Demonic accessed loot in HackedCrate: <2471.820068, 193.177002, 5114.220215>
+2025-12-01 10:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 10:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 10:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 10:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 10:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 10:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 10:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 10:23:34 [INFO] DeleteCrateScheduled: Auto-despawn timer finished for BS_Hacked_Crate<94aef950>. Deleting crate now.
+2025-12-01 10:23:34 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: UnknownContext. Current UID: '' for BS_Hacked_Crate<3009343>
+2025-12-01 10:23:34 [INFO] EXP_REMOVE_DEBUG: EXPANSIONMODNAVIGATION NOT defined. Cannot remove marker. Context: UnknownContext for BS_Hacked_Crate<3009343>
+2025-12-01 10:23:34 [INFO] EEDelete called for BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-12-01 10:23:34 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '' for BS_Hacked_Crate<3009343>
+2025-12-01 10:23:34 [INFO] EXP_REMOVE_DEBUG: EXPANSIONMODNAVIGATION NOT defined. Cannot remove marker. Context: EEDelete for BS_Hacked_Crate<3009343>
+2025-12-01 10:23:34 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 10:23:34 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1218220430
+2025-12-01 10:23:34 [INFO] BSHC_AG_DEBUG: AG marker UID 1218220430 successfully removed.
+2025-12-01 10:23:34 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-12-01 10:23:34 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-12-01 11:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 11:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 11:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 11:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 11:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 11:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 11:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 12:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 12:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 12:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 12:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 12:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 12:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 12:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 13:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 13:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 13:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 13:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 13:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 13:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 13:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 14:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 14:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 14:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 14:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 14:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 14:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 14:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 15:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 15:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 15:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 15:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 15:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 15:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 15:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 16:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 16:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 16:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 16:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 16:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 16:01:54 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-01 16:01:54 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 0, Target Active: 1
+2025-12-01 16:01:54 [INFO] CrateSpawner: Attempting to spawn 1 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-01 16:01:54 [INFO] SpawnRandomCrates: Attempting to spawn 1 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-12-01 16:01:54 [INFO] SpawnRandomCrates: Shuffled list for 'DefaultDynamicEvent_Example1' is empty or non-existent. Regenerating and shuffling.
+2025-12-01 16:01:54 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at Airfield
+2025-12-01 16:01:54 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-12-01 16:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 16:11:54 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-12-01 16:11:54 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-01 16:11:54 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-12-01 16:11:54 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-12-01 16:11:54 [INFO] [SpawnAIAroundCrate] Spawning 3 AI(s) next to the crate.
+2025-12-01 16:11:54 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <4718.601074, 338.989990, 10355.179688>
+2025-12-01 16:11:54 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <4726.840332, 339.000000, 10363.991211>
+2025-12-01 16:11:54 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <4721.549805, 339.000000, 10366.720703>
+2025-12-01 16:11:54 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3022822>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-12-01 16:11:54 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3022822>.
+2025-12-01 16:11:54 [INFO] DeferredEEInitLogic: AG DEBUG for BS_Hacked_Crate<3022822>
+2025-12-01 16:11:54 [INFO] BSHC_AG_DEBUG: BSHC_CreateAdvancedGroupsMapMarker call.
+2025-12-01 16:11:54 [INFO] BSHC_AG_DEBUG: Final Marker Name: '#STR_BSHC_HackedCrate_DisplayName'
+2025-12-01 16:11:54 [INFO] BSHC_AG_DEBUG: Trying to create AG marker with name: #STR_BSHC_HackedCrate_DisplayName, Pos: <4732.430176, 338.968994, 10350.200195>, Icon: BS_HackedCrate/gui/iconcrate.paa, Color: -65536, ShowOnMap: true, ShowInWorld: true
+2025-12-01 16:11:54 [INFO] BSHC_AG_DEBUG: LBStaticMarkerManager.Get is accessible.
+2025-12-01 16:11:54 [INFO] BSHC_AG_DEBUG: Created AG marker (UID: 1401136971) for BS_Hacked_Crate
+2025-12-01 16:11:54 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3022822> is: false
+2025-12-01 16:11:54 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-01 16:11:54 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3022822>
+2025-12-01 17:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 17:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 17:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 17:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 17:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 17:01:54 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-01 17:01:54 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 1, Target Active: 1
+2025-12-01 17:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 17:05:30 [INFO] EEDelete called for BS_Hacked_Crate at <4732.430176, 338.968994, 10350.200195>
+2025-12-01 17:05:30 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '' for BS_Hacked_Crate<3022822>
+2025-12-01 17:05:30 [INFO] EXP_REMOVE_DEBUG: EXPANSIONMODNAVIGATION NOT defined. Cannot remove marker. Context: EEDelete for BS_Hacked_Crate<3022822>
+2025-12-01 17:05:30 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-01 17:05:30 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1401136971
+2025-12-01 17:05:30 [INFO] BSHC_AG_DEBUG: AG marker UID 1401136971 successfully removed.
+2025-12-01 17:05:30 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-12-01 17:05:30 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-12-01 18:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 18:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 18:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 18:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 18:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 18:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 18:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 19:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 19:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 19:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 19:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 19:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 19:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 19:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 20:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 20:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 20:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 20:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 20:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 20:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 20:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 21:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 21:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 21:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 21:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 21:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 21:01:54 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-01 21:01:54 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 0, Target Active: 1
+2025-12-01 21:01:54 [INFO] CrateSpawner: Attempting to spawn 1 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-01 21:01:54 [INFO] SpawnRandomCrates: Attempting to spawn 1 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-12-01 21:01:54 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at VMC
+2025-12-01 21:01:54 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-12-01 21:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 21:11:54 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-12-01 21:11:54 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-01 21:11:54 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-12-01 21:11:54 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-12-01 21:11:54 [INFO] [SpawnAIAroundCrate] Spawning 1 AI(s) next to the crate.
+2025-12-01 21:11:54 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <4575.725098, 317.997498, 8341.610352>
+2025-12-01 21:11:54 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3029714>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-12-01 21:11:54 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3029714>.
+2025-12-01 21:11:54 [INFO] DeferredEEInitLogic: AG DEBUG for BS_Hacked_Crate<3029714>
+2025-12-01 21:11:54 [INFO] BSHC_AG_DEBUG: BSHC_CreateAdvancedGroupsMapMarker call.
+2025-12-01 21:11:54 [INFO] BSHC_AG_DEBUG: Final Marker Name: '#STR_BSHC_HackedCrate_DisplayName'
+2025-12-01 21:11:54 [INFO] BSHC_AG_DEBUG: Trying to create AG marker with name: #STR_BSHC_HackedCrate_DisplayName, Pos: <4553.689941, 317.975006, 8352.099609>, Icon: BS_HackedCrate/gui/iconcrate.paa, Color: -65536, ShowOnMap: true, ShowInWorld: true
+2025-12-01 21:11:54 [INFO] BSHC_AG_DEBUG: LBStaticMarkerManager.Get is accessible.
+2025-12-01 21:11:54 [INFO] BSHC_AG_DEBUG: Created AG marker (UID: 1934943931) for BS_Hacked_Crate
+2025-12-01 21:11:54 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3029714> is: false
+2025-12-01 21:11:54 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-01 21:11:54 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3029714>
+2025-12-01 22:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 22:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 22:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 22:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 22:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 22:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 22:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-01 23:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 23:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-01 23:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-01 23:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-01 23:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-01 23:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-01 23:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-02 00:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 00:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-02 00:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 00:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-02 00:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-02 00:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-02 00:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-02 01:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 01:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-02 01:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 01:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-02 01:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-02 01:01:54 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-02 01:01:54 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 1, Target Active: 1
+2025-12-02 01:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-02 01:12:57 [INFO] EEDelete called for BS_Hacked_Crate at <4553.689941, 317.975006, 8352.099609>
+2025-12-02 01:12:57 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '' for BS_Hacked_Crate<3029714>
+2025-12-02 01:12:57 [INFO] EXP_REMOVE_DEBUG: EXPANSIONMODNAVIGATION NOT defined. Cannot remove marker. Context: EEDelete for BS_Hacked_Crate<3029714>
+2025-12-02 01:12:57 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 01:12:57 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1934943931
+2025-12-02 01:12:57 [INFO] BSHC_AG_DEBUG: AG marker UID 1934943931 successfully removed.
+2025-12-02 01:12:57 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-12-02 01:12:57 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-12-02 02:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 02:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-02 02:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 02:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-02 02:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-02 02:01:54 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-02 02:01:54 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 0, Target Active: 1
+2025-12-02 02:01:54 [INFO] CrateSpawner: Attempting to spawn 1 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-12-02 02:01:54 [INFO] SpawnRandomCrates: Attempting to spawn 1 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-12-02 02:01:54 [INFO] SpawnRandomCrates: Shuffled list for 'DefaultDynamicEvent_Example1' is empty or non-existent. Regenerating and shuffling.
+2025-12-02 02:01:54 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at Airfield
+2025-12-02 02:01:54 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-12-02 02:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-02 02:11:54 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-12-02 02:11:54 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-02 02:11:54 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-12-02 02:11:54 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-12-02 02:11:54 [INFO] [SpawnAIAroundCrate] Spawning 2 AI(s) next to the crate.
+2025-12-02 02:11:54 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <4726.627441, 339.000000, 10334.341797>
+2025-12-02 02:11:54 [INFO] [SpawnAIAroundCrate] Successfully spawned ZmbM_SoldierNormal at <4734.176758, 339.000000, 10339.713867>
+2025-12-02 02:11:54 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3039853>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-12-02 02:11:54 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3039853>.
+2025-12-02 02:11:54 [INFO] DeferredEEInitLogic: AG DEBUG for BS_Hacked_Crate<3039853>
+2025-12-02 02:11:54 [INFO] BSHC_AG_DEBUG: BSHC_CreateAdvancedGroupsMapMarker call.
+2025-12-02 02:11:54 [INFO] BSHC_AG_DEBUG: Final Marker Name: '#STR_BSHC_HackedCrate_DisplayName'
+2025-12-02 02:11:54 [INFO] BSHC_AG_DEBUG: Trying to create AG marker with name: #STR_BSHC_HackedCrate_DisplayName, Pos: <4732.430176, 338.968994, 10350.200195>, Icon: BS_HackedCrate/gui/iconcrate.paa, Color: -65536, ShowOnMap: true, ShowInWorld: true
+2025-12-02 02:11:54 [INFO] BSHC_AG_DEBUG: LBStaticMarkerManager.Get is accessible.
+2025-12-02 02:11:54 [INFO] BSHC_AG_DEBUG: Created AG marker (UID: 393162625) for BS_Hacked_Crate
+2025-12-02 02:11:54 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3039853> is: false
+2025-12-02 02:11:54 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-12-02 02:11:54 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3039853>
+2025-12-02 02:19:25 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:19:25 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 393162625
+2025-12-02 02:19:25 [INFO] BSHC_AG_DEBUG: AG marker UID 393162625 successfully removed.
+2025-12-02 02:19:25 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: START, Key: #STR_BSHC_Notification_Start_Located
+2025-12-02 02:20:52 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:20:52 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1205243907
+2025-12-02 02:20:52 [INFO] BSHC_AG_DEBUG: AG marker UID 1205243907 successfully removed.
+2025-12-02 02:22:22 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:22:22 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1242862716
+2025-12-02 02:22:22 [INFO] BSHC_AG_DEBUG: AG marker UID 1242862716 successfully removed.
+2025-12-02 02:23:52 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:23:52 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 941191330
+2025-12-02 02:23:52 [INFO] BSHC_AG_DEBUG: AG marker UID 941191330 successfully removed.
+2025-12-02 02:25:22 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:25:22 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1751896314
+2025-12-02 02:25:22 [INFO] BSHC_AG_DEBUG: AG marker UID 1751896314 successfully removed.
+2025-12-02 02:26:52 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:26:52 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 274407780
+2025-12-02 02:26:52 [INFO] BSHC_AG_DEBUG: AG marker UID 274407780 successfully removed.
+2025-12-02 02:28:22 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:28:22 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 73664905
+2025-12-02 02:28:22 [INFO] BSHC_AG_DEBUG: AG marker UID 73664905 successfully removed.
+2025-12-02 02:29:52 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:29:52 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1678755913
+2025-12-02 02:29:52 [INFO] BSHC_AG_DEBUG: AG marker UID 1678755913 successfully removed.
+2025-12-02 02:31:22 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:31:22 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1060863707
+2025-12-02 02:31:22 [INFO] BSHC_AG_DEBUG: AG marker UID 1060863707 successfully removed.
+2025-12-02 02:32:52 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:32:52 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1261606582
+2025-12-02 02:32:52 [INFO] BSHC_AG_DEBUG: AG marker UID 1261606582 successfully removed.
+2025-12-02 02:34:22 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:34:22 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1576909871
+2025-12-02 02:34:22 [INFO] BSHC_AG_DEBUG: AG marker UID 1576909871 successfully removed.
+2025-12-02 02:34:26 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 02:34:26 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 1853218053
+2025-12-02 02:34:26 [INFO] BSHC_AG_DEBUG: AG marker UID 1853218053 successfully removed.
+2025-12-02 02:34:26 [INFO] Crate BS_Hacked_Crate requires access action (RequireAccessAction: true). Loot access pending.
+2025-12-02 02:34:26 [INFO] Unlocking crate & attempting to spawn loot at <4732.430176, 338.968994, 10350.200195> for crate type: BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO] Temporarily unlocking inventory for loot spawn for BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO] Spawning loot from JSON pools for crate: BS_Hacked_Crate. Using defined LootCategoriesToUse: 2 categories.
+2025-12-02 02:34:26 [INFO] Processing category from CrateSettings: 'DefaultArmaments' for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]   - Selected Pool: 'M4A1_Example_Pool' (Weight/Probability: 1) for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]     - Pool Min/Max items for 'M4A1_Example_Pool': 1/1 (Clamped for pool size 1)
+2025-12-02 02:34:26 [INFO]     - Calculated Count To Spawn from this pool 'M4A1_Example_Pool': 1
+2025-12-02 02:34:26 [INFO]     - Attempting to spawn 1 weighted random items from pool 'M4A1_Example_Pool':
+2025-12-02 02:34:26 [INFO]       - Spawning Item 1/1: M4A1 (Original Probability in Pool: 1) for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]         -> Spawned base item OK: M4A1
+2025-12-02 02:34:26 [INFO]         -> Attaching items to M4A1...
+2025-12-02 02:34:26 [INFO]           + Attached OK: Mag_STANAG_30Rnd
+2025-12-02 02:34:26 [INFO]           + Attached OK: M4_OEBttstck
+2025-12-02 02:34:26 [INFO]           + Attached OK: M4_CarryHandleOptic
+2025-12-02 02:34:26 [INFO] Processing category from CrateSettings: 'DefaultMedical' for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]   - Selected Pool: 'Basic_Medical_Supplies' (Weight/Probability: 0.8) for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]     - Pool Min/Max items for 'Basic_Medical_Supplies': 2/2 (Clamped for pool size 2)
+2025-12-02 02:34:26 [INFO]     - Calculated Count To Spawn from this pool 'Basic_Medical_Supplies': 2
+2025-12-02 02:34:26 [INFO]     - Attempting to spawn 2 weighted random items from pool 'Basic_Medical_Supplies':
+2025-12-02 02:34:26 [INFO]       - Spawning Item 1/2: PainkillerTablets (Original Probability in Pool: 0.5) for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]         -> Spawned base item OK: PainkillerTablets
+2025-12-02 02:34:26 [INFO]       - Spawning Item 2/2: BandageDressing (Original Probability in Pool: 1.5) for crate BS_Hacked_Crate
+2025-12-02 02:34:26 [INFO]         -> Spawned base item OK: BandageDressing
+2025-12-02 02:34:26 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: true LootAccessActionDone: false
+2025-12-02 02:34:26 [INFO] Inventory lock state re-evaluated for BS_Hacked_Crate. Should be LOCKED if RequireAccessAction is true and action not yet performed.
+2025-12-02 02:34:26 [INFO] Loot spawning process finished for crate at <4732.430176, 338.968994, 10350.200195>
+2025-12-02 02:34:26 [INFO] HandlePostLootTimersAndDespawn (BS_Hacked_Crate): Advanced Groups marker (UID: 2080897044) will be handled by EEDelete or specific despawn logic.
+2025-12-02 02:34:26 [INFO] HandlePostLootTimersAndDespawn (BS_Hacked_Crate): Scheduling auto-despawn in 1800s (30 minutes).
+2025-12-02 02:34:26 [INFO] StartAutoDespawnTimer: Auto-despawn timer started for BS_Hacked_Crate<566ac740>. Will delete in 1800s.
+2025-12-02 02:34:26 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: END, Key: #STR_BSHC_Notification_End_Located
+2025-12-02 02:34:26 [INFO] Hack finished: BS_Hacked_Crate at <4732.430176, 338.968994, 10350.200195>
+2025-12-02 02:34:33 [INFO] Inventory for BS_Hacked_Crate UNLOCKED. IsOpen: true LootAccessActionDone: true
+2025-12-02 02:34:33 [INFO] Player RideBlue accessed loot in HackedCrate: <4732.430176, 338.968994, 10350.200195>
+2025-12-02 03:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 03:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-02 03:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 03:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-02 03:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-02 03:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-02 03:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.
+2025-12-02 03:04:54 [INFO] DeleteCrateScheduled: Auto-despawn timer finished for BS_Hacked_Crate<566ac740>. Deleting crate now.
+2025-12-02 03:04:54 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: UnknownContext. Current UID: '' for BS_Hacked_Crate<3039853>
+2025-12-02 03:04:54 [INFO] EXP_REMOVE_DEBUG: EXPANSIONMODNAVIGATION NOT defined. Cannot remove marker. Context: UnknownContext for BS_Hacked_Crate<3039853>
+2025-12-02 03:04:54 [INFO] EEDelete called for BS_Hacked_Crate at <4732.430176, 338.968994, 10350.200195>
+2025-12-02 03:04:54 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '' for BS_Hacked_Crate<3039853>
+2025-12-02 03:04:54 [INFO] EXP_REMOVE_DEBUG: EXPANSIONMODNAVIGATION NOT defined. Cannot remove marker. Context: EEDelete for BS_Hacked_Crate<3039853>
+2025-12-02 03:04:54 [INFO] BSHC_AG_DEBUG: BSHC_RemoveAdvancedGroupsMapMarker called.
+2025-12-02 03:04:54 [INFO] BSHC_AG_DEBUG: Removing AG marker UID: 2080897044
+2025-12-02 03:04:54 [INFO] BSHC_AG_DEBUG: AG marker UID 2080897044 successfully removed.
+2025-12-02 03:04:54 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-12-02 03:04:54 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-12-02 04:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 04:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick received. Evaluating individual crate configs...
+2025-12-02 04:01:54 [INFO] --------------------------------------------------------------------------
+2025-12-02 04:01:54 [INFO] Config 'DefaultDynamicEvent_Example1' is due for a check. Processing...
+2025-12-02 04:01:54 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate')
+2025-12-02 04:01:54 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-12-02 04:01:54 [INFO] OnCrateSpawnTickPeriodic - Management Tick finished. Next check in 3600 seconds.

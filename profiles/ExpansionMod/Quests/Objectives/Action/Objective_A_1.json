@@ -1,0 +1,21 @@
+{
+  "ConfigVersion": 28,
+  "ID": 1,
+  "ObjectiveType": 10,
+  "ObjectiveText": "Skin a cow",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ActionNames": [
+    "ActionSkinning"
+  ],
+  "AllowedClassNames": [
+    "Animal_BosTaurus_Brown",
+    "Animal_BosTaurus_Spotted",
+    "Animal_BosTaurus_White",
+    "Animal_BosTaurusF_Brown",
+    "Animal_BosTaurusF_Spotted",
+    "Animal_BosTaurusF_White"
+  ],
+  "ExcludedClassNames": [],
+  "ExecutionAmount": 1
+}

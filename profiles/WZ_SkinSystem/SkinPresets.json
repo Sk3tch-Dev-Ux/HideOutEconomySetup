@@ -1,0 +1,20 @@
+{
+    "SkinPresets": [
+        {
+            "Name": "Vip Preset",
+            "Skins": [
+                "AK74",
+                "AK74_Black",
+                "AK74_Green"
+            ]
+        },
+        {
+            "Name": "Everyone Preset",
+            "Skins": [
+                "PlateCarrierVest",
+                "PlateCarrierVest_Black",
+                "PlateCarrierVest_Winter"
+            ]
+        }
+    ]
+}

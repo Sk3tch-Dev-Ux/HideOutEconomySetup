@@ -1,0 +1,30 @@
+{
+  "ConfigVersion": 28,
+  "ID": 6,
+  "ObjectiveType": 2,
+  "ObjectiveText": "Kill a cow",
+  "TimeLimit": -1,
+  "Active": 1,
+  "Position": [
+    0,
+    0,
+    0
+  ],
+  "MaxDistance": -1,
+  "MinDistance": 0,
+  "Amount": 1,
+  "ClassNames": [
+    "Animal_BosTaurus_Brown",
+    "Animal_BosTaurus_Spotted",
+    "Animal_BosTaurus_White",
+    "Animal_BosTaurusF_Brown",
+    "Animal_BosTaurusF_Spotted",
+    "Animal_BosTaurusF_White"
+  ],
+  "CountSelfKill": 0,
+  "AllowedWeapons": [],
+  "ExcludedClassNames": [],
+  "CountAIPlayers": 0,
+  "AllowedTargetFactions": [],
+  "AllowedDamageZones": []
+}

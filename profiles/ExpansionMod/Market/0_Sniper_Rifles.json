@@ -1,0 +1,117 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Weapons - Sniper Rifles",
+  "Icon": "Gun",
+  "Color": "FF0000FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "a6_delta5",
+      "MaxPriceThreshold": 237000,
+      "MinPriceThreshold": 237000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_delta5_camo1",
+        "a6_delta5_camo10",
+        "a6_delta5_camo2",
+        "a6_delta5_camo3",
+        "a6_delta5_camo4",
+        "a6_delta5_camo5",
+        "a6_delta5_camo6",
+        "a6_delta5_camo7",
+        "a6_delta5_camo8",
+        "a6_delta5_camo9"
+      ]
+    },
+    {
+      "ClassName": "a6_dvl10",
+      "MaxPriceThreshold": 260000,
+      "MinPriceThreshold": 260000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_dvl10_black"
+      ]
+    },
+    {
+      "ClassName": "a6_m24",
+      "MaxPriceThreshold": 211500,
+      "MinPriceThreshold": 211500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_m24_black"
+      ]
+    },
+    {
+      "ClassName": "a6_r700",
+      "MaxPriceThreshold": 211500,
+      "MinPriceThreshold": 211500,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_r700_black"
+      ]
+    },
+    {
+      "ClassName": "a6_sv98",
+      "MaxPriceThreshold": 237000,
+      "MinPriceThreshold": 237000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_svd",
+      "MaxPriceThreshold": 237000,
+      "MinPriceThreshold": 237000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_svd_tiger",
+      "MaxPriceThreshold": 237000,
+      "MinPriceThreshold": 237000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "a6_thefix",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 25.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "a6_thefix_green"
+      ]
+    }
+  ]
+}

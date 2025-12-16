@@ -1,0 +1,25 @@
+{
+    "version": 0,
+    "steamid": "76561199794773581",
+    "name": "RideBlue",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "inventory",
+        "money1",
+        "money2",
+        "run_foot1",
+        "zombie1"
+    ],
+    "trigger": {
+        "kill:zombie": 58,
+        "kill:animal": 3,
+        "quests:finished": 1,
+        "inventory:open": 1,
+        "distance:walk": 14,
+        "bullet:shot": 65,
+        "bank:balance:personal": 96266
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

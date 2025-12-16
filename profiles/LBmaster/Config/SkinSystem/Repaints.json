@@ -1,0 +1,73 @@
+[
+    {
+        "itemnames": [
+            "M4A1"
+        ],
+        "repaints": [
+            {
+                "name": "Camo",
+                "overwrittenDisplayName": "$original$ (Camo)",
+                "repaintCost": -1,
+                "buyOnceCost": -1,
+                "buyInfititeCost": -1,
+                "excludedItems": [],
+                "hiddenSelectionTextures": [
+                    "dz/characters/backpacks/data/alicebackpack_camo_co.paa",
+                    "dz/characters/backpacks/data/alicebackpack_camo_co.paa",
+                    "dz/characters/backpacks/data/alicebackpack_camo_co.paa"
+                ],
+                "hiddenSelectionMaterials": [],
+                "permissionGroups": [],
+                "attachments": [
+                    {
+                        "itemnames": [
+                            "M4_PlasticHndgrd",
+                            "M4_RISHndgrd"
+                        ],
+                        "hiddenSelectionTextures": [
+                            "dz/characters/backpacks/data/alicebackpack_camo_co.paa",
+                            "dz/characters/backpacks/data/alicebackpack_camo_co.paa",
+                            "dz/characters/backpacks/data/alicebackpack_camo_co.paa"
+                        ],
+                        "hiddenSelectionMaterials": []
+                    },
+                    {
+                        "itemnames": [
+                            "M4_MPBttstck",
+                            "M4_OEBttstck"
+                        ],
+                        "hiddenSelectionTextures": [
+                            "dz/characters/backpacks/data/alicebackpack_camo_co.paa",
+                            "dz/characters/backpacks/data/alicebackpack_camo_co.paa",
+                            "dz/characters/backpacks/data/alicebackpack_camo_co.paa"
+                        ],
+                        "hiddenSelectionMaterials": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "itemnames": [
+            "AliceBag_Camo"
+        ],
+        "repaints": [
+            {
+                "name": "Red",
+                "overwrittenDisplayName": "$original$ (Red)",
+                "repaintCost": -1,
+                "buyOnceCost": -1,
+                "buyInfititeCost": -1,
+                "excludedItems": [],
+                "hiddenSelectionTextures": [
+                    "LBmaster_RepaintRepairItems/items/ExampleTextures/red.paa",
+                    "LBmaster_RepaintRepairItems/items/ExampleTextures/red.paa",
+                    "LBmaster_RepaintRepairItems/items/ExampleTextures/red.paa"
+                ],
+                "hiddenSelectionMaterials": [],
+                "permissionGroups": [],
+                "attachments": []
+            }
+        ]
+    }
+]

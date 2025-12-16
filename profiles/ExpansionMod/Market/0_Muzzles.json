@@ -1,0 +1,547 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Attachments - Muzzles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "a6_762_muzzle_brake",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_9a91_suppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ai_338_suppressor",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ak_psb1_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ak203_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ak74_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_akm_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_aks74u_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ash12_suppressor",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_awc_thor_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_awr_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ax_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_car15_flashhider",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_cheytac_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_chimera_300_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_deadairmask22_suppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_elr_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_fal_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_fal_muzzle_2"
+            ]
+        },
+        {
+            "ClassName": "a6_g36_flashhider",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_gemtech_tundra_suppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_hkg28_prolonged_flash_hider",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_honeybadger_suppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_hxqd_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_hybrid_46_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_hybrid_46_suppressor_gray",
+                "a6_hybrid_46_suppressor_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_jumbo_shrimp_suppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_m16_flashhider",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_m4a1_a2_flashhider",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_m4a1_aemb_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_m4a1_kaw_compensator",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_m4a1_mk18_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_m4a1_surefire_flashhider",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_mp7a2suppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_omega_300_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_omega_300_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_ospreysuppressor",
+            "MaxPriceThreshold": 56000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_pp19_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_pp19bizon_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_qdl_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_rpk_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_salvo12_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_salvo12_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sks_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_slx68_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_srsqd_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_surefire762_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_tank_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_tba_30cb_muzzle",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_tba_ultra5_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_windtalker_suppressor",
+            "MaxPriceThreshold": 72000,
+            "MinPriceThreshold": 72000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_windtalker_suppressor_tan"
+            ]
+        }
+    ]
+}

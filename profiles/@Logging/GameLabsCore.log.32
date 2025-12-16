@@ -1,0 +1,8 @@
+************************** 2025-12-13T02:25:24+00:00 **************************
+2025-12-13T02:25:24+00:00 | [INFO	] GameLabs v1.963 start for server 217611ad-48c7-4fe0-a20c-788244e3ff8b
+2025-12-13T02:25:38+00:00 | [INFO	] Server up (GameLabs v1.963; terrain=chernarusplus;)
+2025-12-13T02:25:38+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-12-13T02:25:39+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2025-12-13T02:25:39+00:00 | [WARN	] "ActionDestroyBBP" has been added as monitored action by a third party application
+2025-12-13T02:26:19+00:00 | [INFO	] Mission fully loaded in 99.507s. Server ready for connections.
+2025-12-13T02:26:22+00:00 | [WARN	] RegisterAsync re-authorized

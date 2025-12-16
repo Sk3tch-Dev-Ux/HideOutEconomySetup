@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "createMarker": 1,
+    "markerName": "#STR_EXPANSION_AIRDROP_SYSTEM_TITLE",
+    "markerIcon": "LBmaster_Groups\\gui\\icons\\circle.paa",
+    "color": {
+        "a": 255,
+        "r": 235,
+        "g": 59,
+        "b": 90
+    }
+}

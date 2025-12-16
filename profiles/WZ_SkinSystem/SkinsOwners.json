@@ -1,0 +1,16 @@
+{
+    "Owners": [
+        {
+            "steamId": "EVERYONE",
+            "Presets": [
+                "Everyone Preset"
+            ]
+        },
+        {
+            "steamId": "76561198401426488",
+            "Presets": [
+                "Vip Preset"
+            ]
+        }
+    ]
+}

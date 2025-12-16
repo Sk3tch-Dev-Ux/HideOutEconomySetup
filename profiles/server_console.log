@@ -1,0 +1,475 @@
+﻿ 0:00:29 BattlEye Server: Initialized (v1.219, DayZ 1.28.161464)
+ 0:00:29 SUCCESS: SteamGameServer_Init(0,8766,2302,2303,3,1.28.161464)
+ 0:00:29 Hostname of server: "The Hideout | US | Solo/Duo/Trio | Weekend Raiding"
+ 0:00:29 BattlEye Server: Config entry: RestrictRCon 0
+ 0:00:29 BattlEye Server: Config entry: RConPassword 3c5bd237
+ 0:00:29 BattlEye Server: Config entry: RConPort 2305
+ 0:00:29 Roles assigned.
+ 0:00:29 Reading mission ...
+ 0:00:52 [CE][Hive] :: Initializing OFFLINE
+ 0:00:52 [StorageDirs] :: Selected storage directory: C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\
+ 0:00:52 [CE][Hive] :: Loading core data ... 
+ 0:00:52 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+ 0:00:58 [CE][TypeSetup] :: 563 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 48 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 44 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 11 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 7 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 20 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 12 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 7 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 24 classes setuped...
+ 0:00:58 [CE][TypeSetup] :: 50 classes setuped...
+ 0:01:03 [CE][RegisterBind] :: 0 classes binded...
+ 0:01:03 [CE][RegisterConfig] :: 23366 config classes registered, 0 sub-counters...
+ 0:01:03 [CE][Hive] :: Loading map data ... 
+ 0:01:03 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 20 types
+ 0:01:03 [CE][LoadPrototype] :: loaded 426 prototypes
+ 0:01:03   821 containers, 10956 points
+ 0:01:03   71 dispatches, 250 proxies
+ 0:01:03 !!! [CE][LoadPrototype] 5 groups have no points...
+ 0:01:03 [CE][LoadPrototype] :: last group name: Land_Wreck_S1023_Medic_Beige_DE...
+ 0:01:03 [CE][LoadPrototype] :: loaded 0 prototypes
+ 0:01:03   55 containers, 232 points
+ 0:01:03   0 dispatches, 0 proxies
+ 0:01:03 [CE][LoadPrototype] :: last group name: Rail9...
+ 0:01:03 [CE][LoadMap] "Group" :: loaded 12140 groups, groups failed: 0, largest group range: 34.2
+ 0:01:03 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+ 0:01:03 [CE][LoadClusters] "Cluster" :: Loading files...
+ 0:01:04 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 0:01:04 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 0:01:04 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 0:01:04 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 0:01:04 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+ 0:01:04 [CE][Storage] ver:21 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+ 0:01:04 [CE][Storage] ver:21 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+ 0:01:04 [CE][Storage] ver:21 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+ 0:01:04 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+ 0:01:05 !!! [CE][offlineDB] :: No Shutdown message present.
+ 0:01:05 [CE][offlineDB] :: Loaded 42 dynamic events 214 total types.
+ 0:01:05 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE] :: Unknown value: 'Tier5'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Elite'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'HeliCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'CultCrash'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'MissileSilo'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Cult'.
+ 0:01:05 !!! [CE] :: Unknown usage: 'Underground'.
+ 0:01:05 !!! [CE][offlineDB] :: Type 'HackingBattery' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'HackingTablet' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'CigarettePack_Chernamorka' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'CigarettePack_Merkur' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'CigarettePack_Partyzanka' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'MFP_GummiWorms' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'MFP_Twix' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Drip_AdidasYeezySlides_core' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Drip_PampaBoots_anthrcite' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Drip_DrippyPoo' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'BBP_Workbench' will be ignored. (Not spawnable. (Scope is not public?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'BBP_Workbench_Kit' will be ignored. (Not spawnable. (Scope is not public?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Arc_SecureContainer_Alpha' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Arc_SecureContainer_Beta' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Arc_SecureContainer_Epsilon' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Arc_SecureContainer_Gamma' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'Arc_SecureContainer_Kappa' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Access' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Black' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Blue' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Green' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Red' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Violet' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'DLS_KeyCard_Labs_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 0:01:05 !!! [CE][offlineDB] :: Type 'SubaruImprezaWRXF4_Gray' will be ignored. (Type does not exist. (Typo?))
+ 0:01:06 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 0:01:06 [CE][DE][SPAWNS] :: Total positions: 501
+ 0:01:06 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+ 0:01:06 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+ 0:01:06 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+ 0:01:06 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+ 0:01:06 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+ 0:01:06 [CE][DynamicEvent] Load  Events:[42] Primary spawners: 42 Secondary spawners: 4
+ 0:01:06 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+ 0:01:06 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+ 0:01:06 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+ 0:01:06 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 864 items.
+ 0:01:06   864 items loaded. (0 failed)
+ 0:01:06 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+ 0:01:06 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+ 0:01:06 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+ 0:01:06 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1478 items.
+ 0:01:07   1478 items loaded. (0 failed)
+ 0:01:07 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+ 0:01:07 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+ 0:01:07 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+ 0:01:07 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2207 items.
+ 0:01:09   2207 items loaded. (0 failed)
+ 0:01:09 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+ 0:01:09 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+ 0:01:09 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+ 0:01:09 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 1985 items.
+ 0:01:10   1985 items loaded. (0 failed)
+ 0:01:10 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+ 0:01:10 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+ 0:01:10 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+ 0:01:10 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1692 items.
+ 0:01:11   1692 items loaded. (0 failed)
+ 0:01:11 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+ 0:01:11 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+ 0:01:11 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+ 0:01:11 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 1964 items.
+ 0:01:13   1964 items loaded. (0 failed)
+ 0:01:13 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+ 0:01:13 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+ 0:01:13 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+ 0:01:13 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1519 items.
+ 0:01:14   1519 items loaded. (0 failed)
+ 0:01:14 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+ 0:01:14 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+ 0:01:14 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+ 0:01:14 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1428 items.
+ 0:01:15   1428 items loaded. (0 failed)
+ 0:01:15 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+ 0:01:15 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+ 0:01:15 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+ 0:01:15 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2041 items.
+ 0:01:16   2041 items loaded. (0 failed)
+ 0:01:16 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+ 0:01:16 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+ 0:01:16 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+ 0:01:16 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2587 items.
+ 0:01:18   2587 items loaded. (0 failed)
+ 0:01:18 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+ 0:01:18 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+ 0:01:18 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+ 0:01:18 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1796 items.
+ 0:01:19   1796 items loaded. (0 failed)
+ 0:01:19 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+ 0:01:19 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+ 0:01:19 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+ 0:01:19 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 327 items.
+ 0:01:20   327 items loaded. (0 failed)
+ 0:01:20 [CE][Storage] ver:26 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+ 0:01:20 [CE][Storage] ver:26 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+ 0:01:20 [CE][Storage] ver:26 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+ 0:01:20 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 3 items.
+ 0:01:20   3 items loaded. (0 failed)
+ 0:01:20 [CE][Storage] ver:25 stamp:32900, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+ 0:01:20 [CE][Storage] ver:25 stamp:32758, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+ 0:01:20 [CE][Storage] ver:25 stamp:32756, valid:yes, name:"C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+ 0:01:20 [CE][Storage] Restoring file "C:\Program Files (x86)\CFTools Software GmbH\Architect\Agent\deployments\TheHideout\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 182 items.
+ 0:01:20   182 items loaded. (0 failed)
+ 0:01:20 [CE][Hive] :: Storage load took:14.44 seconds, recovery stamp:32900
+ 0:01:20   entity: 21655, building: 3
+ 0:01:20   ignored: 8
+ 0:01:20   pathgraph's: 1330
+ 0:01:20 [CE][Hive] :: Initializing ... 
+ 0:01:20 [CE][InitializeMap] :: initialized: 2
+ 0:01:20 [CE][Hive] :: Initializing spawners ... 
+ 0:01:21 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:22382, Total in Map: 20002 at 0 (sec)
+ 0:01:21   tests:0, repeats:0 fails:0, overtime:0
+ 0:01:21 [CE][DynEvent] :: 42 types
+ 0:01:21 [00] AmbientFox
+ 0:01:21   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:01:21 [01] AmbientHare
+ 0:01:21   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:01:21 [02] AmbientHen
+ 0:01:21   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:01:21 [03] AnimalBear
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [04] AnimalCow
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [05] AnimalDeer
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [06] AnimalGoat
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [07] AnimalPig
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [08] AnimalRoeDeer
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [09] AnimalSheep
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [10] AnimalWildBoar
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [11] AnimalWolf
+ 0:01:21   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:01:21 [12] InfectedArmy
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [13] InfectedArmyHard
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [14] InfectedCity
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [15] InfectedCityTier1
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [16] InfectedFirefighter
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [17] InfectedIndustrial
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [18] InfectedMedic
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [19] InfectedNBC
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [20] InfectedPolice
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [21] InfectedPoliceHard
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [22] InfectedPrisoner
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [23] InfectedReligious
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [24] InfectedSanta
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [25] InfectedSolitude
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [26] InfectedVillage
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [27] InfectedVillageTier1
+ 0:01:21   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [28] ItemPlanks
+ 0:01:21   Primary Spawner: "Item", active: yes, repeat: 1
+ 0:01:21 [29] Loot
+ 0:01:21   Primary Spawner: "Loot", active: yes, repeat: 2
+ 0:01:21 [30] StaticAirplaneCrate
+ 0:01:21   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:01:21 [31] StaticHeliCrash
+ 0:01:21   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:01:21   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [32] StaticMilitaryConvoy
+ 0:01:21   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:01:21   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [33] StaticPoliceSituation
+ 0:01:21   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:01:21   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [34] StaticTrain
+ 0:01:21   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:01:21   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 0:01:21 [35] TrajectoryApple
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [36] TrajectoryConiferous
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [37] TrajectoryDeciduous
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [38] TrajectoryHumus
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [39] TrajectoryPear
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [40] TrajectoryPlum
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [41] TrajectoryStones
+ 0:01:21   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:01:21 [CE][Hive] :: Initializing of spawners done.
+ 0:01:21 [CE][Hive] :: Init sequence finished.
+ 0:01:24 [IdleMode] Entering IN - save processed
+ 0:01:24 [UNLOCK] Server was unlocked.
+ 0:01:24 BattlEye Server: Command received: #unlock Result: OK
+ 0:01:25 BattlEye Server: RCon admin #7 (127.0.0.1:64253) logged in
+ 0:01:54 BattlEye Server: RCon admin #0 (49.12.214.88:58355) logged in
+ 0:01:54 [UNLOCK] Server was unlocked.
+ 0:01:54 BattlEye Server: Command received: #unlock Result: OK
+ 0:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 1:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 1:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 2:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 2:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 3:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 3:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 4:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 4:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 5:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 5:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 5:59:32 Disconnected from Steam
+ 6:00:03 Failed to connect to Steam
+ 6:00:23 Connected to Steam
+ 6:00:23 Steam policy response
+ 6:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 6:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 7:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 7:31:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 7:58:31 Gailamir uses modified data file
+ 7:58:31 [Login]: Adding player Gailamir (46651542) to login queue at position 0
+ 7:58:31 [LoginMachine]: Add player Gailamir (46651542 67.193.103.140:57102)
+ 7:58:31 [StateMachine]: Player Gailamir (dpnid 46651542 uid ) Entering AuthPlayerLoginState
+ 7:58:32 BattlEye Server: Player #0 Gailamir (67.193.103.140:57102) connected
+ 7:58:32 Player Gailamir connecting.
+ 7:58:32 [StateMachine]: Player Gailamir (dpnid 46651542 uid ) Entering WaitAuthPlayerLoginState
+ 7:58:32 BattlEye Server: Connected to BE Master
+ 7:58:33 BattlEye Server: Player #0 Gailamir - BE GUID: 0d303ed4e1e43e4618eb5837bed60517
+ 7:58:34 BattlEye Server: Verified GUID (0d303ed4e1e43e4618eb5837bed60517) of player #0 Gailamir
+ 7:58:34 Player Gailamir (id=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) has connected.
+ 7:58:34 Player "Gailamir"(steamID=76561199235895323) is connected
+ 7:58:34 [StateMachine]: Player Gailamir (dpnid 46651542 uid ) Entering WaitPlayerAssignedLoginState
+ 7:58:35 [StateMachine]: Player Gailamir (dpnid 46651542 uid ) Entering PlayerAssignedLoginState
+ 7:58:35 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering DBGetLoginTimeLoginState
+ 7:58:35 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering DBWaitLoginTimeLoginState
+ 7:58:35 [IdleMode] Leaving OUT
+ 7:58:40 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering DBGetCharacterLoginState
+ 7:58:40 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering CreateNetObjectsLoginState
+ 7:58:40 Player Gailamir dpid=46651542 at pos (6149.8, 0.0, 2141.8) 
+ 7:58:40 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering PreloadCamLoginState
+ 7:58:40 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering WaitPreloadCamLoginState
+ 7:58:58 [StateMachine]: Player Gailamir (dpnid 46651542 uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=) Entering GetNewCharLoginState
+ 7:58:58 <CREATE NEW CHAR>:
+    charID 24
+    playerID 24
+    dpnid 46651542
+    uid Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=
+ 7:59:03 BattlEye Server: RCon admin #0: (To Gailamir) Welcome to The Hideout! Server is still under development so please join our Discord to stay up to date!
+ 8:01:54 BattlEye Server: RCon admin #0: (Global) This is a CFTools Cloud enabled server
+ 8:08:26 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban1_grey_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban1_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+ 8:08:26 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+ 8:11:35 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+ 8:

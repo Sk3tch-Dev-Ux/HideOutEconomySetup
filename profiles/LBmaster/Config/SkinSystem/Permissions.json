@@ -1,0 +1,17 @@
+[
+    {
+        "name": "admin",
+        "members": [
+            {
+                "steamid": "76561198141097113",
+                "comment": "Sample Entry"
+            }
+        ],
+        "groups": [
+            {
+                "groupTag": "ADM",
+                "comment": "Admin Group"
+            }
+        ]
+    }
+]

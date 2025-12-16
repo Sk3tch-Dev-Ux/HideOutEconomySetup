@@ -1,0 +1,154 @@
+{
+  "BBP_DisableCraftVanillaFence": 1,
+  "BBP_DisableCraftVanillaWatchtower": 1,
+  "BBP_BaseBuildAnywhere": 1,
+  "BBP_FlagBuildAnywhere": 1,
+  "BBP_TentBuildAnywhere": 0,
+  "BBP_VanillaBuildAnywhere": 1,
+  "BBP_SetInfiniteLifetime": 1,
+  "BBP_AdvancedRotation": 1,
+  "BBP_FloatingPlacement": 1,
+  "BBP_CanRaiseAndLowerHologram": 1,
+  "BBP_HologramHasCollision": 0,
+  "BBP_InventoryToggle": 1,
+  "BBP_HideKitWhilePlacing": 0,
+  "BBP_BarbedWireRemoveOutside": 0,
+  "BBP_CanAttachFlashlights": 0,
+  "BBP_CanAttachXmaslights": 0,
+  "BBP_CanAttachCamonets": 1,
+  "BBP_CanAttachWallpaper": 1,
+  "BBP_CanAttachCarpet": 1,
+  "BBP_CanAttachPlaster": 1,
+  "BBP_RaidOnlyDoors": 1,
+  "BBP_DisableDestroy": 0,
+  "BBP_DisableDismantle": 0,
+  "BBP_BuildTime": 1,
+  "BBP_DismantleTime": 2,
+  "BBP_Tier1RaidTime": 300,
+  "BBP_Tier2RaidTime": 600,
+  "BBP_Tier3RaidTime": 1200,
+  "BBP_BaseBuildToolDamage": 1,
+  "BBP_BaseDismantleToolDamage": 1,
+  "BBP_Tier1RaidToolDamage": 50,
+  "BBP_Tier2RaidToolDamage": 100,
+  "BBP_Tier3RaidToolDamage": 1000,
+  "BBP_BuildTools": [
+    "Hammer",
+    "Hatchet"
+  ],
+  "BBP_DismantleTools": [
+    "Hatchet",
+    "Crowbar"
+  ],
+  "BBP_Tier1RaidTools": [
+    "SledgeHammer",
+    "FirefighterAxe",
+    "WoodAxe"
+  ],
+  "BBP_Tier2RaidTools": [
+    "SledgeHammer",
+    "FirefighterAxe"
+  ],
+  "BBP_Tier3RaidTools": [
+    "SledgeHammer"
+  ],
+  "BBP_CementMixerTime": 252,
+  "BBP_CementMixerLocations": [
+    {
+      "position": [
+        10054.915,
+        5.99834681,
+        1824.81458
+      ],
+      "orientation": [
+        140.320999,
+        0,
+        0
+      ]
+    },
+    {
+      "position": [
+        8025.97412,
+        14.3200388,
+        3112.55566
+      ],
+      "orientation": [
+        -134.317001,
+        0,
+        -9.99999997E-07
+      ]
+    },
+    {
+      "position": [
+        2259.96729,
+        185.386688,
+        5228.34326
+      ],
+      "orientation": [
+        31.4218616,
+        0,
+        0
+      ]
+    },
+    {
+      "position": [
+        13320.8105,
+        9.18466377,
+        6120.32031
+      ],
+      "orientation": [
+        0.488000005,
+        0.00267200009,
+        1.68192804
+      ]
+    },
+    {
+      "position": [
+        11916.333,
+        28.763134,
+        14286.3809
+      ],
+      "orientation": [
+        105.1045,
+        0,
+        0
+      ]
+    },
+    {
+      "position": [
+        8005.1001,
+        129.204407,
+        12594.5
+      ],
+      "orientation": [
+        -12.6295996,
+        -0.734632015,
+        0.240260005
+      ]
+    },
+    {
+      "position": [
+        5216.39258,
+        340.970093,
+        9886.89746
+      ],
+      "orientation": [
+        -109.342987,
+        -0.0422339998,
+        0.00777699985
+      ]
+    },
+    {
+      "position": [
+        2943.95288,
+        220.78447,
+        12637.5264
+      ],
+      "orientation": [
+        -158.010208,
+        0.0181450006,
+        -0.0449320003
+      ]
+    }
+  ]
+}

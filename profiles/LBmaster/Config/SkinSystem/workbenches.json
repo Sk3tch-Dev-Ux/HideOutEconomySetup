@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "objects": [
+        {
+            "itemname": "Repaint_Workbench_Static",
+            "position": [
+                3711.395263671875,
+                402.0457763671875,
+                5974.7861328125
+            ],
+            "orientation": [
+                250.20880126953126,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0
+        },
+        {
+            "itemname": "Repaint_Workbench_Static",
+            "position": [
+                8166.7802734375,
+                474.0686950683594,
+                9102.76171875
+            ],
+            "orientation": [
+                334.0411376953125,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0
+        }
+    ]
+}

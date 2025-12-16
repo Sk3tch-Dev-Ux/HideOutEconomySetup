@@ -1,0 +1,16 @@
+{
+    "version": 0,
+    "steamid": "76561198195677637",
+    "name": "dexth",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "distance:walk": 4,
+        "spawnselect:spawn:Berenzino:once": 1,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

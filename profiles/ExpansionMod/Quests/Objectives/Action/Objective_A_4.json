@@ -1,0 +1,16 @@
+{
+  "ConfigVersion": 28,
+  "ID": 4,
+  "ObjectiveType": 10,
+  "ObjectiveText": "Skin a bear",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ActionNames": [
+    "ActionSkinning"
+  ],
+  "AllowedClassNames": [
+    "Animal_UrsusArctos"
+  ],
+  "ExcludedClassNames": [],
+  "ExecutionAmount": 1
+}

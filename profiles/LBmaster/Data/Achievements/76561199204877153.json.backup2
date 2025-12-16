@@ -1,0 +1,32 @@
+{
+    "version": 0,
+    "steamid": "76561199204877153",
+    "name": "WearYourPPE",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "flagpole",
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2",
+        "run_foot1",
+        "zombie1",
+        "zombie2"
+    ],
+    "trigger": {
+        "quests:finished": 1,
+        "bank:balance:personal": 79243,
+        "action:ActionDeployObject:hologram:TerritoryFlagKitPlacing": 1,
+        "kill:zombie": 117,
+        "distance:drive": 3,
+        "ag:group:created:once": 1,
+        "inventory:open": 1,
+        "distance:walk": 21,
+        "spawnselect:spawn:Chernogorsk:once": 1,
+        "bullet:shot": 145
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

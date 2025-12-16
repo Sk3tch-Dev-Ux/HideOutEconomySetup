@@ -1,0 +1,10 @@
+07:58:58.365 [Expansion Quests] Initialize quest system on the connected client with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=
+07:58:58.368 [Expansion Quests] Created new persistent player quest data for player UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=
+07:58:58.368 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=
+07:58:58.369 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+07:58:58.369 [Expansion Quests] Updated and saved persistent player quest data for player with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU= | Quest ID=1
+07:58:58.370 [Expansion Quests] Sending Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU= quest configs to client for player with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=
+07:58:58.371 [Expansion Quests] Sending player quest data for 1 quests to player with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=
+07:58:58.841 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+07:58:58.841 [Expansion Quests] Updated and saved persistent player quest data for player with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU= | Quest ID=1
+08:13:48.245 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=Dw_hY3n3mCXxMNQEJzGCQhpF4XrOAA29uyNZI4AiRNU=.

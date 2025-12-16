@@ -1,0 +1,7 @@
+{
+    "BlacklistedItems": [
+        "HDSN_BreachingCharge",
+        "HDSN_BreachingChargeHeavy"
+    ],
+    "onlyInTerritory": 0
+}

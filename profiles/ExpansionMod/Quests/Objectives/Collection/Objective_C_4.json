@@ -1,0 +1,39 @@
+{
+  "ConfigVersion": 28,
+  "ID": 4,
+  "ObjectiveType": 4,
+  "ObjectiveText": "Collect all required vests and weapons",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "A6_HoneyBadger",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "A6_MK14",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "FOG_Vest_AVS_Black",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "FOG_Vest_FCPC_Black",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    }
+  ],
+  "MaxDistance": 0,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Active": 1
+}

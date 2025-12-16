@@ -1,0 +1,26 @@
+{
+    "version": 2,
+    "enabled": 0,
+    "hideCursorCoordinates": 1,
+    "canAddMarkers": 0,
+    "hideServerMarkersInList": 1,
+    "hideGroupMarkersInList": 0,
+    "hidePrivateMarkersInList": 0,
+    "sectorCount": 150,
+    "discoveryRadius": 150.0,
+    "fogColor": {
+        "a": 255,
+        "r": 200,
+        "g": 200,
+        "b": 200
+    },
+    "drawMapGridOverFog": 1,
+    "overwriteColorFromConfig": 1,
+    "gridColorOverwrite": {
+        "a": 50,
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "centerOnPlayerIfNotOnScreen": 1
+}

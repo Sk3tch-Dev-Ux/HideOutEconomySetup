@@ -1,0 +1,19 @@
+{
+    "version": 0,
+    "steamid": "76561199389329337",
+    "name": "DopeMagic93",
+    "selectedTitle": "",
+    "achievements": [
+        "groupleader",
+        "inventory"
+    ],
+    "trigger": {
+        "kill:zombie": 14,
+        "bullet:shot": 22,
+        "inventory:open": 1,
+        "distance:walk": 3,
+        "ag:group:created:once": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

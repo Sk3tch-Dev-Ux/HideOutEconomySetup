@@ -1,0 +1,34 @@
+23:01:13.536 [Expansion Quests] Objective with ID=6 (Type=COLLECT) is set to inactive. Skip adding objective..
+18:26:07.398 [Expansion Quests] Initialize quest system on the connected client with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+18:26:07.402 [Expansion Quests] Created new persistent player quest data for player UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+18:26:07.402 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+18:26:07.403 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+18:26:07.403 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=1
+18:26:07.403 [Expansion Quests] Sending _YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= quest configs to client for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+18:26:07.404 [Expansion Quests] Sending player quest data for 1 quests to player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=
+18:26:07.875 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+18:26:07.875 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=1
+19:43:49.319 [Safezone] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= pos=<4031.97, 334.87, 6394.85>) entered the safezone
+19:45:18.891 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:45:18.892 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=1
+19:45:18.892 [Expansion Quests] Player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= has completed quest with ID=1
+19:45:18.893 [Expansion Quests] Updated and saved persistent player quest data for player with UID=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= | Quest ID=1
+19:48:47.435 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought fog_bag_6shbagt_black x1 (bc91dfb0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 14000.
+19:48:54.923 [Expansion Quests] Initialize quest system on the connected client with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo=
+19:48:54.927 [Expansion Quests] Created new persistent player quest data for player UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo=
+19:48:54.927 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo=
+19:48:54.927 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:48:54.928 [Expansion Quests] Updated and saved persistent player quest data for player with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo= | Quest ID=1
+19:48:54.928 [Expansion Quests] Sending OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo= quest configs to client for player with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo=
+19:48:54.929 [Expansion Quests] Sending player quest data for 1 quests to player with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo=
+19:48:55.405 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:48:55.405 [Expansion Quests] Updated and saved persistent player quest data for player with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo= | Quest ID=1
+19:49:45.240 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought a6_honeybadger x1 (c2825260) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 35000.
+19:49:57.453 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought a6_fnevolys x1 (34689790) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 49000.
+19:50:42.732 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought fog_hooded_parka_black x1 (b4c54d70) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 1000.
+19:51:01.385 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought nvgheadstrap x1 (b4c57db0) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 14000.
+19:51:39.117 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought lbs_sleepingpacked_new_camo x1 (ce3e3000) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 17500.
+19:53:28.361 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has sold fog_hooded_parka_black x1 (b4c54d70) at the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) and got 500.
+19:55:18.056 [Market] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0=) has bought a6_mag_556_pmag_60rnd x1 (b25c5e00, ammo_556x45hp x60) from the trader "Safezone ( [Safezone])" in market zone "Green Mountain" (pos=<3720.000000, 115.783501, 6006.666992>) for a price of 29400.
+20:05:40.925 [Safezone] Player "TootieBad88" (id=_YRHayB15fdZNFUP3lKt74_CBuzvgAeHzALVT4HHL_0= pos=<3457.2, 341.19, 6501.27>) left the safezone
+20:16:20.048 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=OQlNQWh0BXJWT97Rbn5WL0bqQNErItPr0sw_Osr70Vo=.

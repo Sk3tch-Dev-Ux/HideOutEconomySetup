@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Attachments - Bipods",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "a6_bipod_ris_black",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_bipod_ris_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_bipod_rotator",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "version": 0,
+    "steamid": "76561199011835169",
+    "name": "Hellcatz",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "bullet2",
+        "bullet3",
+        "inventory",
+        "money1",
+        "money2",
+        "money3",
+        "respawn_all",
+        "run_car1"
+    ],
+    "trigger": {
+        "distance:fly": 7,
+        "quests:finished": 3,
+        "kill:player": 3,
+        "bank:balance:personal": 261200,
+        "kill:zombie": 7,
+        "distance:drive": 19,
+        "inventory:open": 1,
+        "distance:walk": 6,
+        "spawnselect:spawn:Berenzino:once": 1,
+        "spawnselect:spawn:Chernogorsk:once": 1,
+        "spawnselect:spawn:Elektrozavodsk:once": 1,
+        "bullet:shot": 353
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

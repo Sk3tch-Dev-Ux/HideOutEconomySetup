@@ -1,0 +1,101 @@
+{
+    "name": "Drifters",
+    "shortname": "DFL",
+    "level": 0,
+    "lastActivity": 1764897550,
+    "creationDate": 1764251492,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 892037834,
+            "name": "TootieBad88 (2)",
+            "icon": "",
+            "position": [
+                14753.990234375,
+                18.372251510620118,
+                13324.48828125
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199760628699",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 100.0,
+            "tempMember": 0,
+            "lastSubgroup": 0,
+            "moveToLastSubgroup": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 766860266,
+            "name": "TISY",
+            "icon": "LBmaster_Groups\\gui\\icons\\marker.paa",
+            "position": [
+                1750.15966796875,
+                442.15869140625,
+                13844.69921875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561199760628699",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 1535620934,
+            "name": "Base",
+            "icon": "LBmaster_Groups\\gui\\icons\\flag.paa",
+            "position": [
+                14756.27734375,
+                17.523115158081056,
+                13315.2646484375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "76561199760628699",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "ConfigVersion": 28,
+  "ID": 3,
+  "ObjectiveType": 10,
+  "ObjectiveText": "Skin a wolf",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ActionNames": [
+    "ActionSkinning"
+  ],
+  "AllowedClassNames": [
+    "Animal_CanisLupus_Grey",
+    "Animal_CanisLupus_White"
+  ],
+  "ExcludedClassNames": [],
+  "ExecutionAmount": 1
+}

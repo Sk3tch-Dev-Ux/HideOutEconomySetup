@@ -1,0 +1,136 @@
+---------------------------------------------
+Log error_2025-12-16_00-00-01.log started at 2025-12-16 00:00:41
+
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.042 [ERROR] :: MARKET CONFIGURATION ERROR: Variant a6_sigsauerromeo2_optic_tan_mrdmount of a6_sigsauerromeo2_optic_mrdmount (ID 449) in category 0_Optics (ID 10) was already added in category 0_Optics (ID 10) as variant of a6_sigsauerbravo4optic_sigsauerromeo2_optic_mrdmount (ID 445)
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.747 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character 'Â' at position 18:
+'lancerevoix_trunkÂ­_red'
+ -----------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.748 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character '­' at position 19:
+'lancerevoix_trunkÂ­_red'
+ ------------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.820 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character 'Â' at position 18:
+'lancerevoix_trunkÂ­_red'
+ -----------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.820 [ERROR] :: MARKET CONFIGURATION ERROR: Invalid character '­' at position 19:
+'lancerevoix_trunkÂ­_red'
+ ------------------^
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:47.329 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_17_.json. Quest ID=17
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136
+CargoSorting/scripts/5_Mission/missionserver.c:5
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:47.336 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_18_.json. Quest ID=18
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136
+CargoSorting/scripts/5_Mission/missionserver.c:5
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:47.343 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_19_.json. Quest ID=19
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136
+CargoSorting/scripts/5_Mission/missionserver.c:5
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:47.356 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_20_.json. Quest ID=20
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136
+CargoSorting/scripts/5_Mission/missionserver.c:5
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:47.396 [ExpansionQuestModule<41056420>::GetQuestData] :: [ERROR] :: [Expansion Quests] Quest configuration validation failed! Quest was not added to the quest system. Please check the quest configuration file=Quest_27_.json. Quest ID=27
+Class:      'ExpansionQuestModule'
+Function: 'GetQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3050
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2930
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:383
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:187
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:48
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:190
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:37
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:12
+BS_HackedCrate/Scripts/5_Mission/missionserver.c:136
+CargoSorting/scripts/5_Mission/missionserver.c:5
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:53

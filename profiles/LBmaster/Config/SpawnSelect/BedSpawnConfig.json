@@ -1,0 +1,63 @@
+{
+    "version": 10,
+    "globalBagLimit": -1,
+    "enable_bag_renaming": 1,
+    "enable_bag_give_to_friend": 1,
+    "enable_give_bag_name_obfuscation": 0,
+    "bedConfigs": [
+        {
+            "name": "#lb_sp_spawn_bag",
+            "itemnames": [
+                "LBS_SleepingBag_New_Base"
+            ],
+            "timeoutSeconds": 1800,
+            "timeoutPlacedDown": 1800,
+            "radiusToNotTriggerTheKilledTimeout": 0.0,
+            "killedTimeoutRadius": 2000.0,
+            "itemLimit": 2,
+            "spawnCost": 0,
+            "forcePlaceOnGround": 0,
+            "timeoutAllPlacedBags": 0,
+            "timeoutNearBagsDistance": 50.0,
+            "maxBagUses": -1,
+            "uncaimOldestBagIfLimitReached": 0,
+            "nearPlacementCheckActive": 0,
+            "requireItemNearToAllowSpawn": 0,
+            "forceNearAnyFromList": [
+                {
+                    "nearItemname": "TerritoryFlag",
+                    "radius": 50.0
+                }
+            ],
+            "clearInventoryOnSpawn": 0,
+            "loadouts": []
+        },
+        {
+            "name": "#lb_sp_spawn_bag_old",
+            "itemnames": [
+                "LBS_SleepingBag_Old_Base"
+            ],
+            "timeoutSeconds": 3600,
+            "timeoutPlacedDown": 3600,
+            "radiusToNotTriggerTheKilledTimeout": 0.0,
+            "killedTimeoutRadius": 2000.0,
+            "itemLimit": 2,
+            "spawnCost": 0,
+            "forcePlaceOnGround": 0,
+            "timeoutAllPlacedBags": 0,
+            "timeoutNearBagsDistance": 50.0,
+            "maxBagUses": -1,
+            "uncaimOldestBagIfLimitReached": 0,
+            "nearPlacementCheckActive": 0,
+            "requireItemNearToAllowSpawn": 0,
+            "forceNearAnyFromList": [
+                {
+                    "nearItemname": "TerritoryFlag",
+                    "radius": 50.0
+                }
+            ],
+            "clearInventoryOnSpawn": 0,
+            "loadouts": []
+        }
+    ]
+}

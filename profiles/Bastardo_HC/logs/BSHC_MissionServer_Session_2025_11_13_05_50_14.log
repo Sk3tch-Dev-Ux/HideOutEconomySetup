@@ -1,0 +1,20 @@
+2025-11-13 05:50:14 [INFO] OnInit - Initializing Bastardos Hacked Crates System...
+2025-11-13 05:50:14 [INFO] OnInit - Loading Hacked Crate Loot Configuration (loot_pools.json)...
+2025-11-13 05:50:14 [INFO] [BSHCLootPoolConfig] Found loot_pools.json at: $profile:\Bastardo_HC\loot_pools.json
+2025-11-13 05:50:14 [INFO] [BSHCLootPoolConfig] JsonLoadFile executed. Loaded 2 categories defined in the root.
+2025-11-13 05:50:14 [INFO] [BSHCLootPoolConfig] Category 'DefaultArmaments' has 1 loot pools.
+2025-11-13 05:50:14 [INFO] [BSHCLootPoolConfig] Category 'DefaultMedical' has 1 loot pools.
+2025-11-13 05:50:14 [INFO] OnInit - Hacked Crate Loot Configuration processed successfully.
+2025-11-13 05:50:14 [INFO] OnInit - Loading Hacked Crate settings (global, static, dynamic)...
+2025-11-13 05:50:14 [INFO] CrateManagement instance created with default grace period and tick interval.
+2025-11-13 05:50:14 [INFO] [BSHCGlobalServerSettings] Loading from: $profile:\Bastardo_HC\BS_Global_settings.json
+2025-11-13 05:50:14 [INFO] [CrateConfigManager] Re-saved static_crates.json to include any new options.
+2025-11-13 05:50:14 [INFO] [CrateConfigManager] Re-saved dynamic_crates.json to include any new options.
+2025-11-13 05:50:14 [INFO] [CrateConfigManager] Static CrateManagement has been set.
+2025-11-13 05:50:14 [INFO] CrateSpawner instance created.
+2025-11-13 05:50:14 [INFO] OnInit - Crate Spawner created. Grace Period: 5 minutes. Periodic Tick: 3600 seconds.
+2025-11-13 05:50:14 [INFO] OnInit - Bastardos Hacked Crates System Initialization sequence finished.
+2025-11-13 05:50:18 [INFO] OnMissionStart - Server mission started. Scheduling Hacked Crate cleanup and initial spawn setup.
+2025-11-13 05:50:18 [INFO] OnMissionStart - Immediate STATIC Crate spawn scheduled in 15 seconds.
+2025-11-13 05:50:18 [INFO] OnMissionStart - Initial DYNAMIC Crate spawn scheduled in approx. 320 seconds.
+2025-11-13 05:50:18 [INFO] OnMissionStart - Scheduling first PERIODIC Crate Spawn Tick in approx. 3600 seconds.

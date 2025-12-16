@@ -1,0 +1,115 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Clothing - Hats",
+  "Icon": "Backpack",
+  "Color": "00FFFFFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "beaniehat_beige",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "beaniehat_black",
+        "beaniehat_blue",
+        "beaniehat_brown",
+        "beaniehat_green",
+        "beaniehat_grey",
+        "beaniehat_pink",
+        "beaniehat_red"
+      ]
+    },
+    {
+      "ClassName": "booniehat_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "booniehat_blue",
+        "booniehat_dpm",
+        "booniehat_dubok",
+        "booniehat_flecktran",
+        "booniehat_navyblue",
+        "booniehat_olive",
+        "booniehat_orange",
+        "booniehat_red",
+        "booniehat_tan",
+        "booniehat_winter"
+      ]
+    },
+    {
+      "ClassName": "cowboyhat_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cowboyhat_brown",
+        "cowboyhat_darkbrown",
+        "cowboyhat_green"
+      ]
+    },
+    {
+      "ClassName": "fog_ronin_hat_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ronin_hat"
+      ]
+    },
+    {
+      "ClassName": "santashat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sherpahat_black",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "sherpahat_blue",
+        "sherpahat_red"
+      ]
+    },
+    {
+      "ClassName": "witchhat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

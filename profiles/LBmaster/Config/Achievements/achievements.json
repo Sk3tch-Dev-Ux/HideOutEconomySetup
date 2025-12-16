@@ -1,0 +1,2162 @@
+{
+    "version": 3,
+    "achievements": [
+        {
+            "name": "player1",
+            "title": "Bambikiller",
+            "titleColor": -1,
+            "description": "Other players are annoying, right?\nGo and kill 10 players",
+            "icon": "LBmaster_Achievements\\gui\\icons\\playerkill.paa",
+            "triggers": [
+                "kill:player"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "player2",
+            "title": "Playerkiller",
+            "titleColor": -1,
+            "description": "Other players are annoying, right?\nGo and kill 20 players",
+            "icon": "LBmaster_Achievements\\gui\\icons\\playerkill.paa",
+            "triggers": [
+                "kill:player"
+            ],
+            "number": 20,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "player3",
+            "title": "Playerdestroyer",
+            "titleColor": -1,
+            "description": "Other players are annoying, right?\nGo and kill 50 players",
+            "icon": "LBmaster_Achievements\\gui\\icons\\playerkill.paa",
+            "triggers": [
+                "kill:player"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "player4",
+            "title": "Bandit",
+            "titleColor": -1,
+            "description": "Other players are annoying, right?\nGo and kill 100 players",
+            "icon": "LBmaster_Achievements\\gui\\icons\\playerkill.paa",
+            "triggers": [
+                "kill:player"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "player5",
+            "title": "Bandit-Hero",
+            "titleColor": -1,
+            "description": "Other players are annoying, right?\nGo and kill 500 players",
+            "icon": "LBmaster_Achievements\\gui\\icons\\playerkill.paa",
+            "triggers": [
+                "kill:player"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "player6",
+            "title": "Unstoppable",
+            "titleColor": -256,
+            "description": "Other players are annoying, right?\nGo and kill 1000 players",
+            "icon": "LBmaster_Achievements\\gui\\icons\\playerkill.paa",
+            "triggers": [
+                "kill:player"
+            ],
+            "number": 1000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "zombie1",
+            "title": "Zombieslayer",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 50 Zombies on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\zombie.paa",
+            "triggers": [
+                "kill:zombie"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "zombie2",
+            "title": "Zombievanquisher",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 100 Zombies on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\zombie.paa",
+            "triggers": [
+                "kill:zombie"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "zombie3",
+            "title": "Zombiedestroyer",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 500 Zombies on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\zombie.paa",
+            "triggers": [
+                "kill:zombie"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "zombie4",
+            "title": "Zombieannihilator",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 1000 Zombies on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\zombie.paa",
+            "triggers": [
+                "kill:zombie"
+            ],
+            "number": 1000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "zombie5",
+            "title": "Zombieobliterator",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 5000 Zombies on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\zombie.paa",
+            "triggers": [
+                "kill:zombie"
+            ],
+            "number": 5000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "animal1",
+            "title": "Animalslayer",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 10 Animals on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\cow.paa",
+            "triggers": [
+                "kill:animal"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "animal2",
+            "title": "Animalvanquisher",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 50 Animals on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\cow.paa",
+            "triggers": [
+                "kill:animal"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "animal3",
+            "title": "Animaldestroyer",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 100 Animals on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\cow.paa",
+            "triggers": [
+                "kill:animal"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "animal4",
+            "title": "Animalannihilator",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 500 Animals on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\cow.paa",
+            "triggers": [
+                "kill:animal"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "animal5",
+            "title": "Animalobliterator",
+            "titleColor": -1,
+            "description": "Fight your way through the apocalypse and kill 1000 Animals on your way. Make sure to get them all!",
+            "icon": "LBmaster_Achievements\\gui\\icons\\cow.paa",
+            "triggers": [
+                "kill:animal"
+            ],
+            "number": 1000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_foot1",
+            "title": "Let's Walk",
+            "titleColor": -1,
+            "description": "Run 10km by foot",
+            "icon": "LBmaster_Achievements\\gui\\icons\\walk.paa",
+            "triggers": [
+                "distance:walk"
+            ],
+            "number": 10,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_foot2",
+            "title": "Jogging In the Park",
+            "titleColor": -1,
+            "description": "Run 50km by foot",
+            "icon": "LBmaster_Achievements\\gui\\icons\\walk.paa",
+            "triggers": [
+                "distance:walk"
+            ],
+            "number": 50,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_foot3",
+            "title": "Walk, Jog or Sprint?",
+            "titleColor": -1,
+            "description": "Run 100km by foot",
+            "icon": "LBmaster_Achievements\\gui\\icons\\walk.paa",
+            "triggers": [
+                "distance:walk"
+            ],
+            "number": 100,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_foot4",
+            "title": "Sprinter-Action",
+            "titleColor": -1,
+            "description": "Run 500km by foot",
+            "icon": "LBmaster_Achievements\\gui\\icons\\walk.paa",
+            "triggers": [
+                "distance:walk"
+            ],
+            "number": 500,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_foot5",
+            "title": "Running-Simulator",
+            "titleColor": -1,
+            "description": "Run 1000km by foot",
+            "icon": "LBmaster_Achievements\\gui\\icons\\walk.paa",
+            "triggers": [
+                "distance:walk"
+            ],
+            "number": 1000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_foot6",
+            "title": "Around the World",
+            "titleColor": -65536,
+            "description": "Run to the earth core (6371km) by foot",
+            "icon": "LBmaster_Achievements\\gui\\icons\\walk.paa",
+            "triggers": [
+                "distance:walk"
+            ],
+            "number": 6371,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car1",
+            "title": "Finally a Car",
+            "titleColor": -1,
+            "description": "Travel 10km by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 10,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car2",
+            "title": "Drive around the hood",
+            "titleColor": -1,
+            "description": "Travel 50km by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 50,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car3",
+            "title": "Around Cheranrus",
+            "titleColor": -1,
+            "description": "Travel 100km by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 100,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car4",
+            "title": "Formula 1",
+            "titleColor": -1,
+            "description": "Travel 500km by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 500,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car5",
+            "title": "Speedy Gonzales",
+            "titleColor": -1,
+            "description": "Travel 1000km by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 1000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car6",
+            "title": "World-Cup",
+            "titleColor": -1,
+            "description": "Travel 10000km by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 10000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_car7",
+            "title": "Drive Around the World",
+            "titleColor": -65536,
+            "description": "Travel around the world (40075km) by car",
+            "icon": "LBmaster_Achievements\\gui\\icons\\drive.paa",
+            "triggers": [
+                "distance:drive"
+            ],
+            "number": 40075,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat1",
+            "title": "Finally a Boat",
+            "titleColor": -1,
+            "description": "Sail 10km by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 10,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat2",
+            "title": "Better than swimming",
+            "titleColor": -1,
+            "description": "Sail 50km by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 50,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat3",
+            "title": "Water everywhere",
+            "titleColor": -1,
+            "description": "Sail 100km by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 100,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat4",
+            "title": "On the high seas",
+            "titleColor": -1,
+            "description": "Sail 500km by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 500,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat5",
+            "title": "Be careful of pirates!",
+            "titleColor": -1,
+            "description": "Sail 1000km by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 1000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat6",
+            "title": "Christopher Columbus",
+            "titleColor": -1,
+            "description": "Sail 10000km by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 10000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_boat7",
+            "title": "Sailing Around the World",
+            "titleColor": -65536,
+            "description": "Sail around the world (40075km) by boat",
+            "icon": "LBmaster_Achievements\\gui\\icons\\boat.paa",
+            "triggers": [
+                "distance:boat"
+            ],
+            "number": 40075,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli1",
+            "title": "This is fast",
+            "titleColor": -1,
+            "description": "Fly 10km by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 10,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli2",
+            "title": "Fly around the hood",
+            "titleColor": -1,
+            "description": "Fly 50km by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 50,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli3",
+            "title": "Around Cheranrus",
+            "titleColor": -1,
+            "description": "Fly 100km by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 100,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli4",
+            "title": "Helicopter",
+            "titleColor": -1,
+            "description": "Fly 500km by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 500,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli5",
+            "title": "Flying is fast",
+            "titleColor": -1,
+            "description": "Fly 1000km by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 1000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli6",
+            "title": "Maybe not too fast",
+            "titleColor": -1,
+            "description": "Fly 10000km by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 10000,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "run_heli7",
+            "title": "Fly Around the World",
+            "titleColor": -65536,
+            "description": "Fly around the world (40075km) by heli",
+            "icon": "LBmaster_Achievements\\gui\\icons\\heli.paa",
+            "triggers": [
+                "distance:fly"
+            ],
+            "number": 40075,
+            "numberUnit": "km",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet1",
+            "title": "One Magazine",
+            "titleColor": -1,
+            "description": "Shoot 50 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet1.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet2",
+            "title": "Shooter",
+            "titleColor": -1,
+            "description": "Shoot 100 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet1.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet3",
+            "title": "A few Mags",
+            "titleColor": -1,
+            "description": "Shoot 200 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet2.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 200,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet4",
+            "title": "Not too much",
+            "titleColor": -1,
+            "description": "Shoot 500 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet2.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet5",
+            "title": "Running and gunning",
+            "titleColor": -1,
+            "description": "Shoot 1000 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet3.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 1000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet6",
+            "title": "Firearm Specialist",
+            "titleColor": -1,
+            "description": "Shoot 5000 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet3.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 5000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "bullet7",
+            "title": "Machinegunner",
+            "titleColor": -65536,
+            "description": "Shoot 10000 bullets with any weapon",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bullet4.paa",
+            "triggers": [
+                "bullet:shot"
+            ],
+            "number": 10000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 1,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c41",
+            "title": "Let's raid!",
+            "titleColor": -1,
+            "description": "Place, arm and explode your first C4",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c42",
+            "title": "A few doors",
+            "titleColor": -1,
+            "description": "Place, arm and explode 5 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 5,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c43",
+            "title": "You got the base?",
+            "titleColor": -1,
+            "description": "Place, arm and explode 10 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c44",
+            "title": "The base is down!",
+            "titleColor": -1,
+            "description": "Place, arm and explode 25 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 25,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c45",
+            "title": "A few Bases",
+            "titleColor": -1,
+            "description": "Place, arm and explode 50 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c46",
+            "title": "Already made some enemies",
+            "titleColor": -1,
+            "description": "Place, arm and explode 100 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c47",
+            "title": "Raiding expert",
+            "titleColor": -1,
+            "description": "Place, arm and explode 250 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 250,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "c48",
+            "title": "Raided them all",
+            "titleColor": -1,
+            "description": "Place, arm and explode 1000 C4s",
+            "icon": "LBmaster_Achievements\\gui\\icons\\c4.paa",
+            "triggers": [
+                "c4:explode"
+            ],
+            "number": 1000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "tree1",
+            "title": "Chopper",
+            "titleColor": -1,
+            "description": "Cut down 10 Trees",
+            "icon": "LBmaster_Achievements\\gui\\icons\\axe.paa",
+            "triggers": [
+                "action:ActionMineTree:ruined-target"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "tree2",
+            "title": "Wood Cutter",
+            "titleColor": -1,
+            "description": "Cut down 50 Trees",
+            "icon": "LBmaster_Achievements\\gui\\icons\\axe.paa",
+            "triggers": [
+                "action:ActionMineTree:ruined-target"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "tree3",
+            "title": "Professional Base builder",
+            "titleColor": -1,
+            "description": "Cut down 100 Trees",
+            "icon": "LBmaster_Achievements\\gui\\icons\\axe.paa",
+            "triggers": [
+                "action:ActionMineTree:ruined-target"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "tree4",
+            "title": "Wood wood wood",
+            "titleColor": -1,
+            "description": "Cut down 500 Trees",
+            "icon": "LBmaster_Achievements\\gui\\icons\\axe.paa",
+            "triggers": [
+                "action:ActionMineTree:ruined-target"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "tree5",
+            "title": "No more trees",
+            "titleColor": -1,
+            "description": "Cut down 1000 Trees",
+            "icon": "LBmaster_Achievements\\gui\\icons\\axe.paa",
+            "triggers": [
+                "action:ActionMineTree:ruined-target"
+            ],
+            "number": 1000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "killstreak1",
+            "title": "Good start",
+            "titleColor": -1,
+            "description": "Kill 3 players without dying",
+            "icon": "LBmaster_Achievements\\gui\\icons\\killstreak.paa",
+            "triggers": [
+                "player:killstreak"
+            ],
+            "number": 3,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "killstreak2",
+            "title": "Unstoppable",
+            "titleColor": -1,
+            "description": "Kill 5 players without dying",
+            "icon": "LBmaster_Achievements\\gui\\icons\\killstreak.paa",
+            "triggers": [
+                "player:killstreak"
+            ],
+            "number": 5,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "killstreak3",
+            "title": "Catch them all",
+            "titleColor": -1,
+            "description": "Kill 8 players without dying",
+            "icon": "LBmaster_Achievements\\gui\\icons\\killstreak.paa",
+            "triggers": [
+                "player:killstreak"
+            ],
+            "number": 8,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "killstreak4",
+            "title": "Strike!",
+            "titleColor": -1,
+            "description": "Kill 10 players without dying",
+            "icon": "LBmaster_Achievements\\gui\\icons\\killstreak.paa",
+            "triggers": [
+                "player:killstreak"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "killstreak5",
+            "title": "Serial Killer",
+            "titleColor": -1,
+            "description": "Kill 15 players without dying",
+            "icon": "LBmaster_Achievements\\gui\\icons\\killstreak.paa",
+            "triggers": [
+                "player:killstreak"
+            ],
+            "number": 15,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "killstreak6",
+            "title": "Invincible",
+            "titleColor": -1,
+            "description": "Kill 20 players without dying",
+            "icon": "LBmaster_Achievements\\gui\\icons\\killstreak.paa",
+            "triggers": [
+                "player:killstreak"
+            ],
+            "number": 20,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "quests1",
+            "title": "The Grind begins",
+            "titleColor": -1,
+            "description": "Finish 5 Quests",
+            "icon": "LBmaster_Achievements\\gui\\icons\\quest.paa",
+            "triggers": [
+                "quests:finished"
+            ],
+            "number": 5,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "quests2",
+            "title": "Questmaster",
+            "titleColor": -1,
+            "description": "Finish 10 Quests",
+            "icon": "LBmaster_Achievements\\gui\\icons\\quest.paa",
+            "triggers": [
+                "quests:finished"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "quests3",
+            "title": "The easy ones",
+            "titleColor": -1,
+            "description": "Finish 20 Quests",
+            "icon": "LBmaster_Achievements\\gui\\icons\\quest.paa",
+            "triggers": [
+                "quests:finished"
+            ],
+            "number": 20,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "quests4",
+            "title": "Quests for life",
+            "titleColor": -1,
+            "description": "Finish 30 Quests",
+            "icon": "LBmaster_Achievements\\gui\\icons\\quest.paa",
+            "triggers": [
+                "quests:finished"
+            ],
+            "number": 30,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "quests5",
+            "title": "The Grind is real",
+            "titleColor": -1,
+            "description": "Finish 40 Quests",
+            "icon": "LBmaster_Achievements\\gui\\icons\\quest.paa",
+            "triggers": [
+                "quests:finished"
+            ],
+            "number": 40,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "quests6",
+            "title": "Taskmaster",
+            "titleColor": -1,
+            "description": "Finish 50 Quests",
+            "icon": "LBmaster_Achievements\\gui\\icons\\quest.paa",
+            "triggers": [
+                "quests:finished"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash1",
+            "title": "Hidden in the bush",
+            "titleColor": -1,
+            "description": "Find and open 5 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 5,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash2",
+            "title": "Hide and seek",
+            "titleColor": -1,
+            "description": "Find and open 10 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash3",
+            "title": "Gonna find them all",
+            "titleColor": -1,
+            "description": "Find and open 20 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 20,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash4",
+            "title": "Lucky devil",
+            "titleColor": -1,
+            "description": "Find and open 50 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash5",
+            "title": "Eagle eye",
+            "titleColor": -1,
+            "description": "Find and open 100 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash6",
+            "title": "ESP or skill?",
+            "titleColor": -1,
+            "description": "Find and open 200 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 200,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "hiddenStash7",
+            "title": "Treasure Hunter",
+            "titleColor": -1,
+            "description": "Find and open 500 Hidden Stashes",
+            "icon": "LBmaster_Achievements\\gui\\icons\\bush.paa",
+            "triggers": [
+                "action:ActionOpenHiddenStash"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop1",
+            "title": "Love is in the air",
+            "titleColor": -1,
+            "description": "Find and loot 1 Airdrop",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop2",
+            "title": "Another one",
+            "titleColor": -1,
+            "description": "Find and loot 2 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 2,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop3",
+            "title": "It's raining Men",
+            "titleColor": -1,
+            "description": "Find and loot 5 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 5,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop4",
+            "title": "Look at the sky",
+            "titleColor": -1,
+            "description": "Find and loot 10 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop5",
+            "title": "Let the sky fall",
+            "titleColor": -1,
+            "description": "Find and loot 20 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 20,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop6",
+            "title": "Crates from the sky",
+            "titleColor": -1,
+            "description": "Find and loot 50 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop7",
+            "title": "Airdrop Hero",
+            "titleColor": -1,
+            "description": "Find and loot 100 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "airdrop8",
+            "title": "He knows the pilot",
+            "titleColor": -1,
+            "description": "Find and loot 500 Airdrops",
+            "icon": "LBmaster_Achievements\\gui\\icons\\airdrop.paa",
+            "triggers": [
+                "looted:parent-classname:CarePackage_black",
+                "looted:parent-classname:CarePackage_red",
+                "looted:parent-classname:CarePackage_green",
+                "looted:parent-classname:CarePackage_digital_black",
+                "looted:parent-classname:CarePackage_typhon",
+                "looted:parent-classname:CarePackage_blood_moon"
+            ],
+            "number": 500,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms1",
+            "title": "Bandit",
+            "titleColor": -1,
+            "description": "Rob 1 ATM",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms2",
+            "title": "Robbin Hood",
+            "titleColor": -1,
+            "description": "Rob 3 ATMs",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 3,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms3",
+            "title": "Is this legal?",
+            "titleColor": -1,
+            "description": "Rob 5 ATMs",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 5,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms4",
+            "title": "Why a credit card?",
+            "titleColor": -1,
+            "description": "Rob 10 ATMs",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 10,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms5",
+            "title": "How to become a millionaire",
+            "titleColor": -1,
+            "description": "Rob 20 ATMs",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 20,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms6",
+            "title": "Money, Money, Money",
+            "titleColor": -1,
+            "description": "Rob 50 ATMs",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 50,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "atms7",
+            "title": "Most wanted Robber",
+            "titleColor": -1,
+            "description": "Rob 100 ATMs",
+            "icon": "LBmaster_Achievements\\gui\\icons\\crowbar.paa",
+            "triggers": [
+                "atm:robbed"
+            ],
+            "number": 100,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 1,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "money1",
+            "title": "I'm poor",
+            "titleColor": -1,
+            "description": "Have 10k on your personal Bank account",
+            "icon": "LBmaster_Achievements\\gui\\icons\\money.paa",
+            "triggers": [
+                "bank:balance:personal"
+            ],
+            "number": 10000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "money2",
+            "title": "Sold some stuff",
+            "titleColor": -1,
+            "description": "Have 50k on your personal Bank account",
+            "icon": "LBmaster_Achievements\\gui\\icons\\money.paa",
+            "triggers": [
+                "bank:balance:personal"
+            ],
+            "number": 50000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "money3",
+            "title": "Could sell my liver",
+            "titleColor": -1,
+            "description": "Have 100k on your personal Bank account",
+            "icon": "LBmaster_Achievements\\gui\\icons\\money.paa",
+            "triggers": [
+                "bank:balance:personal"
+            ],
+            "number": 100000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "money4",
+            "title": "Sold my soul",
+            "titleColor": -1,
+            "description": "Have 500k on your personal Bank account",
+            "icon": "LBmaster_Achievements\\gui\\icons\\money.paa",
+            "triggers": [
+                "bank:balance:personal"
+            ],
+            "number": 500000,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "groupleader",
+            "title": "Group Leader",
+            "titleColor": -1,
+            "description": "Create a group and become a group leader",
+            "icon": "LBmaster_Achievements\\gui\\icons\\group.paa",
+            "triggers": [
+                "ag:group:created:once"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "transfermoney",
+            "title": "There you go",
+            "titleColor": -1,
+            "description": "Transfer money to another player via the ATM",
+            "icon": "LBmaster_Achievements\\gui\\icons\\money_transfer.paa",
+            "triggers": [
+                "bank:transfer:once"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "flagpole",
+            "title": "Basebuilder",
+            "titleColor": -1,
+            "description": "Place down a Flagpole",
+            "icon": "LBmaster_Achievements\\gui\\icons\\flag.paa",
+            "triggers": [
+                "action:ActionDeployObject:hologram:TerritoryFlagKitPlacing"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "inventory",
+            "title": "That's me?",
+            "titleColor": -1,
+            "description": "Open your Inventory",
+            "icon": "LBmaster_Achievements\\gui\\icons\\backpack.paa",
+            "triggers": [
+                "inventory:open"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "sleeping_bag_placed",
+            "title": "Go to sleep",
+            "titleColor": -1,
+            "description": "Place down a sleeping Bag",
+            "icon": "LBmaster_Achievements\\gui\\icons\\sleepingbag.paa",
+            "triggers": [
+                "action:ActionDeployObject:hologram:LBS_SleepingBagOldPlacing",
+                "action:ActionDeployObject:hologram:LBS_SleepingBagNewPlacing"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "repaint_placed",
+            "title": "Let's paint",
+            "titleColor": -1,
+            "description": "Place down a repaint workbench",
+            "icon": "LBmaster_Achievements\\gui\\icons\\spraycan.paa",
+            "triggers": [
+                "action:ActionDeployObject:item:Repaint_Workbench_Box"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "respawn_all",
+            "title": "I know everyone now",
+            "titleColor": -1,
+            "description": "Respawn at each possible spawn point at least once",
+            "icon": "LBmaster_Achievements\\gui\\icons\\spawn_all.paa",
+            "triggers": [
+                "spawnselect:spawn:Chernogorsk:once",
+                "spawnselect:spawn:Elektrozavodsk:once",
+                "spawnselect:spawn:Berenzino:once"
+            ],
+            "number": 3,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "respawn_base",
+            "title": "I'm back home",
+            "titleColor": -1,
+            "description": "Respawn at a sleeping bag",
+            "icon": "LBmaster_Achievements\\gui\\icons\\spawn_home.paa",
+            "triggers": [
+                "spawnselect:spawn-bag"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 0,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "eat_all",
+            "title": "These cans taste so good",
+            "titleColor": -1,
+            "description": "Eat each type of canned food",
+            "icon": "LBmaster_Achievements\\gui\\icons\\can.paa",
+            "triggers": [
+                "action:ActionEatCan:item:TunaCan_Opened:once",
+                "action:ActionEatCan:item:BakedBeansCan_Opened:once",
+                "action:ActionEatCan:item:PeachesCan_Opened:once",
+                "action:ActionEatCan:item:TacticalBaconCan_Opened:once",
+                "action:ActionEatCan:item:SpaghettiCan_Opened:once",
+                "action:ActionEatCan:item:SardinesCan_Opened:once"
+            ],
+            "number": 6,
+            "numberUnit": "",
+            "hidden": 1,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 0,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        },
+        {
+            "name": "sniper",
+            "title": "Sniper",
+            "titleColor": -65536,
+            "description": "Kill a player from more than 700m away",
+            "icon": "LBmaster_Achievements\\gui\\icons\\sniper.paa",
+            "triggers": [
+                "$kill::700::1:0"
+            ],
+            "number": -1,
+            "numberUnit": "",
+            "hidden": 1,
+            "hideProgress": 0,
+            "publicAnnoucement": 0,
+            "canUseTitle": 1,
+            "rewardMoney": 0,
+            "rewardPreset": "",
+            "sendWebhook": 1
+        }
+    ]
+}

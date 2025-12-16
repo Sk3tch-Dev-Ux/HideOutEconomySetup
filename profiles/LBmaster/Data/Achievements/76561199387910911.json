@@ -1,0 +1,34 @@
+{
+    "version": 0,
+    "steamid": "76561199387910911",
+    "name": "sammy",
+    "selectedTitle": "",
+    "achievements": [
+        "bullet1",
+        "flagpole",
+        "groupleader",
+        "inventory",
+        "money1",
+        "money2",
+        "money3",
+        "run_foot1",
+        "run_foot2",
+        "sleeping_bag_placed",
+        "zombie1"
+    ],
+    "trigger": {
+        "quests:finished": 1,
+        "bank:balance:personal": 347747,
+        "action:ActionDeployObject:hologram:TerritoryFlagKitPlacing": 1,
+        "kill:zombie": 85,
+        "kill:animal": 3,
+        "action:ActionDeployObject:hologram:LBS_SleepingBagNewPlacing": 1,
+        "ag:group:created:once": 1,
+        "inventory:open": 1,
+        "distance:walk": 52,
+        "spawnselect:spawn:Chernogorsk:once": 1,
+        "bullet:shot": 80
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

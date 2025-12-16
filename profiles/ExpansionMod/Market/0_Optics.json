@@ -1,0 +1,695 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Attachments - Optics",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "a6_acogoptic_black",
+            "MaxPriceThreshold": 68000,
+            "MinPriceThreshold": 68000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_acogoptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_acogoptic_black_docteroptic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_acogoptic_tan_docteroptic"
+            ]
+        },
+        {
+            "ClassName": "a6_acogoptic_black_rmroptic_black",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_acogoptic_tan_rmroptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_acogoptic_black_sigsauerromeo2_optic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_acogoptic_tan_sigsauerromeo2_optic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_aimpointcompm4optic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_ak_dustcover_optic_mount",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_barskaoptic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_barskaoptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_collimatoroptic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_docteroptic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_docteroptic_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_elcanspecteroptic",
+            "MaxPriceThreshold": 68000,
+            "MinPriceThreshold": 68000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_elcanspecteroptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_eotechhws512_optic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_eotechoptic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_eotechoptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_hamr_optic",
+            "MaxPriceThreshold": 68000,
+            "MinPriceThreshold": 68000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_hensoldtff_optic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_leupoldmark6optic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_leupoldoptic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_leupoldoptic_docteroptic_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_leupoldoptic_rmroptic_black_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_rmroptic_tan_mrdmount"
+            ]
+        },
+        {
+            "ClassName": "a6_leupoldoptic_sigsauerromeo0_optic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_leupoldoptic_sigsauerromeo2_optic_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_leupoldoptic_sigsauerromeo2_optic_tan_mrdmount"
+            ]
+        },
+        {
+            "ClassName": "a6_leupoldoptic_sigsauerromeoxloptic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_matchprooptic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_mossberg_opticmount",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_mossberg_shroud_rail",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_mrs_optic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_nfatacrf1_optic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_nxsoptic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mount_fal",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mount_m16",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mount_mp5",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mount_sks",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mount9a91",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mountak",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_optic_mountsvd",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_pk_optic_mount",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_razor_amg_optic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_rmroptic_black",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_rmroptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_rmroptic_black_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_schmidtbenderpmii_optic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_schmidtbenderpmii_tan_optic"
+            ]
+        },
+        {
+            "ClassName": "a6_sigsauerbravo4optic",
+            "MaxPriceThreshold": 68000,
+            "MinPriceThreshold": 68000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauerbravo4optic_docteroptic_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauerbravo4optic_rmroptic_black_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_sigsauerbravo4optic_rmroptic_tan_mrdmount"
+            ]
+        },
+        {
+            "ClassName": "a6_sigsauerbravo4optic_sigsauerromeo0_optic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauerbravo4optic_sigsauerromeo2_optic_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_sigsauerromeo2_optic_tan_mrdmount"
+            ]
+        },
+        {
+            "ClassName": "a6_sigsauerbravo4optic_sigsauerromeoxloptic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauerromeo0_optic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauerromeo2_optic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_sigsauerromeo2_optic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_sigsauerromeo2_optic_mrdmount",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_sigsauerromeo2_optic_tan_mrdmount"
+            ]
+        },
+        {
+            "ClassName": "a6_sigsauerromeo5optic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauerromeoxloptic",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_sigsauertango6t_optic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_sigsauertango6t_tan_optic"
+            ]
+        },
+        {
+            "ClassName": "a6_spitfire_optic",
+            "MaxPriceThreshold": 68000,
+            "MinPriceThreshold": 68000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_vortexoptic",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_vortexoptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_vortexrazorgeniioptic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_vortexrazoroptic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_vortexrazoroptic_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_vuduoptic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_xtri_optic",
+            "MaxPriceThreshold": 88000,
+            "MinPriceThreshold": 88000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

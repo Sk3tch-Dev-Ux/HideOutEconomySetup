@@ -1,0 +1,63 @@
+{
+    "DebugBuild": 0,
+    "ADMLogging": 1,
+    "ServerNotificationTitle": "DoorLockSystem Alerts",
+    "ServerNotificationIcon": "set:dayz_gui image:open",
+    "ServerNotificationTime": 3.0,
+    "GlobalAutomaticRelockTime": 3600,
+    "AutomaticRelockRadiusCheck": 20.0,
+    "AutomaticRelockTimeCheck": 10,
+    "TeleportLoggedOutPlayers": 1,
+    "TeleportLoggedOutRadiusCheck": 20.0,
+    "DisableLockPicksForLockedDoors": 1,
+    "LockPickMessage": "You can't pick this lock, it's too advanced.",
+    "DisableDamageForLockedDoors": 1,
+    "InfiniteUseColorKeycards": 1,
+    "LockedDoorLocations": [
+        {
+            "building_x": 1688.0740966796876,
+            "building_y": 14212.7763671875,
+            "building_z": 455.49609375,
+            "door_index": 16,
+            "LocationName": "Tisy Underground Room",
+            "BuildingClassName": "Land_Tisy_HQ",
+            "KeyClassName": "DLS_KeyCard_Labs_Black",
+            "WrongKeyMessage": "Didn't work, seems I need a Black Keycard for this...",
+            "WrongKeySound": "Access_Denied",
+            "UnlockSound": "Alarm_Military",
+            "ServerNotificationText": "",
+            "TeleportLoggedOutPlayers": 1,
+            "SingleAutomaticRelockTime": 0
+        },
+        {
+            "building_x": 4047.376220703125,
+            "building_y": 11712.568359375,
+            "building_z": 380.8150939941406,
+            "door_index": 4,
+            "LocationName": "Bash Underground",
+            "BuildingClassName": "Land_Mil_Barracks5_Basement",
+            "KeyClassName": "DLS_KeyCard_Labs_Access",
+            "WrongKeyMessage": "Didn't work, seems I need an Access Keycard for this...",
+            "WrongKeySound": "Access_Denied",
+            "UnlockSound": "Alarm_Police",
+            "ServerNotificationText": "",
+            "TeleportLoggedOutPlayers": 1,
+            "SingleAutomaticRelockTime": 0
+        },
+        {
+            "building_x": 2206.72119140625,
+            "building_y": 3274.464599609375,
+            "building_z": 96.24073028564453,
+            "door_index": 6,
+            "LocationName": "Pavlovo Office",
+            "BuildingClassName": "Land_Office2",
+            "KeyClassName": "DLS_Key_01",
+            "WrongKeyMessage": "Didn't work, the door is labeled Office Key...",
+            "WrongKeySound": "Access_Denied",
+            "UnlockSound": "Alarm_Bank",
+            "ServerNotificationText": "",
+            "TeleportLoggedOutPlayers": 1,
+            "SingleAutomaticRelockTime": 0
+        }
+    ]
+}

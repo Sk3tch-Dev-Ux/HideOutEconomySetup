@@ -1,0 +1,12 @@
+{
+  "ConfigVersion": 28,
+  "ID": 4,
+  "ObjectiveType": 11,
+  "ObjectiveText": "Craft the splint",
+  "TimeLimit": -1,
+  "ItemNames": [
+    "Splint"
+  ],
+  "ExecutionAmount": 1,
+  "Active": 1
+}

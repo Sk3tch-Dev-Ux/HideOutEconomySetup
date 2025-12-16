@@ -1,0 +1,23 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Armor - Helmets",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "hideout_maska_black",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 56000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "hideout_maska_camo"
+            ]
+        }
+    ]
+}

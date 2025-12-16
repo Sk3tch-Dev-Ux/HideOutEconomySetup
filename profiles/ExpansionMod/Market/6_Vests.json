@@ -1,0 +1,67 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Armor - Vests",
+  "Icon": "Soldier",
+  "Color": "FF6A00FF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_vest_gen4_black",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_gen4_emr",
+        "fog_vest_gen4_green",
+        "fog_vest_gen4_marpat",
+        "fog_vest_gen4_nwu",
+        "fog_vest_gen4_tan",
+        "fog_vest_gen4_ucp"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_osprey_black",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_osprey_cb",
+        "fog_vest_osprey_grey",
+        "fog_vest_osprey_m81",
+        "fog_vest_osprey_mc",
+        "fog_vest_osprey_mc_black",
+        "fog_vest_osprey_mcal",
+        "fog_vest_osprey_mcb",
+        "fog_vest_osprey_mct",
+        "fog_vest_osprey_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_thor_black",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_thor_emr",
+        "fog_vest_thor_green",
+        "fog_vest_thor_m81",
+        "fog_vest_thor_mc",
+        "fog_vest_thor_mcb",
+        "fog_vest_thor_tan"
+      ]
+    }
+  ]
+}

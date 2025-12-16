@@ -1,0 +1,132 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-11-13_5-51-45
+====================================================================================
+5:51:45 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+5:51:45 | [PermissionManager] Perm (FreeCamera) has been registered!
+5:51:45 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuItemManager) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuServerManager) has been registered!
+5:51:45 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+5:51:45 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+5:51:45 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+5:51:45 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+5:51:45 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+5:51:45 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+5:51:45 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+5:51:45 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+5:51:45 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+5:51:45 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuBansManager) has been registered!
+5:51:45 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+5:51:45 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+5:51:45 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+5:51:45 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+5:51:45 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+5:51:45 | [PermissionManager] Adding Super Admin (76561199240649723)
+5:51:45 | [PermissionManager] Adding Super Admin (76561199011835169)
+5:51:45 | [PermissionManager] Loaded UserGroups.json
+5:51:45 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+5:51:45 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+5:51:45 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+5:51:45 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+5:51:45 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+5:51:45 | Building Sets Loaded: 0
+5:51:45 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+5:51:45 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+5:55:12 | Player "Syntactix" (steamId=76561199240649723) connected to server!
+5:56:12 | "76561199240649723" (steamid=76561199240649723) teleported to (pos=<8164.169922, 474.040009, 9090.290039>)
+5:56:12 | "Syntactix": (steamid=76561199240649723) teleported to (pos=8164.17,0,9090.29)
+5:56:16 | Player "Hellcatz" (steamId=76561199011835169) connected to server!
+5:56:56 | [WeatherManager] Send Data Count is 0
+5:56:58 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4553.689453, 317.696747, 8284.876953>)
+5:56:59 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4557.652344, 317.700012, 8300.040039>)
+5:57:4 | [Time Manager] Setting Date to 2025/9/21 9:12
+5:57:5 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4571.948730, 318.303345, 8316.608398>)
+5:57:6 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4585.763184, 319.077118, 8319.387695>)
+5:57:8 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4593.111328, 319.442383, 8332.555664>)
+5:57:24 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4589.862793, 319.226318, 8346.420898>)
+5:57:25 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<4592.695801, 319.638580, 8357.447266>)
+5:58:18 | "Syntactix" (steamid=76561199240649723) /heal used on: "Syntactix" (steamid=76561199240649723)
+5:58:57 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_Spas12_Winter)
+5:59:3 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Ammo_12gaPellets)
+5:59:4 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Ammo_12gaPellets)
+5:59:4 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Ammo_12gaPellets)
+5:59:4 | "Syntactix" (steamid=76561199240649723) Spawned Item: (Ammo_12gaPellets)
+5:59:7 | "Syntactix" (steamid=76561199240649723) Spawned Item: (A6_Salvo12_Suppressor)
+5:59:15 | "Hellcatz" (steamid=76561199011835169) /heal used on: "Hellcatz" (steamid=76561199011835169)
+5:59:25 | "Syntactix" (steamid=76561199240649723) gave unlimited ammo to (steamid=76561199240649723)
+6:1:10 | "Syntactix" (steamid=76561199240649723) teleported to crosshair (pos=<1657.461792, 10.881602, 2201.705078>)
+6:3:9 | "Syntactix" (steamid=76561199240649723) Spawned Item: (RA_Blueprint)
+6:3:28 | Player "Syntactix" (steamId=76561199240649723) initiated disconnect process...
+6:3:48 | "Hellcatz" (steamid=76561199011835169) toggled freecam
+6:3:52 | "Hellcatz" (steamid=76561199011835169) teleported to crosshair (pos=<3701.541504, 402.000061, 5990.056641>)
+6:3:52 | "Hellcatz" (steamid=76561199011835169) toggled freecam

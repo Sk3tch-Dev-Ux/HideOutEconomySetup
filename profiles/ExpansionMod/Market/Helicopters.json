@@ -1,0 +1,82 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Helicopters",
+  "Icon": "Helicopter",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "heliblack_hawk_sib",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sibblack_hawk_blade1",
+        "sibblack_hawk_blade2",
+        "sibblack_hawk_blade3",
+        "sibblack_hawk_blade4",
+        "sibblack_hawk_bladem1",
+        "sibblack_hawk_bladem2",
+        "sibblack_hawk_bladem3",
+        "sibblack_hawk_bladem4",
+        "sibblack_hawk_door_1_1",
+        "sibblack_hawk_door_1_2",
+        "sibblack_hawk_door_2_1",
+        "sibblack_hawk_door_2_2",
+        "carbattery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "helimh6_sib",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sibmh6_blade1",
+        "sibmh6_blade2",
+        "sibmh6_blade3",
+        "sibmh6_blade4",
+        "sibmh6_blade5",
+        "sibmh6_bladem1",
+        "sibmh6_bladem2",
+        "carbattery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "helisib_hommade",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 35.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "hatchbackwheel",
+        "hatchbackwheel",
+        "hatchbackwheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sibmh6_blade1",
+        "sibmh6_blade2",
+        "sibmh6_blade3",
+        "sibmh6_blade4"
+      ],
+      "Variants": []
+    }
+  ]
+}

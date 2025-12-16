@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "inactiveGroupLifetimeDays": 30,
+    "inviteCooldownSeconds": 120,
+    "inviteActionEnabled": 0,
+    "inviteActionShowName": 0,
+    "preventFriendlyFire": 0,
+    "preventFriendlyFireOnlyInSameSubgroup": 0,
+    "groupManagePageObfuscatePlayernames": 1,
+    "enablePlayerList": 1,
+    "enablePlayerListDistance": 1,
+    "allowJoinSecondGroupTemporarily": 0,
+    "removeTemporaryMemberOnServerStart": 1,
+    "removeTemporaryMemberOnPlayerLeave": 0,
+    "enableSubGroups": 1,
+    "enableSubGroupSharedPlayerMapMarker": 0,
+    "enableSubGroupSharedPingMapMarker": 0,
+    "showLevelUpgradeBenefits": 1,
+    "subGroupNames": [
+        "Active",
+        "Inactive"
+    ],
+    "blacklistedGroupNames": []
+}

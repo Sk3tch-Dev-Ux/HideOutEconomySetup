@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 2,
+  "ClassName": "ExpansionQuestBoardLarge",
+  "Position": [
+    8174.813,
+    475.4441,
+    9104.318
+  ],
+  "Orientation": [
+    -114.4684,
+    0,
+    0
+  ],
+  "NPCName": "Quest Board",
+  "DefaultNPCText": "",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "NBCLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 1,
+  "Active": 1
+}

@@ -1,0 +1,15 @@
+{
+    "version": 0,
+    "steamid": "76561199044553986",
+    "name": "F1veOh",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "spawnselect:spawn:Chernogorsk:once": 1,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

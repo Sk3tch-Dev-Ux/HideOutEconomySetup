@@ -1,0 +1,190 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Attachments - Grips",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "a6_afg_grip_black",
+            "MaxPriceThreshold": 36000,
+            "MinPriceThreshold": 36000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_afg_grip_green",
+                "a6_afg_grip_grey",
+                "a6_afg_grip_red",
+                "a6_afg_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_b25u_rk2_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_bcmgfvg_grip",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_bcmgfvg_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_fortis_shift_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_fortis_shift_grip_green",
+                "a6_fortis_shift_grip_red",
+                "a6_fortis_shift_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_fortis_shift_short_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_fortis_shift_short_grip_green",
+                "a6_fortis_shift_short_grip_red",
+                "a6_fortis_shift_short_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_fsg2_grip_black",
+            "MaxPriceThreshold": 36000,
+            "MinPriceThreshold": 36000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_fsg2_grip_green",
+                "a6_fsg2_grip_grey",
+                "a6_fsg2_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_rk0_grip",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_rk2_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_rk6_grip",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_starkse5_grip",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_starkse5_grip_green",
+                "a6_starkse5_grip_grey",
+                "a6_starkse5_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_strikecobra_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_tangodown_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "a6_tangodown_grip_green",
+                "a6_tangodown_grip_tan"
+            ]
+        },
+        {
+            "ClassName": "a6_troy_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "a6_troymini_grip",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": 35.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

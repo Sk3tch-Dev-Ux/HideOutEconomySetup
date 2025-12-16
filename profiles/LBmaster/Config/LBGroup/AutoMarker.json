@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "enabled": 1,
+    "automaticMarkers": [
+        {
+            "itemnames": [
+                "LB_ATM_Green",
+                "LB_ATM_Orange"
+            ],
+            "markerIcon": "LBmaster_Groups/gui/icons/bank.paa",
+            "markerName": "ATM",
+            "yOffset": 1.0,
+            "updateInvervalSeconds": 0.0,
+            "display3D": 1,
+            "displayMap": 1,
+            "displayGPS": 1,
+            "markerColorFunction": "",
+            "markerColor": {
+                "a": 255,
+                "r": 0,
+                "g": 255,
+                "b": 0
+            },
+            "markerRadiusFunction": "",
+            "radius": 0.0,
+            "radiusColorFunction": "",
+            "radiusColor": {
+                "a": 255,
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "strikedRadius": 0,
+            "showOnlyInsideStaticMarkerRadius": 0
+        }
+    ]
+}

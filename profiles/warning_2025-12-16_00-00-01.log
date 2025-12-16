@@ -1,0 +1,73 @@
+---------------------------------------------
+Log warning_2025-12-16_00-00-01.log started at 2025-12-16 00:00:41
+
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.737 [WARNING] :: Market configuration warning: Magazine a6_mag_9a91_20rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.738 [WARNING] :: Market configuration warning: Magazine a6_mag_gripped_pp19bizon_64rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_380) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.739 [WARNING] :: Market configuration warning: Magazine a6_mag_vikhr_30rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.740 [WARNING] :: Market configuration warning: Magazine a6_mag_pp19bizon_64rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_380) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.740 [WARNING] :: Market configuration warning: Magazine a6_mag_ump45_25rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_45ACP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.740 [WARNING] :: Market configuration warning: Magazine a6_mag_val_red_20rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.741 [WARNING] :: Market configuration warning: Magazine a6_mag_vss_10rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_val_20rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_sr3_red_30rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_m1911_7rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_45ACP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.742 [WARNING] :: Market configuration warning: Magazine a6_mag_sr3_30rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.743 [WARNING] :: Market configuration warning: Magazine a6_mag_vss_red_10rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_9x39 or Ammo_9x39AP) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.743 [WARNING] :: Market configuration warning: Magazine a6_mag_aa12_24rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_12gaPellets or Ammo_12gaSlug or Ammo_12gaRubberSlug or Ammo_12gaBeanbag) does not exist in market. The magazine will be empty when bought.
+
+
+------------------------------------
+SERVER, 2025-12-16
+00:00:41.744 [WARNING] :: Market configuration warning: Magazine a6_mag_rugermarkiv_10rnd has no specified ammo attachment, and the magazine's default ammo (Ammo_22) does not exist in market. The magazine will be empty when bought.

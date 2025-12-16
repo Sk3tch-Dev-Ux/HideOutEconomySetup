@@ -1,0 +1,16 @@
+{
+    "version": 0,
+    "steamid": "76561199696969593",
+    "name": "NightMan",
+    "selectedTitle": "",
+    "achievements": [
+        "inventory"
+    ],
+    "trigger": {
+        "distance:walk": 3,
+        "kill:zombie": 7,
+        "inventory:open": 1
+    },
+    "moneyToClaim": 0,
+    "rewardPresetsToClaim": []
+}

@@ -1,0 +1,12 @@
+{
+  "ConfigVersion": 28,
+  "ID": 5,
+  "ObjectiveType": 11,
+  "ObjectiveText": "Craft the fireplace",
+  "TimeLimit": -1,
+  "ItemNames": [
+    "Fireplace"
+  ],
+  "ExecutionAmount": 1,
+  "Active": 1
+}

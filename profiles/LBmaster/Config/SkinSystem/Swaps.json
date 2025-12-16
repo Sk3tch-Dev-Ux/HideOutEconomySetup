@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Tier3",
+        "items": [
+            "SVD",
+            "M249",
+            "FAL"
+        ],
+        "targetGroups": [
+            "Tier2"
+        ]
+    },
+    {
+        "name": "Tier2",
+        "items": [
+            "M4A1",
+            "-M4A1_Black",
+            "-M4A1_Green",
+            "AK74",
+            "Aug"
+        ],
+        "targetGroups": [
+            "Tier1"
+        ]
+    },
+    {
+        "name": "Tier1",
+        "items": [
+            "Mosin9130",
+            "Ruger1022",
+            "Winchester70",
+            "B95"
+        ],
+        "targetGroups": []
+    },
+    {
+        "name": "DryBags",
+        "items": [
+            "+DryBag_ColorBase"
+        ],
+        "targetGroups": []
+    },
+    {
+        "name": "AliceBags",
+        "items": [
+            "+AliceBag_ColorBase"
+        ],
+        "targetGroups": []
+    },
+    {
+        "name": "Vest_High",
+        "items": [
+            "+PlateCarrierVest"
+        ],
+        "targetGroups": [
+            "Vest_Medium"
+        ]
+    },
+    {
+        "name": "Vest_Medium",
+        "items": [
+            "PressVest_Blue",
+            "PoliceVest"
+        ],
+        "targetGroups": [
+            "Vest_Medium_Low"
+        ]
+    },
+    {
+        "name": "Vest_Medium_Low",
+        "items": [
+            "HighCapacityVest_Black",
+            "HighCapacityVest_Olive"
+        ],
+        "targetGroups": [
+            "Vest_Low"
+        ]
+    },
+    {
+        "name": "Vest_Low",
+        "items": [
+            "SmershVest",
+            "UKAssVest_Camo",
+            "UKAssVest_Black",
+            "UKAssVest_Khaki",
+            "UKAssVest_Olive"
+        ],
+        "targetGroups": []
+    }
+]

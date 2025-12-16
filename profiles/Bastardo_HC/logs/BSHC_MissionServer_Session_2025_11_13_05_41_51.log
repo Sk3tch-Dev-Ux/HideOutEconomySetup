@@ -1,0 +1,42 @@
+2025-11-13 05:41:51 [INFO] OnInit - Initializing Bastardos Hacked Crates System...
+2025-11-13 05:41:51 [INFO] OnInit - Loading Hacked Crate Loot Configuration (loot_pools.json)...
+2025-11-13 05:41:51 [INFO] [BSHCLootPoolConfig] Found loot_pools.json at: $profile:\Bastardo_HC\loot_pools.json
+2025-11-13 05:41:51 [INFO] [BSHCLootPoolConfig] JsonLoadFile executed. Loaded 2 categories defined in the root.
+2025-11-13 05:41:51 [INFO] [BSHCLootPoolConfig] Category 'DefaultArmaments' has 1 loot pools.
+2025-11-13 05:41:51 [INFO] [BSHCLootPoolConfig] Category 'DefaultMedical' has 1 loot pools.
+2025-11-13 05:41:51 [INFO] OnInit - Hacked Crate Loot Configuration processed successfully.
+2025-11-13 05:41:51 [INFO] OnInit - Loading Hacked Crate settings (global, static, dynamic)...
+2025-11-13 05:41:51 [INFO] CrateManagement instance created with default grace period and tick interval.
+2025-11-13 05:41:51 [INFO] [BSHCGlobalServerSettings] Loading from: $profile:\Bastardo_HC\BS_Global_settings.json
+2025-11-13 05:41:51 [INFO] [CrateConfigManager] Re-saved static_crates.json to include any new options.
+2025-11-13 05:41:51 [INFO] [CrateConfigManager] Re-saved dynamic_crates.json to include any new options.
+2025-11-13 05:41:51 [INFO] [CrateConfigManager] Static CrateManagement has been set.
+2025-11-13 05:41:51 [INFO] CrateSpawner instance created.
+2025-11-13 05:41:51 [INFO] OnInit - Crate Spawner created. Grace Period: 5 minutes. Periodic Tick: 3600 seconds.
+2025-11-13 05:41:51 [INFO] OnInit - Bastardos Hacked Crates System Initialization sequence finished.
+2025-11-13 05:41:58 [INFO] OnMissionStart - Server mission started. Scheduling Hacked Crate cleanup and initial spawn setup.
+2025-11-13 05:41:58 [INFO] OnMissionStart - Immediate STATIC Crate spawn scheduled in 15 seconds.
+2025-11-13 05:41:58 [INFO] OnMissionStart - Initial DYNAMIC Crate spawn scheduled in approx. 320 seconds.
+2025-11-13 05:41:58 [INFO] OnMissionStart - Scheduling first PERIODIC Crate Spawn Tick in approx. 3600 seconds.
+2025-11-13 05:42:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-11-13 05:42:16 [INFO] OnStoreLoad: m_ConfigUniqueID_Persist set from storage to: 'DefaultDynamicEvent_Example1' for BS_Hacked_Crate<2991594>
+2025-11-13 05:42:16 [INFO] OnStoreLoad: FINISHED loading raw data into member variables for BS_Hacked_Crate<2991594>
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2991594>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-11-13 05:42:42 [INFO] GetCrateSettings: m_CrateSettings_Instance is NULL for BS_Hacked_Crate<2991594>. Calling AttemptToReacquireSettings().
+2025-11-13 05:42:42 [INFO] HackedCrate_Base (BS_Hacked_Crate): Attempting to re-acquire CrateSettings. Persisted ConfigUniqueID is: 'DefaultDynamicEvent_Example1'
+2025-11-13 05:42:42 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-11-13 05:42:42 [INFO] HackedCrate_Base (BS_Hacked_Crate): Successfully re-acquired CrateSettings by persisted ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2991594>.
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2991594>.
+2025-11-13 05:42:42 [INFO] EXP_DEBUG: Inside CreateExpansionMapMarker for BS_Hacked_Crate.UseExpansionMapMarker is true.
+2025-11-13 05:42:42 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION is NOT defined. No Expansion marker will be created.
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: AG DEBUG for BS_Hacked_Crate<2991594>
+2025-11-13 05:42:42 [INFO] BSHC_AG_DEBUG: BSHC_CreateAdvancedGroupsMapMarker call.
+2025-11-13 05:42:42 [INFO] BSHC_AG_DEBUG: Final Marker Name: '#STR_BSHC_HackedCrate_DisplayName'
+2025-11-13 05:42:42 [INFO] BSHC_AG_DEBUG: Trying to create AG marker with name: #STR_BSHC_HackedCrate_DisplayName, Pos: <4732.430176, 338.968994, 10350.200195>, Icon: BS_HackedCrate/gui/iconcrate.paa, Color: -65536, ShowOnMap: true, ShowInWorld: true
+2025-11-13 05:42:42 [INFO] BSHC_AG_DEBUG: LBStaticMarkerManager.Get is accessible.
+2025-11-13 05:42:42 [INFO] BSHC_AG_DEBUG: Created AG marker (UID: 1894900217) for BS_Hacked_Crate
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2991594> is: false
+2025-11-13 05:42:42 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2991594>
+2025-11-13 05:42:42 [INFO] DeferredEEInitLogic: Re-added persistent crate BS_Hacked_Crate to g_ActiveHackedCrates list.

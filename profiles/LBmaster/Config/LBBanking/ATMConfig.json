@@ -1,0 +1,52 @@
+{
+    "version": 9,
+    "importFromDeadcraftBanking": 0,
+    "importFromKRBanking": 0,
+    "importFromTraderPlusBanking": 0,
+    "personalATMAccountEnabled": 1,
+    "personalATMAccountMaxMoney": 5000000,
+    "personalATMStartMoney": 50000,
+    "transactionDelayMS": 2000,
+    "paycheckAmount": 5000,
+    "paycheckIntervalMinutes": 45,
+    "paycheckMultiplier": 1,
+    "paycheckMultiplierEnd": 0,
+    "disableToPlayerTransfer": 0,
+    "obfuscatePlayerNames": 0,
+    "transferFeeBase": 100,
+    "transferFeePercent": 2.5,
+    "hintRobAmount": 0,
+    "markRobbedATMOnMap": 1,
+    "timeoutAllGroupMembers": 1,
+    "icon": "LBmaster_Groups_ATM/gui/icons/iconDollar.paa",
+    "robmarkerName": "ATM Robbed by $PLAYERNAME$",
+    "robmarkerIcon": "LBmaster_Groups_ATM/gui/icons/gun.paa",
+    "notifyAllPlayersWhenATMIsRobbed": 1,
+    "maxATMRobbedConcurrently": 2,
+    "minPlayersOnlineToStartRobbing": 1,
+    "robbingReminderFrequencyMinutes": 5,
+    "robbingReminderNotificationMessage": "#lb_eb_message_rob_reminder",
+    "robbingStartNotificationMessage": "#lb_eb_message_rob_start",
+    "robbingFinishedNotificationMessage": "#lb_eb_message_rob_finished",
+    "canChooseNewRobber": 1,
+    "robAmountHints": [
+        {
+            "minMoney": 0,
+            "description": "Low"
+        },
+        {
+            "minMoney": 7500,
+            "description": "Medium"
+        },
+        {
+            "minMoney": 15000,
+            "description": "High"
+        }
+    ],
+    "belowValuesOnlyApplyWhenUsing_AdvancedGroups_Mod": 1,
+    "groupATMAccountEnabled": 1,
+    "groupATMCreationCost": 50000,
+    "groupATMAccountBaseMoney": 10000000,
+    "groupATMAccountPerPlayer": 0,
+    "groupATMMinPlayers": 2
+}

@@ -1,0 +1,1166 @@
+[
+    {
+        "version": 5,
+        "classname": "LB_ATM_3_Black",
+        "position": [
+            3691.52587890625,
+            402.0,
+            5983.22021484375
+        ],
+        "orientation": [
+            249.0306396484375,
+            0.0,
+            0.0
+        ],
+        "robPosition": "GM 1",
+        "canDepositMoney": 1,
+        "canWithdrawMoney": 1,
+        "maxRobbingDistance": 0.0,
+        "spawnChance": 1.0,
+        "canBeRobbed": 0,
+        "spawnRobbedMoneyAtATM": 0,
+        "notifyAllPlayersWhenThisATMIsRobbed": 0,
+        "robbingConfig": [],
+        "minutesLockedAfterRobbing": 0,
+        "minutesNotRobbableAfterRobbing": 0,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 0,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1883355,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 0,
+        "staticMaxRobbedCash": 0,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_3_Black",
+        "position": [
+            8205.5048828125,
+            470.0951232910156,
+            9048.3271484375
+        ],
+        "orientation": [
+            156.17144775390626,
+            0.0,
+            0.0
+        ],
+        "robPosition": "ALTAR 2",
+        "canDepositMoney": 1,
+        "canWithdrawMoney": 1,
+        "maxRobbingDistance": 0.0,
+        "spawnChance": 1.0,
+        "canBeRobbed": 0,
+        "spawnRobbedMoneyAtATM": 0,
+        "notifyAllPlayersWhenThisATMIsRobbed": 0,
+        "robbingConfig": [],
+        "minutesLockedAfterRobbing": 0,
+        "minutesNotRobbableAfterRobbing": 0,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 0,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1305046,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 0,
+        "staticMaxRobbedCash": 0,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_3_Black",
+        "position": [
+            3710.4912109375,
+            402.0,
+            5962.603515625
+        ],
+        "orientation": [
+            159.59579467773438,
+            0.0,
+            0.0
+        ],
+        "robPosition": "GM 2",
+        "canDepositMoney": 1,
+        "canWithdrawMoney": 1,
+        "maxRobbingDistance": 0.0,
+        "spawnChance": 1.0,
+        "canBeRobbed": 0,
+        "spawnRobbedMoneyAtATM": 0,
+        "notifyAllPlayersWhenThisATMIsRobbed": 0,
+        "robbingConfig": [],
+        "minutesLockedAfterRobbing": 0,
+        "minutesNotRobbableAfterRobbing": 0,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 0,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1080836,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 0,
+        "staticMaxRobbedCash": 0,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            2700.105224609375,
+            211.07794189453126,
+            5597.64111328125
+        ],
+        "orientation": [
+            278.74884033203127,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Zelenogorsk",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 1763915659,
+        "lastRobTime": 1763915659,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 959000,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [
+            {
+                "steamid": "76561199032441806",
+                "name": "$kizo",
+                "lastTime": 1763915659
+            }
+        ],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            6877.3662109375,
+            7.388597011566162,
+            3095.14306640625
+        ],
+        "orientation": [
+            141.9173583984375,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Chernogorsk",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076800,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            3001.169189453125,
+            342.5813293457031,
+            7480.36474609375
+        ],
+        "orientation": [
+            227.32537841796876,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Pustoshka",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076800,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            9517.279296875,
+            5.67423677444458,
+            2001.648681640625
+        ],
+        "orientation": [
+            275.36871337890627,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Elektro",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076800,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            3669.290283203125,
+            311.6070251464844,
+            8999.8115234375
+        ],
+        "orientation": [
+            220.65577697753907,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Vybor",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 1764779392,
+        "lastRobTime": 1764779392,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076800,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            13370.421875,
+            4.675160884857178,
+            6614.16650390625
+        ],
+        "orientation": [
+            73.73783111572266,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Solnechny",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            1124.544189453125,
+            5.63885498046875,
+            2417.278564453125
+        ],
+        "orientation": [
+            157.05313110351563,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Tikhiyzaliv",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            10119.125,
+            229.62754821777345,
+            5202.39697265625
+        ],
+        "orientation": [
+            58.041168212890628,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Staroye",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            5865.24560546875,
+            9.295595169067383,
+            2211.680419921875
+        ],
+        "orientation": [
+            167.13671875,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Balota",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            12979.927734375,
+            6.172198295593262,
+            10081.4638671875
+        ],
+        "orientation": [
+            100.005859375,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Berezino",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            10748.361328125,
+            144.4515838623047,
+            10780.890625
+        ],
+        "orientation": [
+            297.835205078125,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Dubrovka",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            13571.9775390625,
+            34.33509826660156,
+            13303.65625
+        ],
+        "orientation": [
+            312.7789306640625,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Svetloyarsk",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 1764260647,
+        "lastRobTime": 1764260647,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1029156,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [
+            {
+                "steamid": "76561199760628699",
+                "name": "TootieBad88",
+                "lastTime": 1764260647
+            }
+        ],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            12979.9248046875,
+            6.172198295593262,
+            10081.4521484375
+        ],
+        "orientation": [
+            100.3886947631836,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Berezino",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            10444.6669921875,
+            223.22900390625,
+            8884.5498046875
+        ],
+        "orientation": [
+            151.05198669433595,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Gorka",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            7473.02099609375,
+            121.11390686035156,
+            12660.2177734375
+        ],
+        "orientation": [
+            134.12571716308595,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Severograd",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 1764891634,
+        "lastRobTime": 1764891634,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            4729.29833984375,
+            281.90093994140627,
+            6389.3408203125
+        ],
+        "orientation": [
+            161.10858154296876,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Pogorevka",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            4350.86767578125,
+            176.8661346435547,
+            13082.9296875
+        ],
+        "orientation": [
+            221.75538635253907,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Novaya Petrovka",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            302.7873229980469,
+            295.03704833984377,
+            9400.9287109375
+        ],
+        "orientation": [
+            121.74755859375,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Tri Kresta",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            3029.799072265625,
+            209.6426239013672,
+            12654.6962890625
+        ],
+        "orientation": [
+            271.5311279296875,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Topolniki",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            5858.51123046875,
+            277.7300109863281,
+            10114.34375
+        ],
+        "orientation": [
+            231.51220703125,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Grishino",
+        "canDepositMoney": 0,
+        "canWithdrawMoney": 0,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076600,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 25000,
+        "staticMaxRobbedCash": 75000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Green",
+        "position": [
+            5500.31005859375,
+            480.533935546875,
+            14995.66015625
+        ],
+        "orientation": [
+            256.31146240234377,
+            0.0,
+            0.0
+        ],
+        "robPosition": "North BM",
+        "canDepositMoney": 1,
+        "canWithdrawMoney": 1,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 1764251441,
+        "lastRobTime": 1764251441,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 943772,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 100000,
+        "staticMaxRobbedCash": 250000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [
+            {
+                "steamid": "76561199760628699",
+                "name": "TootieBad88",
+                "lastTime": 1764251441
+            }
+        ],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_Orange",
+        "position": [
+            13462.80859375,
+            81.11041259765625,
+            3327.353515625
+        ],
+        "orientation": [
+            25.09923553466797,
+            0.0,
+            0.0
+        ],
+        "robPosition": "South BM",
+        "canDepositMoney": 1,
+        "canWithdrawMoney": 1,
+        "maxRobbingDistance": 10.0,
+        "spawnChance": 0.25,
+        "canBeRobbed": 1,
+        "spawnRobbedMoneyAtATM": 1,
+        "notifyAllPlayersWhenThisATMIsRobbed": 1,
+        "robbingConfig": [
+            {
+                "requiredRobbingItem": "Crowbar",
+                "robbingItemDamage": 100.0,
+                "robbingTimeMinutes": 15
+            }
+        ],
+        "minutesLockedAfterRobbing": 10,
+        "minutesNotRobbableAfterRobbing": 60,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
+        "lastLockedTimestamp": 1762594331,
+        "lastRobTime": 1762594331,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1076400,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 100000,
+        "staticMaxRobbedCash": 250000,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 0
+    },
+    {
+        "version": 5,
+        "classname": "LB_ATM_3_Black",
+        "position": [
+            8166.30712890625,
+            474.0400085449219,
+            9079.5341796875
+        ],
+        "orientation": [
+            242.24964904785157,
+            0.0,
+            0.0
+        ],
+        "robPosition": "Altar Atm",
+        "canDepositMoney": 1,
+        "canWithdrawMoney": 1,
+        "maxRobbingDistance": 0.0,
+        "spawnChance": 1.0,
+        "canBeRobbed": 0,
+        "spawnRobbedMoneyAtATM": 0,
+        "notifyAllPlayersWhenThisATMIsRobbed": 0,
+        "robbingConfig": [],
+        "minutesLockedAfterRobbing": 0,
+        "minutesNotRobbableAfterRobbing": 0,
+        "minutesRobberNeedsToWaitBeforeRobbingAgain": 0,
+        "lastLockedTimestamp": 0,
+        "lastRobTime": 0,
+        "useDepositedCashToCalculateRobbedMoney": 0,
+        "cashDeposited": 1070243,
+        "depositedCashIncreasePerMin": 20,
+        "robbedDepositedCashPercent": 0.10000000149011612,
+        "maxMoneyRobbedFromDepositedMoney": 20000,
+        "staticMinRobbedCash": 0,
+        "staticMaxRobbedCash": 0,
+        "robbingRewardPreset": "",
+        "needCreditCard": 0,
+        "lastRobbers": [],
+        "spawned": 1
+    }
+]

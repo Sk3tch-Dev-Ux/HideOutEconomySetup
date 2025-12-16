@@ -1,0 +1,12 @@
+{
+  "ConfigVersion": 28,
+  "ID": 2,
+  "ObjectiveType": 11,
+  "ObjectiveText": "Craft the Homemade C4",
+  "TimeLimit": -1,
+  "ItemNames": [
+    "HDSN_BreachingCharge"
+  ],
+  "ExecutionAmount": 1,
+  "Active": 1
+}
