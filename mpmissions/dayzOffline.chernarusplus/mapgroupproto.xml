@@ -12779,6 +12779,7 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
+						<category name="helicrash" />
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="1.357636 -1.856922 2.039550" range="0.185402" height="1.756649" flags="32" />
