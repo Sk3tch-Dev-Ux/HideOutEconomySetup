@@ -1,294 +1,141 @@
-# 🔒 The Hideout Economy
+# A6 Balanced Loot System  
+### Major Progression & Economy Update
 
-## 📘 Overview
-The Hideout Economy is a **tiered, progression-based system** designed to control gear flow, promote risk vs reward gameplay, and encourage PvP, events, and raiding.  
-Safezones provide stability and mid-tier access, while **endgame power is locked behind Black Market access, events, and high-risk activities**.
-
----
-
-## 📦 Mods Included
-
-- [x] Expansion Market & Quests  
-- [x] LBMasters Airdrops & Loot Chests (stashes / lootable objects)  
-- [x] King of the Hill (KOTH)  
-- [x] Hacked Crates  
-- [x] A6 DoorLock System  
-- [ ] LBMaster LootChests integration for A6 crates (planned)  
-- [x] Item Rarity System  
-- [x] Codelock  
-- [x] Breaching Charges  
-- [x] Cannabis Plus  
-- [x] Collectibles Plus  
-- [x] A6 Weapons  
-- [x] Forward Operator Gear  
-- [x] Paragon Storage  
+This update introduces a **fully redesigned, tier-based loot system** for all A6 weapons and supporting equipment.  
+The goal is to create **clear progression**, **fair engagements**, and **meaningful high-end loot**, while eliminating early-game power spikes and late-game meta abuse.
 
 ---
 
-## 🛡️ Armor Tier System
+## What’s New
 
-- **T2 Armor**
-  - Damage Reduction: **80%**
-  - Available in: **Safezones**
+### ✔ Tier-Based Loot Progression
+All weapons, magazines, ammunition, optics, and attachments are now organized into **five distinct tiers** based on power and availability.
 
-- **T3 Armor**
-  - Damage Reduction: **84%**
-  - Available in: **Safezones (highest tier there)**
-
-- **T4 Armor**
-  - Damage Reduction: **90%**
-  - Available in: **Black Market only**
-  - Not directly purchasable elsewhere
+This ensures:
+- Early survival gear is accessible
+- Military hardware requires exploration
+- End-game weapons feel rare and earned
 
 ---
 
-## 🔫 Ammo Tier Progression
+## Tier Overview
 
-Ordered from **lowest → highest power**:
+### Tier 1 – Civilian (Common)
+**Where:** Towns, villages, farms, hunting locations  
 
-1. 5.45×45  
-2. 7.62×39  
-3. 5.56×45  
-4. 7.62×54  
-5. .308  
-6. .338 (**highest caliber**)
+- Basic pistols and civilian rifles
+- Civilian pistol magazines
+- Common 9×19 ammunition
+- Basic hunting optics
 
-Notes:
-- .308 is available in **Safezones**
-- .338 is restricted to **Black Market & high-risk content**
+**What this means:**  
+You’ll always be able to arm yourself early, but without overwhelming firepower.
 
 ---
 
-## 🚗 Vehicles & Helicopters
+### Tier 2 – Police (Uncommon)
+**Where:** Police stations (limited military overlap)
 
-### Vehicles
-- Purchasable at **any Safezone**
-- Intended for general mobility and economy flow
+- Police pistols and entry-level SMGs
+- Police-grade magazines
+- Police calibers (5.7×28, 4.6×30, .50 AE)
+- Red dot and holo sights
 
-### Helicopters
-- Purchasable **only at Balota**
-- Balota is **NOT a Safezone**
-- Designed to force PvP risk for air dominance
-
----
-
-## 🟢 Safezone Economy
-
-Safezones provide **everything except endgame gear**.
-
-- Clothing  
-- Base building supplies  
-- Medical items  
-- Tools  
-- Vehicles  
-- Storage  
-- Up to **T3 armor**
-- Up to **.308 weapons**
-
-**Not Available in Safezones:**
-- T4 armor  
-- .338 weapons  
-- Raiding supplies  
+**What this means:**  
+Police locations now act as a true **mid-game bridge** between civilian and military gear.
 
 ---
 
-## 🔴 Black Market Economy
+### Tier 3 – Military (Rare)
+**Where:** Military bases and installations
 
-High-risk, endgame-focused, **restricted access**.
+- Standard military assault rifles
+- Military SMGs and marksman rifles
+- Standard military magazines
+- Core rifle ammunition (5.45, 5.56, 7.62×54R)
+- Military optics and tactical attachments
 
-- T4 armor  
-- .338 sniper rifles  
-- LMGs  
-- Outlier weapons:
-  - MCX Spear  
-  - Beowulf  
-  - AK50  
-  - Other unique weapons  
-- Raiding supplies (non-purchasable elsewhere)  
-- Weed supplies  
-  - Bricks are **sell-only**  
-- Collectibles (**sell-only**)  
-- Dogtags  
+**What this means:**  
+Military areas are your primary source for combat-ready gear — but not end-game dominance.
 
 ---
 
-## 🎯 Design Intent Checklist
+### Tier 4 – Elite Military (Very Rare)
+**Where:** High-tier military zones
 
-- [x] Safezones = stability & progression  
-- [x] Black Market = power & risk  
-- [x] Events drive conflict (KOTH, Airdrops, Hacked Crates)  
-- [x] Raiding is the only source of certain items  
-- [x] Economy discourages hoarding & early endgame  
+- Battle rifles and elite SMGs
+- Suppressed weapons
+- Precision rifles
+- Extended and elite magazines
+- Advanced optics and suppressors
 
----
-
-
-# 🎁 Drop Tables per Event Type
-
-## 📘 Core Philosophy
-- Safezones provide **no event drops**
-- Events drive **gear progression**
-- Black Market remains the **endgame endpoint**
-- No single event drops everything
-- T4 armor and .338 never come from low-risk events
+**What this means:**  
+These items are powerful, rare, and intentionally difficult to acquire.
 
 ---
 
-## 🟡 Tier Definitions (Global Reference)
+### Tier 5 – Legendary
+**Where:** Contaminated zones, helicopter crashes, Tier-4 military areas
 
-| Tier | Description | Primary Source |
-|---|---|---|
-| T1 | Basic survival & economy items | World / Safezone |
-| T2 | Mid-tier combat & armor | Events |
-| T3 | High-tier combat | Major Events |
-| T4 | Endgame gear | Black Market / PvP Only |
+- .50 caliber sniper rifles
+- Heavy LMGs
+- LMG belts and anti-materiel ammunition
+- Top-tier sniper optics
+- Legendary suppressors
 
----
-
-## 🟠 Airdrops (LBMasters)
-
-**Risk Level:** Medium  
-**PvP Focus:** Medium  
-**Purpose:** Early → Mid progression & map movement
-
-### Drop Table
-| Category | Items | Chance |
-|---|---|---|
-| Weapons | A6 standard rifles, SMGs | 45% |
-| Ammo | 5.45×45, 5.56×45, 7.62×39 | 70% |
-| Armor | T2 armor pieces | 30% |
-| Medical | Blood bags, injectors, kits | 60% |
-| Economy | Cash, valuables | 50% |
-| Utility | Attachments, optics | 40% |
-
-**Restrictions**
-- No T4 armor
-- No .338
-- No LMGs
-- No raid supplies
+**What this means:**  
+These weapons define the end-game and are **never common**.
 
 ---
 
-## 🔵 Loot Stashes / World Chests
+## Ammunition Rebalance
 
-**Risk Level:** Low  
-**PvP Focus:** Low  
-**Purpose:** Exploration & passive income
+Ammunition now follows the same tier structure as weapons:
+- Common ammo is widely available
+- Military ammo is restricted to military zones
+- Exotic and anti-materiel rounds are end-game only
 
-### Drop Table
-| Category | Items | Chance |
-|---|---|---|
-| Ammo | 5.45×45, 7.62×39 | 60% |
-| Gear | Clothing, backpacks | 50% |
-| Medical | Bandages, saline | 40% |
-| Economy | Small cash, collectibles | 30% |
-
-**Restrictions**
-- No armor above T2
-- No weapons above basic rifles
+This prevents high-power weapons from being sustained too easily.
 
 ---
 
-## 🔴 King of the Hill (KOTH)
+## Optics & Attachments
 
-**Risk Level:** High  
-**PvP Focus:** Very High  
-**Purpose:** Competitive PvP rewards
-
-### Drop Table
-| Category | Items | Chance |
-|---|---|---|
-| Weapons | A6 high-tier rifles | 70% |
-| Ammo | 7.62×54, .308 | 60% |
-| Armor | T3 armor | 45% |
-| Attachments | Suppressors, high optics | 50% |
-| Economy | Large cash, dogtags | 70% |
-| Rare | LMGs | 10% |
-
-**Restrictions**
-- No T4 armor
-- No .338
+- Basic optics appear early and often
+- Military-grade optics require military travel
+- Precision and sniper optics are restricted to high-tier zones
+- Suppressors are intentionally rare
+- Large-caliber suppressors are legendary only
 
 ---
 
-## 🟣 Hacked Crates
+## Balance Philosophy
 
-**Risk Level:** Very High  
-**PvP Focus:** Extreme  
-**Purpose:** Endgame chase content
+### Fair Progression
+- Civilian → Police → Military → Elite → Legendary
+- Power increases with risk and exploration
 
-### Drop Table
-| Category | Items | Chance |
-|---|---|---|
-| Weapons | Outlier weapons | 40% |
-| Ammo | .308 | 70% |
-| Armor | T3 armor | 50% |
-| Rare Weapons | LMGs | 20% |
-| Economy | Dogtags, high cash | 80% |
-| Raid Items | Breaching charges | 25% |
+### Anti-Meta Design
+- LMGs are legendary tier only
+- Suppressed weapons are rare by design
+- High-capacity magazines require effort
 
-**Restrictions**
-- No T4 armor
-- No .338 (Black Market exclusive)
+### Economy Stability
+- Controlled spawn counts
+- Timed restock cycles
+- No early-wipe dominance
 
 ---
 
-## ⚫ Black Market Crates (Optional)
+## What This Means for Players
 
-**Risk Level:** Extreme  
-**PvP Focus:** Extreme  
-**Purpose:** Controlled endgame access
+- Loot progression feels natural and rewarding
+- High-end gear is valuable again
+- PvP encounters are more balanced
+- Exploration and map knowledge matter
 
-### Drop Table
-| Category | Items | Chance |
-|---|---|---|
-| Armor | T4 armor | 35% |
-| Weapons | .338 sniper rifles | 25% |
-| Ammo | .338 | 40% |
-| Rare | Unique variants | 15% |
-| Economy | Dogtags | 100% |
-
-**Notes**
-- Very limited spawn rate
-- High-contest zones only
+This update lays the foundation for a **long-term, healthy loot economy**.
 
 ---
 
-## 🟢 Raiding (Player-Driven)
-
-**Risk Level:** Player-controlled  
-**PvP Focus:** Organic  
-**Purpose:** Economic redistribution
-
-### Possible Rewards
-- Stored Black Market gear
-- Weed bricks (sell-only)
-- Collectibles
-- Dogtags
-- Breaching charges (recovery only)
-
----
-
-## 🧠 Balance Safeguards
-
-- T4 armor never drops from events
-- .338 never drops from KOTH
-- LMGs capped at ≤20% drop chance
-- Economy sinks reinforced via:
-  - Dogtags
-  - Sell-only collectibles
-  - Weed bricks
-
----
-
-## ✅ Event-to-Tier Flow (Quick Reference)
-
-| Event Type | Max Armor Tier | Max Ammo Tier |
-|---|---|---|
-| Airdrops | T2 | 5.56 |
-| Loot Stashes | T2 | 7.62×39 |
-| KOTH | T3 | .308 |
-| Hacked Crates | T3 | .308 |
-| Black Market | T4 | .338 |
-
----
+*Thank you for playing and helping us shape the server.*
